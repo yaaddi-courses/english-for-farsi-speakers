@@ -50,7 +50,7 @@ def find_media_file(source_dir, filename):
     return None
 
 
-def collect_referenced_filenames(meta_rows, unit_rows, card_rows):
+def collect_referenced_filenames(meta_rows, unit_rows, card_rows, pronunciation_rows=()):
     names = set()
     for row in meta_rows:
         if (row.get("image") or "").strip():
@@ -65,6 +65,9 @@ def collect_referenced_filenames(meta_rows, unit_rows, card_rows):
             value = (row.get(col) or "").strip()
             if value:
                 names.add(value)
+    for row in pronunciation_rows:
+        if (row.get("audio") or "").strip():
+            names.add(row["audio"].strip())
     return sorted(names)
 
 
@@ -97,6 +100,12 @@ def main():
         with open(glossary_path, encoding="utf-8-sig") as f:
             glossary_text = f.read()
 
+    pronunciations_path = os.path.join(source_dir, "pronunciations.csv")
+    pronunciations_text = None
+    if os.path.isfile(pronunciations_path):
+        with open(pronunciations_path, encoding="utf-8-sig") as f:
+            pronunciations_text = f.read()
+
     meta_rows = read_csv_text(meta_text)
     if not meta_rows or not (meta_rows[0].get("slug") or "").strip():
         print("source/meta.csv is missing a \"slug\" column/value.", file=sys.stderr)
@@ -108,7 +117,10 @@ def main():
         sys.exit(1)
 
     referenced = collect_referenced_filenames(
-        meta_rows, read_csv_text(units_text), read_csv_text(cards_text)
+        meta_rows,
+        read_csv_text(units_text),
+        read_csv_text(cards_text),
+        read_csv_text(pronunciations_text) if pronunciations_text else (),
     )
     missing = []
     resolved = {}
@@ -133,11 +145,14 @@ def main():
         zf.writestr("cards.csv", cards_text)
         if glossary_text is not None:
             zf.writestr("glossary.csv", glossary_text)
+        if pronunciations_text is not None:
+            zf.writestr("pronunciations.csv", pronunciations_text)
         for filename, path in resolved.items():
             zf.write(path, filename)
 
     size_kb = round(os.path.getsize(out_path) / 1024)
     glossary_note = " + glossary.csv" if glossary_text is not None else ""
+    glossary_note += " + pronunciations.csv" if pronunciations_text is not None else ""
     print(
         f"Wrote {out_path} ({size_kb} KB — meta/units/cards.csv{glossary_note} + {len(resolved)} media file(s))",
         file=sys.stderr,

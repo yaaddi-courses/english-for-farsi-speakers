@@ -4,7 +4,7 @@
   "description": "Practical, real-world English for Farsi speakers who want to travel and get by in everyday situations — greetings, airports, hotels, food, shopping, small talk, and handling problems. No grammar drills, no exam prep, just the phrases you'd actually use.",
   "image": "cover.png",
   "file": "english-for-farsi-speakers.zip",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "language": "fa",
   "titleTranslations": {
     "fa": "انگلیسی برای فارسی‌زبان‌ها"
@@ -20,9 +20,19 @@
   ],
   "changelog": [
     {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "date": "2026-08-27",
       "notes": "Initial release: 18 decks of practical travel/communication English for Farsi speakers, using speech-recognition and listening/dictation cards alongside the usual tap-based types, with every card's English text played aloud automatically."
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-09-21",
+      "notes": "Every English phrase now ships with a recorded voice (pronunciations.csv), so pronunciation plays automatically and from the speaker icon on every phone, even ones with no text-to-speech engine."
+    },
+    {
+      "version": "1.3.0",
+      "date": "2026-09-22",
+      "notes": "Added source/glossary.csv (168 terms, extracted from each pack's own true_false preview statement) — every course now ships a glossary, per the flashcard-course-creator skill's updated rule."
     }
   ],
   "toc": [

@@ -1,0 +1,169 @@
+term,definition,link,introduced_by_card_id
+Hello,سلام,,9001
+Good morning,صبح بخیر,,9006
+How are you?,حال شما چطور هست؟,,9012
+I want,می‌خواهم,,12997
+I'm fine,خوبم,,9017
+I'm good,حالم خوب است,,9023
+I'm tired,خسته‌ام,,9029
+a,یک,,13004
+And you?,تو چی؟,,9038
+Please,لطفاً,,9045
+Thank you,ممنون,,9050
+Water,آب,,13010
+You're welcome,خواهش می‌کنم,,9057
+Yes,بله,,9064
+No,نه,,9069
+This is,این هست,,13018
+Excuse me,ببخشید,,9074
+Sorry,متاسفم,,9081
+Goodbye,خداحافظ,,9086
+I'm hungry,گرسنه هستم,,13028
+I'm thirsty,تشنه هستم,,13034
+I,من,,9816
+am,هستم,,9821
+My,مال من,,9826
+name,اسم,,9831
+is,هست,,9836
+from,از,,9843
+staying,اقامت,,9850
+in,در,,9855
+Nice to meet you,خوشحالم,,9862
+Passport,پاسپورت,,11540
+Boarding pass,کارت پرواز,,11549
+Where is the,کجا هست,,11557
+Gate,گیت,,11564
+Suitcase,چمدون,,11573
+I need,نیاز دارم,,11581
+Taxi,تاکسی,,11588
+Bus,اتوبوس,,11597
+Straight ahead,مستقیم برو,,11605
+Turn left,به چپ بپیچید,,11612
+Turn right,به راست بپیچید,,11618
+Room,اتاق,,11624
+I have,دارم,,11635
+Reservation,رزرو,,11641
+Key,کلید,,11650
+Broken,خراب است,,11660
+Menu,منو,,11669
+The bill,صورتحساب,,11678
+Delicious,خوشمزه,,11687
+Spicy,تند,,11697
+Sweet,شیرین,,11706
+Sour,ترش,,11717
+Salty,شور,,11726
+Bitter,تلخ,,11736
+Too big,خیلی بزرگ است,,11746
+Too small,خیلی کوچک است,,11755
+Discount,تخفیف,,11764
+Cash,نقد,,11775
+Card,کارت,,11784
+Nice weather,هوای خوب هست,,11794
+I agree,موافقم,,11801
+I disagree,مخالفم,,11807
+No problem,مشکلی نیست,,11813
+Congratulations,تبریک,,11822
+I'm lost,گم شدم,,11828
+Can you help me?,کمکم کن,,11837
+I don't understand,نمی‌فهمم,,11846
+Slower please,آروم‌تر لطفاً,,11852
+Repeat please,تکرار کن لطفاً,,11860
+Bathroom,دستشویی,,11867
+I'm looking for,دنبال ... می‌گردم,,11876
+This address,این آدرس,,11882
+Is it far?,دوره؟,,11892
+SIM card,سیم کارت,,11898
+Wifi password,رمز وای‌فای,,11907
+My phone number,شماره تلفن من,,11917
+Charger,شارژر,,11925
+No signal,آنتن ندارد,,11935
+Battery,باتری,,11942
+Doctor,دکتر,,11948
+Pharmacy,داروخانه,,11958
+It hurts,درد می‌کند,,11968
+I'm sick,مریضم,,11974
+Call an ambulance,آمبولانس خبر کن,,11982
+I'm allergic to,حساسیت دارم به,,11989
+Let's meet,بیایید یکدیگر را ببینیم,,11995
+What time works?,چه ساعتی مناسب؟,,12001
+I'm free,وقت دارم,,12010
+I'm busy,سرم شلوغ هست,,12019
+See you later,بعداً می‌بینمت,,12029
+I like,دوست دارم,,12036
+I don't like,دوست ندارم,,12045
+Help,کمک,,12053
+I can,می‌توانم,,12060
+Understand,می‌فهمم,,12069
+I can't,نمی‌توانم,,12075
+Big,بزرگ,,12086
+Small,کوچک,,12095
+Beautiful,قشنگ,,12105
+Cheap,ارزون,,12115
+Exit,خروجی,,12125
+Entrance,ورودی,,12133
+Caution,احتیاط,,12140
+Delayed,تاخیر دارد,,12146
+Boarding now,پرواز شروع شد,,12156
+Take care,مواظب خودت باش,,12163
+Keep in touch,در تماس باش,,12171
+My email is,ایمیلم این است,,12177
+Thanks for everything,خیلی ممنون,,12187
+One,یک,,12200
+Two,دو,,12205
+Three,سه,,12211
+Four,چهار,,12217
+Five,پنج,,12224
+Six,شش,,12230
+Seven,هفت,,12236
+Eight,هشت,,12243
+Nine,نه,,12249
+Ten,ده,,12255
+Eleven,یازده,,12262
+Twelve,دوازده,,12268
+This,این,,12274
+How much is,چقدر است,,12281
+Too expensive,خیلی گران است,,12290
+Change,پول خرد,,12299
+What time is it?,ساعت چند هست؟,,12306
+It's,ساعت هست,,12312
+o'clock,ساعت,,12318
+half past,و نیم,,12330
+quarter past,و ربع,,12340
+quarter to,ربع به,,12349
+Fifteen,پانزده,,12359
+Twenty,بیست,,12369
+Thirty,سی,,12380
+Forty,چهل,,12392
+Fifty,پنجاه,,12403
+Today,امروز,,12414
+Tomorrow,فردا,,12421
+Yesterday,دیروز,,12427
+Check-in,چک-این,,12874
+Customs,گمرک,,12883
+Baggage claim,تحویل چمدان,,12891
+Check-out,چک-اوت,,12900
+Breakfast,صبحانه,,12907
+I'll have,سفارش می‌دهم,,12915
+Receipt,رسید,,12925
+Try on,امتحان کردن لباس,,12931
+Police,پلیس,,12937
+Good,خوب,,12943
+Bad,بد,,12953
+Hot,داغ,,12961
+Cold,سرد,,12970
+Open,باز,,12979
+Closed,بسته,,12989
+Sixty,شصت,,13042
+Seventy,هفتاد,,13050
+Eighty,هشتاد,,13060
+Ninety,نود,,13068
+Hundred,صد,,13077
+Train,قطار,,13086
+Ticket,بلیط,,13094
+Fire,آتیش,,13103
+Go,رفتن,,13110
+Eat,خوردن,,13119
+Drink,نوشیدن,,13125
+See,دیدن,,13131
+What,چی,,13138
+your,مال تو,,13145
