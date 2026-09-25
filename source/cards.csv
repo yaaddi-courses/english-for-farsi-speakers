@@ -276,7 +276,8 @@ I'm hungry
 Goodbye"
 9090,1,type_answer,exercise,9086,«خداحافظ» به انگلیسی چیست؟ تایپ کنید.,Goodbye,,,,,"Goodbye
 یعنی خداحافظ."
-12437,1,preview_card,preview,12438,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این بخش، شما باید کلمات را در بافت یک مکالمه قرار دهید. به جای تعریف واژه، تمرکز کنید که آن کلمه چطور و در چه موقعیتی استفاده می‌شود.
+12437,1,true_false,preview,12438,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Excuse me",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12438,1,cloze_passage,main,,"Ali: Hello! {{1}}, please.
 Sara: Yes, this is {{2}}.
 Ali: {{3}}! I'm thirsty.",choice|Excuse me~I'm thirsty~Please|I want~water~Hello|Thank you~Please~I'm thirsty,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -289,7 +290,8 @@ Ali: Thank you! I'm thirsty.",choice|I want~Hello~Excuse me|Yes~I'm hungry~Pleas
 12441,1,cloze_passage,exercise,12438,"Ali: Hello! {{1}}, please.
 Sara: Yes, this is {{2}}.
 Ali: {{3}}! I'm thirsty.",word_bank|No~Sorry~Thank you~water~Excuse me|Excuse me~water~Thank you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12527,1,preview_card,preview,12528,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This task requires you to fill in the blanks of a short dialogue using only vocabulary and grammar structures that were taught in this specific lesson.
+12527,1,true_false,preview,12528,"این عبارت در مکالمه‌ی بعدی می‌آید:
+No",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12528,1,cloze_passage,main,,"Ali: Sorry! {{1}}, thank you.
 Sara: {{2}}, this is {{3}}.",choice|Excuse me~Hello~No|Please~Thank you~This is|I'm thirsty~water~This is,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12529,1,cloze_passage,exercise,12528,"Ali: Sorry! {{1}}, thank you.
@@ -298,7 +300,8 @@ Sara: {{2}}, this is {{3}}.",word_bank|Please~water~No~Excuse me~Yes|No~Please~w
 Sara: {{2}}, this is {{3}}.",choice|I'm hungry~No~I want|Please~I want~I'm thirsty|water~This is~Hello,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12531,1,cloze_passage,exercise,12528,"Ali: Sorry! {{1}}, thank you.
 Sara: {{2}}, this is {{3}}.",word_bank|Please~Yes~water~No~Excuse me|No~Please~water,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12532,1,preview_card,preview,12533,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین‌ها به شما کمک می‌کنند تا درک مطلب خود را تقویت کرده و ببینید که چگونه کلمات آموخته شده در یک مکالمه واقعی استفاده می‌شوند.
+12532,1,true_false,preview,12533,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I want",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 13033,1,true_false,preview,13034,"I'm thirsty
 یعنی «تشنه هستم»، درست یا غلط؟",,true,,,,"I'm thirsty
 یعنی تشنه هستم."
@@ -324,7 +327,8 @@ Sara: {{3}}, this is water.",word_bank|Sorry~No~I want~please~Yes|I want~please~
 Sara: {{3}}, this is water.",choice|Water~I want~Sorry|Hello~please~I'm thirsty|Excuse me~Yes~This is,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12536,1,cloze_passage,exercise,12533,"Ali: {{1}} water, {{2}}.
 Sara: {{3}}, this is water.",word_bank|Yes~please~No~I want~Sorry|I want~please~Yes,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12537,1,preview_card,preview,12538,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش‌ها برای سنجش توانایی شما در استفاده عملی از واژگان درس است و باید کلمات را در بافت مکالمه قرار دهید.
+12537,1,true_false,preview,12538,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm hungry",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12538,1,cloze_passage,main,,"Ali: {{1}}! {{2}}.
 Sara: Sorry, no {{3}}.",choice|I want~I'm thirsty~Excuse me|I'm hungry~I want~Thank you|a~Sorry~water,2|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12539,1,cloze_passage,exercise,12538,"Ali: {{1}}! {{2}}.
@@ -333,7 +337,8 @@ Sara: Sorry, no {{3}}.",word_bank|Excuse me~This is~water~Please~I'm hungry|Excu
 Sara: Sorry, no {{3}}.",choice|I'm thirsty~Excuse me~This is|Thank you~a~I'm hungry|water~I'm thirsty~Sorry,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12541,1,cloze_passage,exercise,12538,"Ali: {{1}}! {{2}}.
 Sara: Sorry, no {{3}}.",word_bank|This is~water~I'm hungry~Please~Excuse me|Excuse me~I'm hungry~water,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12542,1,preview_card,preview,12543,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش برای سنجش توانایی شما در استفاده عملی از واژگان است. باید بفهمید که هر کلمه‌ای در مکالمه، نقش خاصی ایفا می‌کند و جای خالی را با آن پر کنید.
+12542,1,true_false,preview,12543,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Hello",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12543,1,cloze_passage,main,,"Ali: {{1}}! I'm thirsty.
 Sara: {{2}} water. {{3}}!",choice|I'm thirsty~I'm hungry~Hello|I'm thirsty~a~This is|Thank you~Water~Sorry,2|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12544,1,cloze_passage,exercise,12543,"Ali: {{1}}! I'm thirsty.
@@ -2254,7 +2259,7 @@ Yesterday"
 12431,4,listening_card,exercise,12427,,select|This|Yesterday|Today,1,,regen34_228.wav,,"عبارتی که شنیدید:
 Yesterday
 (دیروز)"
-12432,10,preview_card,preview,12433,حالا یک مکالمه‌ی کوتاه بین دو نفر می‌خوانید که فقط از کلمات و عبارت‌هایی که تاکنون یاد گرفته‌اید ساخته شده است. سپس چند سؤال درباره‌ی آن پاسخ می‌دهید.,قبول,,,,,این تمرین به شما کمک می‌کنه که بفهمید با کلماتی که تا حالا یاد گرفتید، چطور یه مکالمه‌ی کامل و طبیعی بسازید. هدف اینه که مهارت درک مطلب رو بدون نیاز به واژگان جدید تقویت کنید.
+12432,10,true_false,preview,12433,علی و سارا در مکالمه‌ی بعدی حرف می‌زنند.,,true,,,,مکالمه‌ی بعدی گفت‌وگوی علی و سارا است.
 12433,10,reading_passage,main,,"Ali: Hello! Nice weather today.
 Sara: Yes, thank you. My name is Sara.
 Ali: Nice to meet you, Sara. I'm from Shiraz.
@@ -2282,7 +2287,8 @@ Sara: I'm staying in a hotel. I have a reservation.
 Ali: I'm hungry. Where is the menu?
 Sara: This is the menu. No problem!",علی چی می‌خواد؟|منو|غذا|آب,0,,,,"علی گفت:
 I'm hungry. Where is the menu?"
-12442,2,preview_card,preview,12443,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش برای سنجش توانایی شما در استفاده عملی از واژگان است. باید بفهمید که هر کلمه‌ای در مکالمه، نقش خاصی ایفا می‌کند و جای خالی را با آن پر کنید.
+12442,2,true_false,preview,12443,"این عبارت در مکالمه‌ی بعدی می‌آید:
+My name is",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12443,2,cloze_passage,main,,"Ali: {{1}}! {{2}} Ali.
 Sara: Nice to meet you! {{3}} Tehran.",choice|Hello~I'm thirsty~No|My name is~I'm staying in~Yes|I'm from~I'm staying in~I'm thirsty,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12444,2,cloze_passage,exercise,12443,"Ali: Hello! My name is Ali.
@@ -2291,7 +2297,8 @@ Sara: {{1}}! I'm from Tehran.",word_bank|Nice to meet you~Please~Thank you|Nice 
 Sara: {{1}}! I'm from Tehran.",choice|Hello~Nice to meet you~No,1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12446,2,cloze_passage,exercise,12443,"Ali: {{1}}! {{2}} Ali.
 Sara: Nice to meet you! {{3}} Tehran.",word_bank|My name is~Please~I'm from~Hello~Thank you|Hello~My name is~I'm from,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12447,3,preview_card,preview,12448,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"You'll see a short dialogue with gaps, and you need to fill those blanks using only the vocabulary we learned in this chapter."
+12447,3,true_false,preview,12448,"این عبارت در مکالمه‌ی بعدی می‌آید:
+how much is",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12448,3,cloze_passage,main,,"Ali: Excuse me, {{1}} this?
 Sara: This is ten.
 Ali: {{2}}! I want {{3}}.",choice|how much is~Four~I'm thirsty|Too expensive~Four~a|Please~This~change,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2304,7 +2311,8 @@ Ali: Too expensive! I want change.",choice|Yes~ten~a|This is~No~Three,1|0,,,,ج�
 12451,3,cloze_passage,exercise,12448,"Ali: Excuse me, {{1}} this?
 Sara: This is ten.
 Ali: {{2}}! I want {{3}}.",word_bank|how much is~change~Five~Two~Too expensive|how much is~Too expensive~change,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12452,4,preview_card,preview,12453,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش یک تمرین درک مطلب است که شما باید با توجه به متن، کلمات مناسب را جای خالی قرار دهید تا مکالمه کامل شود.
+12452,4,true_false,preview,12453,"این عبارت در مکالمه‌ی بعدی می‌آید:
+what time is it",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12453,4,cloze_passage,main,,"Ali: Excuse me, {{1}}?
 Sara: It's {{2}} {{3}}.
 Ali: Thank you!",choice|what time is it~Sorry~Change|quarter past~Ten~quarter to|three~I'm hungry~Four,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2317,7 +2325,8 @@ Ali: {{2}}!",choice|Thirty~It's~Nice to meet you|Thank you~I'm hungry~Two,1|0,,,
 12456,4,cloze_passage,exercise,12453,"Ali: Excuse me, {{1}}?
 Sara: It's {{2}} {{3}}.
 Ali: Thank you!",word_bank|quarter past~three~Today~Yesterday~what time is it|what time is it~quarter past~three,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12457,5,preview_card,preview,12458,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"Read the short dialogue and use your knowledge of the lesson's vocabulary to fill in the missing words logically, making sure the conversation makes sense."
+12457,5,true_false,preview,12458,"این عبارت در مکالمه‌ی بعدی می‌آید:
+gate",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12458,5,cloze_passage,main,,"Ali: Excuse me, where is the {{1}}?
 Sara: This is a gate. Thank you!
 Ali: I have a {{2}}. I have a {{3}}.",choice|gate~Twenty~Two|passport~Twenty~I'm staying in|Seven~What time is it?~boarding pass,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2330,7 +2339,8 @@ Ali: I have a passport. I have a boarding pass.",choice|I'm hungry~Excuse me~I'm
 12461,5,cloze_passage,exercise,12458,"Ali: Excuse me, where is the {{1}}?
 Sara: This is a gate. Thank you!
 Ali: I have a {{2}}. I have a {{3}}.",word_bank|passport~Thank you~gate~boarding pass~Suitcase|gate~passport~boarding pass,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12462,6,preview_card,preview,12463,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"When you see a dialogue with blanks, focus on understanding the context; you must choose the word that makes grammatical and logical sense for each missing spot."
+12462,6,true_false,preview,12463,"این عبارت در مکالمه‌ی بعدی می‌آید:
+taxi",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12463,6,cloze_passage,main,,"Ali: Excuse me, I need a {{1}}.
 Sara: {{2}}. This is a taxi.
 Ali: Thank you! Straight ahead?
@@ -2347,7 +2357,8 @@ Sara: No, turn right.",choice|I need~Water~o'clock|Twelve~Straight ahead~Hello,0
 Sara: {{2}}. This is a taxi.
 Ali: Thank you! Straight ahead?
 Sara: No, {{3}}.",word_bank|Thank you~turn right~Bus~Turn left~taxi|taxi~Turn left~turn right,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12467,7,preview_card,preview,12468,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,شما باید کلماتی که در این درس یاد گرفته‌اید را انتخاب کرده و آن‌ها را در جاهای خالی مکالمه قرار دهید تا داستان کامل شود.
+12467,7,true_false,preview,12468,"این عبارت در مکالمه‌ی بعدی می‌آید:
+reservation",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12468,7,cloze_passage,main,,"Ali: Excuse me, I have a {{1}}.
 Sara: This is a {{2}}. Room ten.
 Ali: Thank you! This is {{3}}.",choice|One~reservation~Passport|a~key~Gate|It's~I have~broken,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2360,7 +2371,8 @@ Ali: Thank you! This is broken.",choice|Four~Please~I have|I'm staying in~Room~T
 12471,7,cloze_passage,exercise,12468,"Ali: Excuse me, I have a {{1}}.
 Sara: This is a {{2}}. Room ten.
 Ali: Thank you! This is {{3}}.",word_bank|reservation~key~Suitcase~broken~Ten|reservation~key~broken,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12472,8,preview_card,preview,12473,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This is just a preview card telling you to expect another dialogue practice. Make sure to use only the words we have studied so far to complete the conversation gaps.
+12472,8,true_false,preview,12473,"این عبارت در مکالمه‌ی بعدی می‌آید:
+menu",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12473,8,cloze_passage,main,,"Ali: Excuse me, this is a {{1}}.
 Sara: Thank you! This is {{2}}.
 Ali: This is {{3}}?
@@ -2377,7 +2389,8 @@ Sara: No, this is {{1}}.",choice|sweet~Eight~I'm from|I'm staying in~this is~Cha
 Sara: Thank you! This is {{2}}.
 Ali: This is {{3}}?
 Sara: No, this is sweet.",word_bank|spicy~delicious~menu~Bitter~Sour|menu~delicious~spicy,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12477,9,preview_card,preview,12478,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین توانایی شما در استفاده از واژگان درس را در بافت مکالمه‌ی طبیعی می‌سنجد. برای پر کردن جاهای خالی، باید کل گفتگو را بخوانید تا بفهمید کدام کلمه معنای صحیح و منطقی را ایجاد می‌کند.
+12477,9,true_false,preview,12478,"این عبارت در مکالمه‌ی بعدی می‌آید:
+too big",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12478,9,cloze_passage,main,,"Ali: Excuse me, this is {{1}}.
 Sara: This is {{2}}. How much is this?
 Ali: {{3}}, please! I have cash.",choice|Straight ahead~quarter past~too big|too small~Broken~Where is the|Discount~Broken~Where is the,2|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2390,7 +2403,8 @@ Ali: Discount, please! I have {{1}}.",choice|cash~Water~Excuse me|Seven~Too smal
 12481,9,cloze_passage,exercise,12478,"Ali: Excuse me, this is {{1}}.
 Sara: This is {{2}}. How much is this?
 Ali: {{3}}, please! I have cash.",word_bank|too big~too small~Card~Discount~Please|too big~too small~Discount,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12482,10,preview_card,preview,12483,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,اینجا باید جاهای خالی رو با کلماتی که از درس یاد گرفتین پر کنید تا مکالمه کامل بشه. این کار باعث میشه ارتباط بین واژه‌ها و ساختار جملات رو بهتر درک کنید.
+12482,10,true_false,preview,12483,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Nice weather",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12483,10,cloze_passage,main,,"Ali: {{1}} today!
 Sara: Yes, {{2}}.
 Ali: {{3}}! No problem.",choice|Nine~a~Nice weather|I agree~Four~I need|Too small~Congratulations~Suitcase,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2403,7 +2417,8 @@ Ali: Congratulations! {{1}}.",choice|Too small~No problem~The bill|today~Reserva
 12486,10,cloze_passage,exercise,12483,"Ali: {{1}} today!
 Sara: Yes, {{2}}.
 Ali: {{3}}! No problem.",word_bank|I agree~Yesterday~Congratulations~Nice weather~I disagree|Nice weather~I agree~Congratulations,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12487,11,preview_card,preview,12488,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,You need to read the short conversation and use the correct vocabulary from this lesson to fill in the missing spots.
+12487,11,true_false,preview,12488,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Can you help me",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12488,11,cloze_passage,main,,"Ali: Excuse me, I'm lost. {{1}}?
 Sara: Yes, no problem.
 Ali: I'm looking for {{2}}. {{3}}?
@@ -2420,7 +2435,8 @@ Sara: I don't understand. {{2}}.",choice|I'm lost~Bathroom~Suitcase|Two~Slower p
 Sara: Yes, no problem.
 Ali: I'm looking for {{2}}. {{3}}?
 Sara: I don't understand. Slower please.",word_bank|Repeat please~Can you help me~this address~Bathroom~Is it far|Can you help me~this address~Is it far,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12492,12,preview_card,preview,12493,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که در آن، باید با واژگان آموخته شده، مکالمه‌ی کوتاه را تکمیل کنی.
+12492,12,true_false,preview,12493,"این عبارت در مکالمه‌ی بعدی می‌آید:
+SIM card",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12493,12,cloze_passage,main,,"Ali: Excuse me, I need a {{1}}.
 Sara: This is a {{2}}.
 Ali: Thank you! I need a {{3}}.",choice|Seven~SIM card~Eight|Turn right~Where is the~Wifi password|charger~I'm from~Thank you,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2433,7 +2449,8 @@ Ali: Thank you! I need a charger.",choice|Passport~Eleven~I need|This is~Tomorro
 12496,12,cloze_passage,exercise,12493,"Ali: Excuse me, I need a {{1}}.
 Sara: This is a {{2}}.
 Ali: Thank you! I need a {{3}}.",word_bank|SIM card~Wifi password~charger~No signal~Battery|SIM card~Wifi password~charger,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12497,13,preview_card,preview,12498,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12497,13,true_false,preview,12498,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm sick",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12498,13,cloze_passage,main,,"Ali: Excuse me, {{1}}. {{2}}.
 Sara: {{3}}!
 Ali: Where is the doctor? Where is the pharmacy?",choice|Menu~I'm sick~Bus|What time is it?~It hurts~No|Reservation~Forty~Call an ambulance,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2446,7 +2463,8 @@ Ali: Where is the {{1}}? Where is the {{2}}?",choice|doctor~Yesterday~half past|
 12501,13,cloze_passage,exercise,12498,"Ali: Excuse me, {{1}}. {{2}}.
 Sara: {{3}}!
 Ali: Where is the doctor? Where is the pharmacy?",word_bank|It hurts~I'm sick~Excuse me~Call an ambulance~I'm allergic to|I'm sick~It hurts~Call an ambulance,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12502,14,preview_card,preview,12503,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This exercise tests your ability to recall specific vocabulary from the lesson and correctly place those words into a natural-sounding dialogue.
+12502,14,true_false,preview,12503,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Let's meet",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12503,14,cloze_passage,main,,"Ali: {{1}} today!
 Sara: {{2}}? I'm free.
 Ali: Thank you! {{3}}.",choice|Charger~Turn left~Let's meet|Menu~What time works~Bus|See you later~o'clock~I'm allergic to,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2459,7 +2477,8 @@ Ali: Thank you! See you later.",choice|Twenty~Room~I'm free|today~Gate~Suitcase,
 12506,14,cloze_passage,exercise,12503,"Ali: {{1}} today!
 Sara: {{2}}? I'm free.
 Ali: Thank you! {{3}}.",word_bank|See you later~I'm busy~Tomorrow~What time works~Let's meet|Let's meet~What time works~See you later,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12507,15,preview_card,preview,12508,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این نوع تمرین‌ها برای سنجش توانایی شما در استفاده عملی از واژگان درس است، بنابراین باید با توجه به متن و ساختار مکالمه، کلمه‌ی مناسب را پیدا کنید.
+12507,15,true_false,preview,12508,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I like",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12508,15,cloze_passage,main,,"Ali: {{1}} water. {{2}} bus.
 Sara: I can help! Understand?
 Ali: Yes, {{3}}.",choice|Twelve~I like~I'm lost|I don't like~a~I disagree|I can't~I'm free~Twenty,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2472,7 +2491,8 @@ Ali: Yes, I can't.",choice|I have~Nice to meet you~help|Charger~Understand~Key,2
 12511,15,cloze_passage,exercise,12508,"Ali: {{1}} water. {{2}} bus.
 Sara: I can help! Understand?
 Ali: Yes, {{3}}.",word_bank|I like~Water~I can't~I don't like~I can|I like~I don't like~I can't,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12512,16,preview_card,preview,12513,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This exercise tests your ability to use vocabulary contextually; you must choose the word that makes the conversation flow naturally and grammatically correctly within the lesson's theme. Don't just pick a familiar word—make sure it fits the meaning of the sentence.
+12512,16,true_false,preview,12513,"این عبارت در مکالمه‌ی بعدی می‌آید:
+big",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12513,16,cloze_passage,main,,"Ali: This is {{1}}. This is small.
 Sara: This is {{2}}! This is {{3}}.",choice|big~Gate~Broken|Charger~Spicy~beautiful|cheap~It's~Suitcase,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12514,16,cloze_passage,exercise,12513,"Ali: {{2}} big. This is {{1}}.
@@ -2481,7 +2501,8 @@ Sara: This is beautiful! This is cheap.",word_bank|small~Too small~This is~Too b
 Sara: This is beautiful! This is cheap.",choice|I'm busy~Sweet~small|This is~Hello~No signal,2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12516,16,cloze_passage,exercise,12513,"Ali: This is {{1}}. This is small.
 Sara: This is {{2}}! This is {{3}}.",word_bank|Too small~Too big~beautiful~cheap~big|big~beautiful~cheap,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12517,17,preview_card,preview,12518,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,The goal here is to complete the dialogue by choosing the vocabulary word that logically continues the conversation.
+12517,17,true_false,preview,12518,"این عبارت در مکالمه‌ی بعدی می‌آید:
+exit",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12518,17,cloze_passage,main,,"Ali: Excuse me, where is the {{1}}?
 Sara: Entrance! {{2}}!
 Ali: Thank you! Boarding now?
@@ -2498,7 +2519,8 @@ Sara: Yes, it's delayed.",choice|Suitcase~Entrance~Spicy|Yes~Boarding now~This,1
 Sara: Entrance! {{2}}!
 Ali: Thank you! Boarding now?
 Sara: Yes, it's {{3}}.",word_bank|Bus~exit~delayed~Caution~Taxi|exit~Caution~delayed,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12522,18,preview_card,preview,12523,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This card is designed to test your ability to put together short conversations using only vocabulary you have recently learned.
+12522,18,true_false,preview,12523,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Thanks for everything",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12523,18,cloze_passage,main,,"Ali: Thank you! {{1}}.
 Sara: {{2}}! {{3}}.
 Ali: My email is this.",choice|I don't understand~Thanks for everything~My name is|Gate~half past~Take care|I can~Keep in touch~Nine,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
@@ -2511,7 +2533,8 @@ Ali: {{1}} this.",choice|My email is~Help~Sweet|Four~Water~Thank you,0|2,,,,جا
 12526,18,cloze_passage,exercise,12523,"Ali: Thank you! {{1}}.
 Sara: {{2}}! {{3}}.
 Ali: My email is this.",word_bank|Take care~Thanks for everything~See you later~Congratulations~Keep in touch|Thanks for everything~Take care~Keep in touch,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12547,2,preview_card,preview,12548,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که به شما می‌گوید کلمات باید در بافتار مکالمه قرار بگیرند. بنابراین، فقط معنی واژه‌ها را یاد نگیرید؛ باید بفهمید کدام کلمه از نظر گرامری و معنایی مناسب‌ترین گزینه برای ادامه گفتگو است.
+12547,2,true_false,preview,12548,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm from",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12548,2,cloze_passage,main,,"A: {{1}} Reza. {{2}} Isfahan.
 B: {{3}}!",choice|Hello~My name is~I want|Yes~I'm from~Water|I want~Nice to meet you~I'm hungry,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12549,2,cloze_passage,exercise,12548,"A: {{1}} Reza. {{2}} Isfahan.
@@ -2520,7 +2543,8 @@ B: {{3}}!",word_bank|I'm from~Hello~Thank you~Nice to meet you~My name is|My nam
 B: {{3}}!",choice|Yes~My name is~I'm hungry|I'm from~Thank you~I'm staying in|I'm thirsty~Nice to meet you~I'm hungry,1|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12551,2,cloze_passage,exercise,12548,"A: {{1}} Reza. {{2}} Isfahan.
 B: {{3}}!",word_bank|I'm from~Thank you~Nice to meet you~My name is~Hello|My name is~I'm from~Nice to meet you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12552,2,preview_card,preview,12553,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که به شما می‌گوید کلمات باید در بافتار مکالمه قرار بگیرند. بنابراین، فقط معنی واژه‌ها را یاد نگیرید؛ باید بفهمید کدام کلمه از نظر گرامری و معنایی مناسب‌ترین گزینه برای ادامه گفتگو است.
+12552,2,true_false,preview,12553,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm staying in",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12553,2,cloze_passage,main,,"A: {{1}}! {{2}} Tehran.
 B: Nice to meet you! {{3}}.",choice|Water~Hello~Nice to meet you|Sorry~I'm from~I'm staying in|I'm thirsty~Thank you~Yes,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12554,2,cloze_passage,exercise,12553,"A: {{1}}! {{2}} Tehran.
@@ -2529,7 +2553,7 @@ B: Nice to meet you! {{3}}.",word_bank|Thank you~Sorry~I'm staying in~Please~Hel
 B: Nice to meet you! {{3}}.",choice|Hello~Yes~This is|I'm staying in~I'm from~This is|Thank you~This is~I'm from,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12556,2,cloze_passage,exercise,12553,"A: {{1}}! {{2}} Tehran.
 B: Nice to meet you! {{3}}.",word_bank|Sorry~I'm staying in~Hello~Please~Thank you|Hello~I'm staying in~Thank you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12557,2,preview_card,preview,12558,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که به شما می‌گوید کلمات باید در بافتار مکالمه قرار بگیرند. بنابراین، فقط معنی واژه‌ها را یاد نگیرید؛ باید بفهمید کدام کلمه از نظر گرامری و معنایی مناسب‌ترین گزینه برای ادامه گفتگو است.
+12557,2,true_false,preview,12558,مکالمه‌ی بعدی فقط از کلمات همین درس ساخته شده است.,,true,,,,جای‌های خالی را با کلمه‌های همین درس پر می‌کنید.
 12558,2,cloze_passage,main,,"A: {{1}}, {{2}} Maryam.
 B: Nice to meet you! {{3}} Yazd.",choice|Excuse me~Nice to meet you~a|I'm hungry~Please~my name is|Water~This is~I'm from,0|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12559,2,cloze_passage,exercise,12558,"A: {{1}}, {{2}} Maryam.
@@ -2538,7 +2562,8 @@ B: Nice to meet you! {{3}} Yazd.",word_bank|Excuse me~Hello~my name is~I'm from~
 B: Nice to meet you! {{3}} Yazd.",choice|Excuse me~I'm thirsty~a|my name is~Sorry~Water|Yes~I'm hungry~I'm from,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12561,2,cloze_passage,exercise,12558,"A: {{1}}, {{2}} Maryam.
 B: Nice to meet you! {{3}} Yazd.",word_bank|Excuse me~Thank you~I'm from~my name is~Hello|Excuse me~my name is~I'm from,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12562,2,preview_card,preview,12563,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"You'll see a short dialogue with gaps, and you need to fill those blanks using only the vocabulary we learned in this chapter."
+12562,2,true_false,preview,12563,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Nice to meet you",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12563,2,cloze_passage,main,,"A: {{1}}! {{2}} Karaj.
 B: My name is Reza. {{3}}!",choice|Hello~Please~I'm hungry|I'm from~Excuse me~My name is|Thank you~Water~Nice to meet you,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12564,2,cloze_passage,exercise,12563,"A: {{1}}! {{2}} Karaj.
@@ -2547,7 +2572,8 @@ B: My name is Reza. {{3}}!",word_bank|Nice to meet you~I'm from~Sorry~Excuse me~
 B: My name is Reza. {{3}}!",choice|Please~a~Hello|Water~I'm from~I want|Nice to meet you~I'm thirsty~a,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12566,2,cloze_passage,exercise,12563,"A: {{1}}! {{2}} Karaj.
 B: My name is Reza. {{3}}!",word_bank|Excuse me~Sorry~I'm from~Nice to meet you~Hello|Hello~I'm from~Nice to meet you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12567,3,preview_card,preview,12568,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12567,3,true_false,preview,12568,"این عبارت در مکالمه‌ی بعدی می‌آید:
+five",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12568,3,cloze_passage,main,,"A: Excuse me, {{1}} this?
 B: This is {{2}}. {{3}}!",choice|Seven~how much is~I want|Ten~I'm hungry~five|Too expensive~Six~I'm hungry,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12569,3,cloze_passage,exercise,12568,"A: Excuse me, {{1}} this?
@@ -2556,7 +2582,8 @@ B: This is {{2}}. {{3}}!",word_bank|Change~Too expensive~how much is~Ten~five|ho
 B: This is {{2}}. {{3}}!",choice|One~how much is~I'm from|Six~five~This is|This~Too expensive~Nine,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12571,3,cloze_passage,exercise,12568,"A: Excuse me, {{1}} this?
 B: This is {{2}}. {{3}}!",word_bank|five~Too expensive~how much is~Change~Ten|how much is~five~Too expensive,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12572,3,preview_card,preview,12573,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این نوع تمرین‌ها برای اطمینان از اینکه کلمات را در مکالمات واقعی و طبیعی استفاده می‌کنید، طراحی شده‌اند؛ پس باید ببینید کدام کلمه از نظر معنایی مناسب‌ترین جایگزینه است.
+12572,3,true_false,preview,12573,"این عبارت در مکالمه‌ی بعدی می‌آید:
+This is",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12573,3,cloze_passage,main,,"A: {{1}} {{2}}. {{3}}, please.
 B: Thank you!",choice|a~This is~Four|How much is~eight~Ten|Change~I want~No,1|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12574,3,cloze_passage,exercise,12573,"A: {{1}} {{2}}. {{3}}, please.
@@ -2565,7 +2592,8 @@ B: Thank you!",word_bank|Too expensive~This is~Nine~eight~Change|This is~eight~C
 B: Thank you!",choice|This~This is~Six|This~Yes~eight|Seven~Thank you~Change,1|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12576,3,cloze_passage,exercise,12573,"A: {{1}} {{2}}. {{3}}, please.
 B: Thank you!",word_bank|Nine~Too expensive~Change~eight~This is|This is~eight~Change,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12577,3,preview_card,preview,12578,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این بخش، هدف فقط حفظ کردن معنی نیست، بلکه یادگیری نحوه قرار گرفتن کلمات در یک جریان گفتگوی طبیعی و منطقی است.
+12577,3,true_false,preview,12578,"این عبارت در مکالمه‌ی بعدی می‌آید:
+three",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12578,3,cloze_passage,main,,"A: {{1}} {{2}}. This is {{3}}!
 B: This is two.",choice|Five~Please~I want|Six~three~This is|too expensive~Twelve~This is,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12579,3,cloze_passage,exercise,12578,"A: {{1}} {{2}}. This is {{3}}!
@@ -2574,7 +2602,8 @@ B: This is two.",word_bank|too expensive~Change~I want~three~Four|I want~three~t
 B: This is two.",choice|I want~How much is~Four|I'm from~Yes~three|too expensive~a~Six,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12581,3,cloze_passage,exercise,12578,"A: {{1}} {{2}}. This is {{3}}!
 B: This is two.",word_bank|Four~too expensive~Change~I want~three|I want~three~too expensive,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12582,3,preview_card,preview,12583,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین‌ها مهارت شما را برای پر کردن جاهای خالی با واژگان مناسب تقویت می‌کنند تا مکالمه از نظر معنایی کامل شود.
+12582,3,true_false,preview,12583,"این عبارت در مکالمه‌ی بعدی می‌آید:
+twelve",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12583,3,cloze_passage,main,,"A: This is {{1}}. {{2}} this?
 B: This is {{3}}.",choice|twelve~Seven~Five|How much is~Hello~a|Sorry~Ten~one,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12584,3,cloze_passage,exercise,12583,"A: This is {{1}}. {{2}} this?
@@ -2583,7 +2612,8 @@ B: This is {{3}}.",word_bank|one~twelve~Six~Ten~How much is|twelve~How much is~o
 B: This is {{3}}.",choice|twelve~Ten~Seven|Please~Six~How much is|Six~one~Water,0|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12586,3,cloze_passage,exercise,12583,"A: This is {{1}}. {{2}} this?
 B: This is {{3}}.",word_bank|Six~twelve~How much is~one~Ten|twelve~How much is~one,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12587,4,preview_card,preview,12588,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این نوع کارت‌ها، شما باید واژگان آموخته شده را در بستر یک گفتگوی واقعی ببینید و بفهمید که هر کلمه چه نقشی ایفا می‌کند.
+12587,4,true_false,preview,12588,"این عبارت در مکالمه‌ی بعدی می‌آید:
+It's",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12588,4,cloze_passage,main,,"A: What time is it?
 B: {{1}} {{2}} {{3}}.",choice|Tomorrow~Eleven~It's|five~Change~I'm thirsty|Twenty~Tomorrow~o'clock,2|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12589,4,cloze_passage,exercise,12588,"A: What time is it?
@@ -2592,7 +2622,8 @@ B: {{1}} {{2}} {{3}}.",word_bank|five~o'clock~It's~Today~Ten|It's~five~o'clock,,
 B: {{1}} {{2}} {{3}}.",choice|Yesterday~I'm staying in~It's|five~Please~Sorry|Nine~o'clock~Excuse me,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12591,4,cloze_passage,exercise,12588,"A: What time is it?
 B: {{1}} {{2}} {{3}}.",word_bank|Today~It's~five~o'clock~Ten|It's~five~o'clock,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12592,4,preview_card,preview,12593,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین یک مهارت مهم است؛ شما باید بفهمید که چگونه کلماتی که یاد گرفته‌اید را برای تکمیل معنای یک مکالمه کوتاه به کار ببرید.
+12592,4,true_false,preview,12593,"این عبارت در مکالمه‌ی بعدی می‌آید:
+half past",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12593,4,cloze_passage,main,,"A: It's {{1}} {{2}}.
 B: Thank you! {{3}}?",choice|Please~half past~Ten|I'm thirsty~seven~Too expensive|Excuse me~Four~Tomorrow,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12594,4,cloze_passage,exercise,12593,"A: It's {{1}} {{2}}.
@@ -2601,7 +2632,8 @@ B: Thank you! {{3}}?",word_bank|Nine~Yesterday~half past~Tomorrow~seven|half pas
 B: Thank you! {{3}}?",choice|half past~No~Yesterday|seven~Two~Six|I'm staying in~o'clock~Tomorrow,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12596,4,cloze_passage,exercise,12593,"A: It's {{1}} {{2}}.
 B: Thank you! {{3}}?",word_bank|seven~half past~Tomorrow~Yesterday~Nine|half past~seven~Tomorrow,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12597,4,preview_card,preview,12598,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"This card is an instruction prompt; since it requires filling in blanks based on vocabulary learned, you must select the correct words from the lesson's word bank to make a coherent dialogue."
+12597,4,true_false,preview,12598,"این عبارت در مکالمه‌ی بعدی می‌آید:
+two",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12598,4,cloze_passage,main,,"A: It's {{1}} {{2}}.
 B: {{3}}? Yesterday?",choice|Seven~two~Yes|Hello~Thank you~forty|Today~I'm from~o'clock,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12599,4,cloze_passage,exercise,12598,"A: It's {{1}} {{2}}.
@@ -2610,7 +2642,8 @@ B: {{3}}? Yesterday?",word_bank|Thirty~Tomorrow~forty~two~Today|two~forty~Today,
 B: {{3}}? Yesterday?",choice|This~Hello~two|Twenty~forty~Eight|Today~This~quarter to,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12601,4,cloze_passage,exercise,12598,"A: It's {{1}} {{2}}.
 B: {{3}}? Yesterday?",word_bank|Eleven~Tonight~forty~two~Today|two~forty~Today,,,,,کلمه‌های درست رو از بین گزینه‌ها انتخاب کن.
-12602,4,preview_card,preview,12603,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This exercise requires you to fill in the blanks of a short dialogue using only vocabulary taught in this specific lesson.
+12602,4,true_false,preview,12603,"این عبارت در مکالمه‌ی بعدی می‌آید:
+quarter to",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12603,4,cloze_passage,main,,"A: It's {{1}} {{2}}.
 B: Thank you! It's {{3}}.",choice|It's~quarter to~Too expensive|nine~Change~I'm staying in|eleven~Four~Fifteen,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12604,4,cloze_passage,exercise,12603,"A: It's {{1}} {{2}}.
@@ -2619,7 +2652,8 @@ B: Thank you! It's {{3}}.",word_bank|eleven~quarter to~Twenty~nine~Fifty|quarter
 B: Thank you! It's {{3}}.",choice|Forty~quarter to~Six|Today~Twelve~nine|Seven~eleven~Twelve,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12606,4,cloze_passage,exercise,12603,"A: It's {{1}} {{2}}.
 B: Thank you! It's {{3}}.",word_bank|nine~Fifty~Twenty~quarter to~eleven|quarter to~nine~eleven,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12607,5,preview_card,preview,12608,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This task requires you to fill in the blanks using only vocabulary words provided from this lesson to complete a natural dialogue.
+12607,5,true_false,preview,12608,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Where is the",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12608,5,cloze_passage,main,,"A: {{1}} {{2}}?
 B: {{3}} a suitcase.",choice|Where is the~quarter past~Three|Boarding pass~suitcase~quarter past|Please~This is~I want,0|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12609,5,cloze_passage,exercise,12608,"A: {{1}} {{2}}?
@@ -2628,7 +2662,8 @@ B: {{3}} a suitcase.",word_bank|Passport~suitcase~Gate~Where is the~This is|Wher
 B: {{3}} a suitcase.",choice|Where is the~Boarding pass~I'm hungry|suitcase~o'clock~Nine|This is~What time is it?~Twelve,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12611,5,cloze_passage,exercise,12608,"A: {{1}} {{2}}?
 B: {{3}} a suitcase.",word_bank|Gate~Where is the~suitcase~Passport~This is|Where is the~suitcase~This is,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12612,5,preview_card,preview,12613,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که به شما می‌گوید کلمات باید در بافتار مکالمه قرار بگیرند. بنابراین، فقط معنی واژه‌ها را یاد نگیرید؛ باید بفهمید کدام کلمه از نظر گرامری و معنایی مناسب‌ترین گزینه برای ادامه گفتگو است.
+12612,5,true_false,preview,12613,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I have",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12613,5,cloze_passage,main,,"A: {{1}} a {{2}}. Thank you!
 B: Where is the {{3}}?",choice|Fifty~I have~I'm thirsty|Thank you~o'clock~boarding pass|gate~No~I'm thirsty,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12614,5,cloze_passage,exercise,12613,"A: {{1}} a {{2}}. Thank you!
@@ -2637,7 +2672,8 @@ B: Where is the {{3}}?",word_bank|gate~Passport~boarding pass~Suitcase~I have|I 
 B: Where is the {{3}}?",choice|I have~Change~Nice to meet you|boarding pass~It's~How much is|What time is it?~gate~Nine,0|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12616,5,cloze_passage,exercise,12613,"A: {{1}} a {{2}}. Thank you!
 B: Where is the {{3}}?",word_bank|I have~gate~Passport~Suitcase~boarding pass|I have~boarding pass~gate,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12617,5,preview_card,preview,12618,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این یک تمرین پر کردن جای خالی است که به شما می‌گوید کلمات باید در بافتار مکالمه قرار بگیرند. بنابراین، فقط معنی واژه‌ها را یاد نگیرید؛ باید بفهمید کدام کلمه از نظر گرامری و معنایی مناسب‌ترین گزینه برای ادامه گفتگو است.
+12617,5,true_false,preview,12618,"این عبارت در مکالمه‌ی بعدی می‌آید:
+passport",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12618,5,cloze_passage,main,,"A: {{1}}, I have a {{2}}.
 B: This is a {{3}}.",choice|Excuse me~quarter to~Twenty|Tomorrow~passport~Hello|gate~I'm staying in~Three,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12619,5,cloze_passage,exercise,12618,"A: {{1}}, I have a {{2}}.
@@ -2646,7 +2682,8 @@ B: This is a {{3}}.",word_bank|Excuse me~Suitcase~gate~passport~Boarding pass|Ex
 B: This is a {{3}}.",choice|Excuse me~Suitcase~Yesterday|passport~What time is it?~Eleven|gate~Today~Five,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12621,5,cloze_passage,exercise,12618,"A: {{1}}, I have a {{2}}.
 B: This is a {{3}}.",word_bank|gate~Excuse me~passport~Boarding pass~Suitcase|Excuse me~passport~gate,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12622,6,preview_card,preview,12623,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش از شما می‌خواهد که با توجه به کلمات آموخته شده در درس، جای خالی یک مکالمه‌ی کوتاه را پر کنید تا معنی متن کامل شود.
+12622,6,true_false,preview,12623,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I need",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12623,6,cloze_passage,main,,"A: {{1}} a {{2}}.
 B: {{3}}.",choice|Five~I need~Passport|bus~Hello~Thirty|Straight ahead~I'm hungry~Twenty,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12624,6,cloze_passage,exercise,12623,"A: {{1}} a {{2}}.
@@ -2655,7 +2692,8 @@ B: {{3}}.",word_bank|Turn left~Taxi~Straight ahead~I need~bus|I need~bus~Straigh
 B: {{3}}.",choice|I need~Two~Thirty|bus~Eight~I'm thirsty|Suitcase~Straight ahead~Please,0|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12626,6,cloze_passage,exercise,12623,"A: {{1}} a {{2}}.
 B: {{3}}.",word_bank|I need~Taxi~bus~Straight ahead~Turn left|I need~bus~Straight ahead,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12627,6,preview_card,preview,12628,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این تمرین باید واژگان مناسب درس را انتخاب کرده و آن‌ها را در جاهای خالی دیالوگ قرار دهید تا مکالمه منطقی باشد.
+12627,6,true_false,preview,12628,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Turn right",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12628,6,cloze_passage,main,,"A: {{1}}. {{2}} a {{3}}.
 B: Thank you!",choice|Turn right~I'm staying in~Two|Taxi~This is~Fifteen|Turn left~Fifty~bus,0|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12629,6,cloze_passage,exercise,12628,"A: {{1}}. {{2}} a {{3}}.
@@ -2664,7 +2702,8 @@ B: Thank you!",word_bank|Taxi~Turn right~bus~This is~Turn left|Turn right~This i
 B: Thank you!",choice|quarter past~Fifty~Turn right|This is~Four~Ten|bus~Turn left~I need,2|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12631,6,cloze_passage,exercise,12628,"A: {{1}}. {{2}} a {{3}}.
 B: Thank you!",word_bank|Taxi~This is~bus~Turn right~Turn left|Turn right~This is~bus,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12632,6,preview_card,preview,12633,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,هدف از این سؤال، سنجش توانایی شما در استفاده‌ی صحیح کلمات درس در بافت یک گفت‌وگوی طبیعی است.
+12632,6,true_false,preview,12633,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Turn left",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12633,6,cloze_passage,main,,"A: {{1}}, I need a {{2}}.
 B: {{3}}. Straight ahead.",choice|Excuse me~Bus~half past|Four~Eight~taxi|Turn left~Hello~I need,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12634,6,cloze_passage,exercise,12633,"A: {{1}}, I need a {{2}}.
@@ -2673,7 +2712,8 @@ B: {{3}}. Straight ahead.",word_bank|taxi~Excuse me~Turn left~Turn right~Bus|Exc
 B: {{3}}. Straight ahead.",choice|Nine~Three~Excuse me|Sorry~taxi~Passport|Turn left~Suitcase~Straight ahead,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12636,6,cloze_passage,exercise,12633,"A: {{1}}, I need a {{2}}.
 B: {{3}}. Straight ahead.",word_bank|Turn left~Bus~Excuse me~Turn right~taxi|Excuse me~taxi~Turn left,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12637,7,preview_card,preview,12638,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین یک مکالمه‌ی ناقص است که باید با کلماتی از درس، جاهای خالی آن را پر کنید تا متن کامل و منطقی شود.
+12637,7,true_false,preview,12638,"این عبارت در مکالمه‌ی بعدی می‌آید:
+room",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12638,7,cloze_passage,main,,"A: {{1}} a {{2}}.
 B: This is a {{3}}.",choice|I have~Tomorrow~a|Fifty~Today~room|a~key~Yesterday,0|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12639,7,cloze_passage,exercise,12638,"A: {{1}} a {{2}}.
@@ -2682,7 +2722,8 @@ B: This is a {{3}}.",word_bank|key~room~Reservation~I have~Broken|I have~room~ke
 B: This is a {{3}}.",choice|I have~Forty~a|room~One~Excuse me|This is~key~Taxi,0|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12641,7,cloze_passage,exercise,12638,"A: {{1}} a {{2}}.
 B: This is a {{3}}.",word_bank|Broken~key~Reservation~I have~room|I have~room~key,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12642,7,preview_card,preview,12643,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این بخش، شما باید با استفاده از واژگان آموخته شده، مکالمه‌ی کوتاه را تکمیل کرده و کلمات مناسب را در جای خالی قرار دهید.
+12642,7,true_false,preview,12643,"این عبارت در مکالمه‌ی بعدی می‌آید:
+broken",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12643,7,cloze_passage,main,,"A: {{1}} {{2}}. I need a {{3}}.
 B: Thank you!",choice|Reservation~This is~Seven|I'm thirsty~quarter to~broken|Yes~key~Bus,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12644,7,cloze_passage,exercise,12643,"A: {{1}} {{2}}. I need a {{3}}.
@@ -2691,7 +2732,7 @@ B: Thank you!",word_bank|Reservation~This is~key~broken~Room|This is~broken~key,
 B: Thank you!",choice|No~This is~Suitcase|My name is~Hello~broken|Forty~Gate~key,1|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12646,7,cloze_passage,exercise,12643,"A: {{1}} {{2}}. I need a {{3}}.
 B: Thank you!",word_bank|key~broken~Room~Reservation~This is|This is~broken~key,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12647,7,preview_card,preview,12648,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,شما باید کلماتی را انتخاب کنید که به صورت طبیعی و منطقی، دیالوگ کوتاه را کامل کنند و معنای کلی مکالمه را حفظ نمایند.
+12647,7,true_false,preview,12648,مکالمه‌ی کوتاه بعدی چند جای خالی دارد.,,true,,,,باید جاهای خالی را با کلمه‌ی درست پر کنید.
 12648,7,cloze_passage,main,,"A: {{1}}, I have a {{2}}.
 B: {{3}} ten.",choice|This~Excuse me~Broken|What time is it?~reservation~Yesterday|Yesterday~I have~Room,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12649,7,cloze_passage,exercise,12648,"A: {{1}}, I have a {{2}}.
@@ -2700,7 +2741,8 @@ B: {{3}} ten.",word_bank|reservation~Broken~Key~Room~Excuse me|Excuse me~reserva
 B: {{3}} ten.",choice|It's~Excuse me~Three|reservation~I want~Change|Too expensive~Twenty~Room,1|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12651,7,cloze_passage,exercise,12648,"A: {{1}}, I have a {{2}}.
 B: {{3}} ten.",word_bank|reservation~Room~Excuse me~Key~Broken|Excuse me~reservation~Room,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12652,7,preview_card,preview,12653,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This card simply lets you know that what's coming up is a practice dialogue. You need to fill in the blanks using only vocabulary from our current lesson set.
+12652,7,true_false,preview,12653,"این عبارت در مکالمه‌ی بعدی می‌آید:
+key",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12653,7,cloze_passage,main,,"A: This is a {{1}}. This is {{2}}.
 B: I need a {{3}}.",choice|Four~Gate~room|Hello~broken~Eleven|key~quarter to~Nine,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12654,7,cloze_passage,exercise,12653,"A: This is a {{1}}. This is {{2}}.
@@ -2709,7 +2751,8 @@ B: I need a {{3}}.",word_bank|Ten~room~Reservation~broken~key|room~broken~key,,,
 B: I need a {{3}}.",choice|Gate~This is~room|quarter to~broken~No|key~One~Gate,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12656,7,cloze_passage,exercise,12653,"A: This is a {{1}}. This is {{2}}.
 B: I need a {{3}}.",word_bank|key~room~broken~Reservation~Ten|room~broken~key,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12657,8,preview_card,preview,12658,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,Pay close attention to the flow of the conversation because selecting the right word depends both on grammar and the overall meaning of the exchange.
+12657,8,true_false,preview,12658,"این عبارت در مکالمه‌ی بعدی می‌آید:
+sour",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12658,8,cloze_passage,main,,"A: This is {{1}}.
 B: This is {{2}}. {{3}}!",choice|sour~quarter to~Nine|salty~Turn right~Eleven|Hello~a~Delicious,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12659,8,cloze_passage,exercise,12658,"A: This is {{1}}.
@@ -2718,7 +2761,8 @@ B: This is {{2}}. {{3}}!",word_bank|sour~Delicious~Sweet~salty~Bitter|sour~salty
 B: This is {{2}}. {{3}}!",choice|sour~Broken~How much is|It's~salty~Nice to meet you|quarter past~Thank you~Delicious,0|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12661,8,cloze_passage,exercise,12658,"A: This is {{1}}.
 B: This is {{2}}. {{3}}!",word_bank|Bitter~Delicious~sour~salty~Sweet|sour~salty~Delicious,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12662,8,preview_card,preview,12663,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"Think about the dialogue's context; you need to select the word that fits perfectly, making sense both grammatically and logically in each gap."
+12662,8,true_false,preview,12663,"این عبارت در مکالمه‌ی بعدی می‌آید:
+bitter",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12663,8,cloze_passage,main,,"A: This is {{1}}. {{2}}, please.
 B: {{3}}!",choice|One~Suitcase~bitter|Thirty~It's~The bill|o'clock~Thank you~Ten,2|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12664,8,cloze_passage,exercise,12663,"A: This is {{1}}. {{2}}, please.
@@ -2727,7 +2771,8 @@ B: {{3}}!",word_bank|Menu~Spicy~bitter~Thank you~The bill|bitter~The bill~Thank 
 B: {{3}}!",choice|Passport~bitter~I'm hungry|Delicious~The bill~My name is|Thank you~Menu~How much is,1|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12666,8,cloze_passage,exercise,12663,"A: This is {{1}}. {{2}}, please.
 B: {{3}}!",word_bank|The bill~Thank you~bitter~Menu~Spicy|bitter~The bill~Thank you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12667,8,preview_card,preview,12668,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین توانایی شما در استفاده از واژگان درس را در بافت مکالمه‌ی طبیعی می‌سنجد. برای پر کردن جاهای خالی، باید کل گفتگو را بخوانید تا بفهمید کدام کلمه معنای صحیح و منطقی را ایجاد می‌کند.
+12667,8,true_false,preview,12668,"این عبارت در مکالمه‌ی بعدی می‌آید:
+spicy",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12668,8,cloze_passage,main,,"A: Excuse me, this is a {{1}}.
 B: This is {{2}}! {{3}} water.",choice|Straight ahead~menu~Turn left|spicy~Gate~Seven|Where is the~Please~I want,1|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12669,8,cloze_passage,exercise,12668,"A: Excuse me, this is a {{1}}.
@@ -2736,7 +2781,8 @@ B: This is {{2}}! {{3}} water.",word_bank|spicy~Sour~Sweet~I want~menu|menu~spic
 B: This is {{2}}! {{3}} water.",choice|Three~menu~Four|My name is~spicy~Yesterday|The bill~I want~Change,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12671,8,cloze_passage,exercise,12668,"A: Excuse me, this is a {{1}}.
 B: This is {{2}}! {{3}} water.",word_bank|Sour~menu~spicy~I want~Sweet|menu~spicy~I want,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12672,8,preview_card,preview,12673,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"This preview card helps you practice filling in blanks using only vocabulary from the lesson, simulating real-life conversation flow."
+12672,8,true_false,preview,12673,"این عبارت در مکالمه‌ی بعدی می‌آید:
+sweet",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12673,8,cloze_passage,main,,"A: This is {{1}}. This is {{2}}!
 B: {{3}}.",choice|sweet~Passport~Turn right|delicious~Three~My name is|Thirty~Twenty~Thank you,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12674,8,cloze_passage,exercise,12673,"A: This is {{1}}. This is {{2}}!
@@ -2745,7 +2791,8 @@ B: {{3}}.",word_bank|Bitter~Salty~Thank you~sweet~delicious|sweet~delicious~Than
 B: {{3}}.",choice|Salty~sweet~Yes|Turn left~delicious~I want|Thank you~Passport~Sour,1|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12676,8,cloze_passage,exercise,12673,"A: This is {{1}}. This is {{2}}!
 B: {{3}}.",word_bank|Bitter~sweet~delicious~Thank you~Salty|sweet~delicious~Thank you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12677,9,preview_card,preview,12678,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین توانایی شما در استفاده از واژگان درس را در بافت مکالمه‌ی طبیعی می‌سنجد. برای پر کردن جاهای خالی، باید کل گفتگو را بخوانید تا بفهمید کدام کلمه معنای صحیح و منطقی را ایجاد می‌کند.
+12677,9,true_false,preview,12678,"این عبارت در مکالمه‌ی بعدی می‌آید:
+too small",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12678,9,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}, please!",choice|Fifteen~This is~Thank you|Card~too small~What time is it?|Discount~o'clock~Salty,1|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12679,9,cloze_passage,exercise,12678,"A: {{1}} {{2}}.
@@ -2754,7 +2801,8 @@ B: {{3}}, please!",word_bank|too small~This is~Too big~Cash~Discount|This is~too
 B: {{3}}, please!",choice|Please~Card~This is|Change~too small~Card|Discount~Fifteen~Suitcase,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12681,9,cloze_passage,exercise,12678,"A: {{1}} {{2}}.
 B: {{3}}, please!",word_bank|Discount~This is~too small~Cash~Too big|This is~too small~Discount,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12682,9,preview_card,preview,12683,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین توانایی شما در استفاده از واژگان درس را در بافت مکالمه‌ی طبیعی می‌سنجد. برای پر کردن جاهای خالی، باید کل گفتگو را بخوانید تا بفهمید کدام کلمه معنای صحیح و منطقی را ایجاد می‌کند.
+12682,9,true_false,preview,12683,"این عبارت در مکالمه‌ی بعدی می‌آید:
+cash",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12683,9,cloze_passage,main,,"A: I have {{1}}. {{2}} this?
 B: This is {{3}}.",choice|cash~Boarding pass~Salty|I'm staying in~Room~How much is|too big~I'm staying in~Where is the,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12684,9,cloze_passage,exercise,12683,"A: I have {{1}}. {{2}} this?
@@ -2763,7 +2811,8 @@ B: This is {{3}}.",word_bank|cash~Card~How much is~Discount~too big|cash~How muc
 B: This is {{3}}.",choice|cash~Boarding pass~quarter to|I need~I'm staying in~How much is|too big~Too expensive~Forty,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12686,9,cloze_passage,exercise,12683,"A: I have {{1}}. {{2}} this?
 B: This is {{3}}.",word_bank|cash~How much is~Discount~Card~too big|cash~How much is~too big,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12687,9,preview_card,preview,12688,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین توانایی شما در استفاده از واژگان درس را در بافت مکالمه‌ی طبیعی می‌سنجد. برای پر کردن جاهای خالی، باید کل گفتگو را بخوانید تا بفهمید کدام کلمه معنای صحیح و منطقی را ایجاد می‌کند.
+12687,9,true_false,preview,12688,"این عبارت در مکالمه‌ی بعدی می‌آید:
+card",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12688,9,cloze_passage,main,,"A: {{1}}, I have a {{2}}.
 B: This is {{3}}.",choice|Excuse me~Ten~I'm hungry|I'm from~Thirty~card|too small~Too big~Passport,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12689,9,cloze_passage,exercise,12688,"A: {{1}}, I have a {{2}}.
@@ -2772,7 +2821,8 @@ B: This is {{3}}.",word_bank|Cash~Excuse me~Too big~too small~card|Excuse me~car
 B: This is {{3}}.",choice|Excuse me~Too big~I'm hungry|a~Where is the~card|Eleven~Where is the~too small,0|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12691,9,cloze_passage,exercise,12688,"A: {{1}}, I have a {{2}}.
 B: This is {{3}}.",word_bank|too small~Cash~Too big~card~Excuse me|Excuse me~card~too small,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12692,9,preview_card,preview,12693,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"This card is a general instruction telling you that the upcoming practice will involve filling in blanks using only vocabulary from the current lesson. It simply means 'Accept' or 'Got it,' confirming your readiness to proceed."
+12692,9,true_false,preview,12693,"این عبارت در مکالمه‌ی بعدی می‌آید:
+too expensive",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12693,9,cloze_passage,main,,"A: This is {{1}}!
 B: {{2}}! This is {{3}}.",choice|Spicy~too expensive~Forty|Sorry~Discount~Where is the|Bitter~Today~cash,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12694,9,cloze_passage,exercise,12693,"A: This is {{1}}!
@@ -2781,7 +2831,8 @@ B: {{2}}! This is {{3}}.",word_bank|Card~Discount~cash~too expensive~Too big|too
 B: {{2}}! This is {{3}}.",choice|too expensive~Three~Passport|How much is~Discount~Fifty|cash~half past~Bus,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12696,9,cloze_passage,exercise,12693,"A: This is {{1}}!
 B: {{2}}! This is {{3}}.",word_bank|Too big~Card~cash~too expensive~Discount|too expensive~Discount~cash,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12697,10,preview_card,preview,12698,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین شما رو عادت می‌ده که مکالمات رو فقط با واژگان موجود یادگرفتتون پیش ببرید. این یعنی زبان یه سیستم بسته و قابل استفاده‌ی خلاقانه است.
+12697,10,true_false,preview,12698,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I disagree",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12698,10,cloze_passage,main,,"A: {{1}}.
 B: {{2}}!",choice|This is~Tomorrow~I disagree|Cash~No problem~I need,2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12699,10,cloze_passage,exercise,12698,"A: {{1}}.
@@ -2790,7 +2841,8 @@ B: {{2}}!",word_bank|No problem~I agree~I disagree~Congratulations|I disagree~No
 B: {{2}}!",choice|Hello~I disagree~Nine|No problem~Gate~Taxi,1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12701,10,cloze_passage,exercise,12698,"A: {{1}}.
 B: {{2}}!",word_bank|No problem~I disagree~I agree~Congratulations|I disagree~No problem,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12702,10,preview_card,preview,12703,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش یک تمرین مکالمه‌ی ناقص است که باید با استفاده از واژگان درس، جاهای خالی را پر کنید تا دیالوگ کامل شود.
+12702,10,true_false,preview,12703,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Congratulations",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12703,10,cloze_passage,main,,"A: {{1}}! {{2}} today.
 B: Yes, {{3}}.",choice|Congratulations~Three~Bitter|Yesterday~Twenty~Nice weather|I agree~a~Forty,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12704,10,cloze_passage,exercise,12703,"A: {{1}}! {{2}} today.
@@ -2799,7 +2851,8 @@ B: Yes, {{3}}.",word_bank|Nice weather~I agree~Congratulations~I disagree~No pro
 B: Yes, {{3}}.",choice|Menu~Tomorrow~Congratulations|Nice weather~Eleven~Cash|I agree~Room~Gate,2|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12706,10,cloze_passage,exercise,12703,"A: {{1}}! {{2}} today.
 B: Yes, {{3}}.",word_bank|Congratulations~I disagree~I agree~Nice weather~No problem|Congratulations~Nice weather~I agree,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12707,10,preview_card,preview,12708,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,You need to read the short conversation and use the correct vocabulary from this lesson to fill in the missing spots.
+12707,10,true_false,preview,12708,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Thank you",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12708,10,cloze_passage,main,,"A: {{1}}! {{2}}.
 B: I agree. {{3}}.",choice|Cash~Nice weather~The bill|Card~Thank you~Hello|Yesterday~a~No problem,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12709,10,cloze_passage,exercise,12708,"A: {{1}}! {{2}}.
@@ -2808,7 +2861,8 @@ B: I agree. {{3}}.",word_bank|Nice weather~Thank you~I disagree~No problem~Congr
 B: I agree. {{3}}.",choice|Nice weather~Five~Salty|Reservation~Thank you~Menu|No problem~Congratulations~I'm from,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12711,10,cloze_passage,exercise,12708,"A: {{1}}! {{2}}.
 B: I agree. {{3}}.",word_bank|I disagree~Congratulations~No problem~Nice weather~Thank you|Nice weather~Thank you~No problem,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12712,11,preview_card,preview,12713,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,You need to read the short conversation and use the correct vocabulary from this lesson to fill in the missing spots.
+12712,11,true_false,preview,12713,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm lost",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12713,11,cloze_passage,main,,"A: {{1}}. {{2}}?
 B: {{3}}.",choice|Repeat please~This~I'm lost|Is it far~I'm from~Sweet|Yes~Nice to meet you~I don't understand,2|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12714,11,cloze_passage,exercise,12713,"A: {{1}}. {{2}}?
@@ -2817,7 +2871,8 @@ B: {{3}}.",word_bank|I'm lost~Is it far~Repeat please~Bathroom~I don't understan
 B: {{3}}.",choice|Repeat please~This address~I'm lost|Slower please~Is it far~Twelve|Menu~I don't understand~I'm from,2|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12716,11,cloze_passage,exercise,12713,"A: {{1}}. {{2}}?
 B: {{3}}.",word_bank|Repeat please~Bathroom~I don't understand~Is it far~I'm lost|I'm lost~Is it far~I don't understand,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12717,11,preview_card,preview,12718,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This card is just an instruction preview; you don't need to answer anything right now. Just read through the passage and remember that all the missing words must come from the vocabulary we just learned.
+12717,11,true_false,preview,12718,"این عبارت در مکالمه‌ی بعدی می‌آید:
+bathroom",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12718,11,cloze_passage,main,,"A: {{1}}, where is the {{2}}?
 B: {{3}} a bathroom.",choice|Twenty~Six~Excuse me|bathroom~Boarding pass~Can you help me?|This is~Bus~Suitcase,2|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12719,11,cloze_passage,exercise,12718,"A: {{1}}, where is the {{2}}?
@@ -2826,7 +2881,8 @@ B: {{3}} a bathroom.",word_bank|Repeat please~This is~I'm lost~Excuse me~bathroo
 B: {{3}} a bathroom.",choice|Excuse me~Six~Can you help me?|I have~My name is~bathroom|This is~Fifty~Broken,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12721,11,cloze_passage,exercise,12718,"A: {{1}}, where is the {{2}}?
 B: {{3}} a bathroom.",word_bank|Repeat please~Excuse me~I'm lost~This is~bathroom|Excuse me~bathroom~This is,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12722,11,preview_card,preview,12723,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"These cards are designed to test your ability to fill in blanks using only vocabulary from the current lesson, so focus on recognizing those key words."
+12722,11,true_false,preview,12723,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Repeat please",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12723,11,cloze_passage,main,,"A: {{1}}? {{2}}.
 B: {{3}}.",choice|I don't understand~Boarding pass~Can you help me|Repeat please~Suitcase~No problem|Bus~Slower please~Too expensive,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12724,11,cloze_passage,exercise,12723,"A: {{1}}? {{2}}.
@@ -2835,7 +2891,8 @@ B: {{3}}.",word_bank|Slower please~This address~I'm lost~Can you help me~Repeat 
 B: {{3}}.",choice|I need~Can you help me~How much is|quarter past~Congratulations~Repeat please|Slower please~Nine~Reservation,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12726,11,cloze_passage,exercise,12723,"A: {{1}}? {{2}}.
 B: {{3}}.",word_bank|Slower please~I'm lost~Can you help me~This address~Repeat please|Can you help me~Repeat please~Slower please,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12727,11,preview_card,preview,12728,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"Similar to the previous card, this exercise checks if you can complete a short dialogue using only the words and phrases you've recently learned."
+12727,11,true_false,preview,12728,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm looking for",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12728,11,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}.",choice|Turn right~I'm looking for~Gate|this address~No~I'm hungry|I don't understand~Turn left~It's,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12729,11,cloze_passage,exercise,12728,"A: {{1}} {{2}}.
@@ -2844,7 +2901,8 @@ B: {{3}}.",word_bank|Bathroom~I don't understand~I'm looking for~this address~Is
 B: {{3}}.",choice|I'm from~I'm looking for~Repeat please|this address~Turn right~Thirty|No~I don't understand~Bitter,1|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12731,11,cloze_passage,exercise,12728,"A: {{1}} {{2}}.
 B: {{3}}.",word_bank|Bathroom~Is it far~I don't understand~I'm looking for~this address|I'm looking for~this address~I don't understand,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12732,12,preview_card,preview,12733,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این بخش، شما باید دیالوگ‌های ناقصی را کامل کنید؛ کلید کار استفاده از کلماتی است که همین درس رو یاد گرفتی.
+12732,12,true_false,preview,12733,"این عبارت در مکالمه‌ی بعدی می‌آید:
+charger",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12733,12,cloze_passage,main,,"A: {{1}} a {{2}}.
 B: {{3}}!",choice|I need~This address~One|Yes~charger~Hello|No signal~Is it far?~Seven,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12734,12,cloze_passage,exercise,12733,"A: {{1}} a {{2}}.
@@ -2853,7 +2911,8 @@ B: {{3}}!",word_bank|SIM card~I need~Battery~charger~No signal|I need~charger~No
 B: {{3}}!",choice|Reservation~I need~Too expensive|charger~Cash~Bitter|No signal~SIM card~Thirty,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12736,12,cloze_passage,exercise,12733,"A: {{1}} a {{2}}.
 B: {{3}}!",word_bank|I need~SIM card~Battery~charger~No signal|I need~charger~No signal,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12737,12,preview_card,preview,12738,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,برای تکمیل مکالمه‌ی زیر، واژگان مناسب را انتخاب کن تا دیالوگ منطقی و درست پیش بره.
+12737,12,true_false,preview,12738,"این عبارت در مکالمه‌ی بعدی می‌آید:
+my phone number",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12738,12,cloze_passage,main,,"A: {{1}} {{2}}.
 B: Thank you! {{3}}?",choice|This is~Twenty~This|I want~my phone number~Gate|Two~Battery~Turn left,0|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12739,12,cloze_passage,exercise,12738,"A: {{1}} {{2}}.
@@ -2862,7 +2921,8 @@ B: Thank you! {{3}}?",word_bank|Battery~Charger~This is~No signal~my phone numbe
 B: Thank you! {{3}}?",choice|This is~What time is it?~Gate|Menu~Twenty~my phone number|Battery~I'm hungry~Sorry,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12741,12,cloze_passage,exercise,12738,"A: {{1}} {{2}}.
 B: Thank you! {{3}}?",word_bank|This is~my phone number~No signal~Battery~Charger|This is~my phone number~Battery,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12742,12,preview_card,preview,12743,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12742,12,true_false,preview,12743,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Wifi password",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12743,12,cloze_passage,main,,"A: {{1}}, I need a {{2}}.
 B: This is a {{3}}.",choice|It's~Excuse me~This|I'm hungry~SIM card~Today|Wifi password~Salty~Reservation,1|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12744,12,cloze_passage,exercise,12743,"A: {{1}}, I need a {{2}}.
@@ -2871,7 +2931,8 @@ B: This is a {{3}}.",word_bank|SIM card~Charger~Battery~Excuse me~Wifi password|
 B: This is a {{3}}.",choice|Eleven~Excuse me~I don't understand|Tomorrow~SIM card~Spicy|Turn left~Slower please~Wifi password,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12746,12,cloze_passage,exercise,12743,"A: {{1}}, I need a {{2}}.
 B: This is a {{3}}.",word_bank|Battery~Charger~SIM card~Excuse me~Wifi password|Excuse me~SIM card~Wifi password,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12747,12,preview_card,preview,12748,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12747,12,true_false,preview,12748,"این عبارت در مکالمه‌ی بعدی می‌آید:
+No signal",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12748,12,cloze_passage,main,,"A: {{1}}!
 B: I have a {{2}}. {{3}}?",choice|Reservation~No signal~Too big|My phone number~This~battery|Slower please~Charger~My name is,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12749,12,cloze_passage,exercise,12748,"A: {{1}}!
@@ -2880,7 +2941,8 @@ B: I have a {{2}}. {{3}}?",word_bank|Charger~battery~No signal~SIM card~Wifi pas
 B: I have a {{2}}. {{3}}?",choice|Slower please~Eleven~No signal|Fifteen~battery~Turn left|Yesterday~Charger~Fifteen,2|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12751,12,cloze_passage,exercise,12748,"A: {{1}}!
 B: I have a {{2}}. {{3}}?",word_bank|Charger~Wifi password~SIM card~No signal~battery|No signal~battery~Charger,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12752,13,preview_card,preview,12753,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12752,13,true_false,preview,12753,"این عبارت در مکالمه‌ی بعدی می‌آید:
+It hurts",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12753,13,cloze_passage,main,,"A: {{1}}! {{2}}.
 B: {{3}}!",choice|Bitter~Room~It hurts|I'm sick~Two~Water|Gate~Call an ambulance~Eight,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12754,13,cloze_passage,exercise,12753,"A: {{1}}! {{2}}.
@@ -2889,7 +2951,8 @@ B: {{3}}!",word_bank|It hurts~Pharmacy~Call an ambulance~I'm sick~Doctor|It hurt
 B: {{3}}!",choice|o'clock~It hurts~Bathroom|Wifi password~Twelve~I'm sick|Reservation~Call an ambulance~Suitcase,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12756,13,cloze_passage,exercise,12753,"A: {{1}}! {{2}}.
 B: {{3}}!",word_bank|I'm sick~It hurts~Pharmacy~Doctor~Call an ambulance|It hurts~I'm sick~Call an ambulance,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12757,13,preview_card,preview,12758,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12757,13,true_false,preview,12758,"این عبارت در مکالمه‌ی بعدی می‌آید:
+doctor",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12758,13,cloze_passage,main,,"A: {{1}} {{2}}?
 B: {{3}} a doctor.",choice|This~I'm staying in~Where is the|Water~Seven~doctor|Yes~This is~Room,2|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12759,13,cloze_passage,exercise,12758,"A: {{1}} {{2}}?
@@ -2898,7 +2961,8 @@ B: {{3}} a doctor.",word_bank|Where is the~This is~It hurts~Pharmacy~doctor|Wher
 B: {{3}} a doctor.",choice|Where is the~Call an ambulance~I'm thirsty|Three~doctor~I'm allergic to|I'm looking for~This is~Can you help me?,0|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12761,13,cloze_passage,exercise,12758,"A: {{1}} {{2}}?
 B: {{3}} a doctor.",word_bank|This is~Where is the~It hurts~doctor~Pharmacy|Where is the~doctor~This is,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12762,13,preview_card,preview,12763,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین‌ها برای سنجش توانایی شما در استفاده از واژگان جدید در یک متن کامل طراحی شده‌اند، پس باید کل مکالمه را با دقت بخوانید تا بهترین کلمات را پیدا کنید.
+12762,13,true_false,preview,12763,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm allergic to",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12763,13,cloze_passage,main,,"A: {{1}} {{2}}.
 B: Where is the {{3}}?",choice|Bathroom~Fifty~I'm allergic to|Bathroom~water~Cash|pharmacy~Can you help me?~Where is the,2|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12764,13,cloze_passage,exercise,12763,"A: {{1}} {{2}}.
@@ -2907,7 +2971,8 @@ B: Where is the {{3}}?",word_bank|I'm allergic to~I'm sick~pharmacy~water~Doctor
 B: Where is the {{3}}?",choice|Eleven~I'm staying in~I'm allergic to|water~Four~Five|pharmacy~No signal~Battery,2|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12766,13,cloze_passage,exercise,12763,"A: {{1}} {{2}}.
 B: Where is the {{3}}?",word_bank|water~I'm sick~I'm allergic to~Doctor~pharmacy|I'm allergic to~water~pharmacy,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12767,13,preview_card,preview,12768,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,مانند کارت قبلی، این تمرین برای اطمینان از اینکه واژگان جدید را در بافت طبیعی زبان استفاده می‌کنید، طراحی شده است. به جای فکر کردن به معنی کلمات جداگانه، باید نحوه صحبت کردن آن‌ها را یاد بگیرید.
+12767,13,true_false,preview,12768,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Call an ambulance",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12768,13,cloze_passage,main,,"A: {{1}}, {{2}}.
 B: {{3}}! I'm sick.",choice|Menu~Excuse me~Too big|Straight ahead~Charger~it hurts|Change~Three~Call an ambulance,1|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12769,13,cloze_passage,exercise,12768,"A: {{1}}, {{2}}.
@@ -2916,7 +2981,8 @@ B: {{3}}! I'm sick.",word_bank|Excuse me~Doctor~it hurts~Pharmacy~Call an ambula
 B: {{3}}! I'm sick.",choice|Excuse me~I'm lost~No problem|it hurts~Sweet~Fifty|Slower please~I disagree~Call an ambulance,0|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12771,13,cloze_passage,exercise,12768,"A: {{1}}, {{2}}.
 B: {{3}}! I'm sick.",word_bank|Excuse me~Call an ambulance~Pharmacy~it hurts~Doctor|Excuse me~it hurts~Call an ambulance,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12772,14,preview_card,preview,12773,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش یک تمرین پر کردن جای خالی است که فقط از واژگان درس استفاده می‌کند، پس باید کلمات مناسب را انتخاب نمایید.
+12772,14,true_false,preview,12773,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm busy",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12773,14,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}!",choice|I'm busy~Suitcase~Doctor|today~Twelve~Spicy|See you later~Doctor~This is,0|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12774,14,cloze_passage,exercise,12773,"A: {{1}} {{2}}.
@@ -2925,7 +2991,8 @@ B: {{3}}!",word_bank|today~See you later~Let's meet~I'm free~I'm busy|I'm busy~t
 B: {{3}}!",choice|Straight ahead~This~I'm busy|today~Six~Nice to meet you|Passport~Taxi~See you later,2|0|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12776,14,cloze_passage,exercise,12773,"A: {{1}} {{2}}.
 B: {{3}}!",word_bank|I'm busy~Let's meet~I'm free~See you later~today|I'm busy~today~See you later,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12777,14,preview_card,preview,12778,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این قسمت، مکالمه‌ای کوتاه با چند جای خالی پیش روی شماست و باید آن را تنها با کلماتی که در طول درس یاد گرفته‌اید کامل کنید.
+12777,14,true_false,preview,12778,"این عبارت در مکالمه‌ی بعدی می‌آید:
+tomorrow",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12778,14,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}?",choice|Gate~Room~Let's meet|Forty~Repeat please~tomorrow|What time works~My name is~No signal,2|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12779,14,cloze_passage,exercise,12778,"A: {{1}} {{2}}.
@@ -2934,7 +3001,8 @@ B: {{3}}?",word_bank|What time works~I'm free~tomorrow~Let's meet~I'm busy|Let's
 B: {{3}}?",choice|Let's meet~I agree~Salty|Sorry~tomorrow~Nine|What time works~I'm staying in~Hello,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12781,14,cloze_passage,exercise,12778,"A: {{1}} {{2}}.
 B: {{3}}?",word_bank|Let's meet~What time works~I'm free~I'm busy~tomorrow|Let's meet~tomorrow~What time works,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12782,14,preview_card,preview,12783,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین شامل یک دیالوگ است که تمام واژگانش از مباحثی که خوانده‌اید گرفته شده، بنابراین فقط کلمات درس را استفاده کنید.
+12782,14,true_false,preview,12783,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I'm free",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12783,14,cloze_passage,main,,"A: {{1}} today.
 B: {{2}}! {{3}}.",choice|Thank you~I'm free~I'm allergic to|I don't understand~quarter to~Let's meet|Forty~See you later~It's,1|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12784,14,cloze_passage,exercise,12783,"A: {{1}} today.
@@ -2943,7 +3011,8 @@ B: {{2}}! {{3}}.",word_bank|What time works~I'm free~I'm busy~See you later~Let'
 B: {{2}}! {{3}}.",choice|Slower please~I'm free~Cash|Let's meet~I want~Hello|See you later~It's~Bathroom,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12786,14,cloze_passage,exercise,12783,"A: {{1}} today.
 B: {{2}}! {{3}}.",word_bank|Let's meet~See you later~I'm busy~What time works~I'm free|I'm free~Let's meet~See you later,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12787,15,preview_card,preview,12788,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,مانند کارت قبلی، این تمرین یک مهارت کاربردی است که می‌خواهد مطمئن شود شما واژگان آموخته شده را در بافت (context) صحیح به کار می‌برید.
+12787,15,true_false,preview,12788,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I can",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12788,15,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}? Yes!",choice|I can~Charger~Delicious|Call an ambulance~help~Is it far?|Understand~Four~Is it far?,0|1|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12789,15,cloze_passage,exercise,12788,"A: {{1}} {{2}}.
@@ -2952,7 +3021,8 @@ B: {{3}}? Yes!",word_bank|I can~Understand~help~I can't~I like|I can~help~Unders
 B: {{3}}? Yes!",choice|I can~This~Congratulations|I'm thirsty~Fifteen~help|Doctor~I'm sick~Understand,0|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12791,15,cloze_passage,exercise,12788,"A: {{1}} {{2}}.
 B: {{3}}? Yes!",word_bank|I like~help~Understand~I can't~I can|I can~help~Understand,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12792,15,preview_card,preview,12793,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این بخش از درس شما را وادار می‌کند تا کلمات را نه فقط حفظ کنید، بلکه بدانید که کدام کلمه در موقعیت مکالمه‌ای خاص منطقی است.
+12792,15,true_false,preview,12793,"این عبارت در مکالمه‌ی بعدی می‌آید:
+water",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12793,15,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}} bus.",choice|I like~My phone number~Thirty|I'm busy~Sorry~water|I don't like~Yesterday~I'm from,0|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12794,15,cloze_passage,exercise,12793,"A: {{1}} {{2}}.
@@ -2961,7 +3031,8 @@ B: {{3}} bus.",word_bank|I can~Help~I like~I don't like~water|I like~water~I don
 B: {{3}} bus.",choice|I like~Sour~Salty|How much is~Fifteen~water|I'm from~I don't like~Fifteen,0|2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12796,15,cloze_passage,exercise,12793,"A: {{1}} {{2}}.
 B: {{3}} bus.",word_bank|I like~Help~I can~I don't like~water|I like~water~I don't like,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12797,15,preview_card,preview,12798,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This card is a practice section where you must fill in the blanks of a short conversation using only vocabulary learned so far. It tests your ability to apply new words contextually.
+12797,15,true_false,preview,12798,"این عبارت در مکالمه‌ی بعدی می‌آید:
+I can't",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12798,15,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}! Understand?",choice|I can't~Is it far?~Twelve|I disagree~Bitter~help|See you later~Charger~I can,0|2|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12799,15,cloze_passage,exercise,12798,"A: {{1}} {{2}}.
@@ -2970,7 +3041,8 @@ B: {{3}}! Understand?",word_bank|help~I like~I can~I don't like~I can't|I can't~
 B: {{3}}! Understand?",choice|My name is~Four~I can't|quarter past~I like~help|I can~Straight ahead~It's,2|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12801,15,cloze_passage,exercise,12798,"A: {{1}} {{2}}.
 B: {{3}}! Understand?",word_bank|help~I like~I can't~I don't like~I can|I can't~help~I can,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12802,15,preview_card,preview,12803,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"Similar to the previous card, this is a contextual practice exercise. You must read the dialogue and select the appropriate word from the lesson's vocabulary list to complete the blanks accurately."
+12802,15,true_false,preview,12803,"این عبارت در مکالمه‌ی بعدی می‌آید:
+this",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12803,15,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}} this.",choice|I have~I like~I'm thirsty|Suitcase~One~this|I don't like~I have~Boarding pass,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12804,15,cloze_passage,exercise,12803,"A: {{1}} {{2}}.
@@ -2979,7 +3051,8 @@ B: {{3}} this.",word_bank|Help~Understand~I don't like~this~I like|I like~this~I
 B: {{3}} this.",choice|Nice to meet you~I like~Straight ahead|Bathroom~this~I agree|Call an ambulance~I don't like~Hello,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12806,15,cloze_passage,exercise,12803,"A: {{1}} {{2}}.
 B: {{3}} this.",word_bank|I don't like~I like~Help~this~Understand|I like~this~I don't like,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12807,16,preview_card,preview,12808,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This exercise tests your ability to use vocabulary contextually; you must choose the word that makes the conversation flow naturally and grammatically correctly within the lesson's theme. Don't just pick a familiar word—make sure it fits the meaning of the sentence.
+12807,16,true_false,preview,12808,"این عبارت در مکالمه‌ی بعدی می‌آید:
+small",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12808,16,cloze_passage,main,,"A: {{3}} {{1}}.
 B: This is {{2}}!",choice|Repeat please~Room~small|cheap~I like~Six|I disagree~This is~Straight ahead,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12809,16,cloze_passage,exercise,12808,"A: {{3}} {{1}}.
@@ -2988,7 +3061,8 @@ B: This is {{2}}!",word_bank|Beautiful~small~cheap~Big~This is|small~cheap~This 
 B: This is {{2}}!",choice|small~Beautiful~Wifi password|Wifi password~cheap~Repeat please|Sweet~This is~Pharmacy,0|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12811,16,cloze_passage,exercise,12808,"A: {{3}} {{1}}.
 B: This is {{2}}!",word_bank|Beautiful~Big~This is~small~cheap|small~cheap~This is,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12812,16,preview_card,preview,12813,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,You need to read the short conversation and select the word that best fits the blank space based on context.
+12812,16,true_false,preview,12813,"این عبارت در مکالمه‌ی بعدی می‌آید:
+beautiful",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12813,16,cloze_passage,main,,"A: This is {{1}}.
 B: This is {{2}}!",choice|I'm free~Suitcase~beautiful|Menu~big~Understand,2|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12814,16,cloze_passage,exercise,12813,"A: This is {{1}}.
@@ -2997,7 +3071,8 @@ B: This is {{2}}!",word_bank|Small~Cheap~big~beautiful|beautiful~big,,,,,کلم�
 B: This is {{2}}!",choice|beautiful~Spicy~Today|Discount~big~Nine,0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12816,16,cloze_passage,exercise,12813,"A: This is {{1}}.
 B: This is {{2}}!",word_bank|beautiful~Cheap~big~Small|beautiful~big,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12817,16,preview_card,preview,12818,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,"Look at the dialogue and choose the correct vocabulary item to fill in the empty spot, making sure it makes sense within the conversation."
+12817,16,true_false,preview,12818,"این عبارت در مکالمه‌ی بعدی می‌آید:
+cheap",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12818,16,cloze_passage,main,,"A: This is {{1}}.
 B: This is {{2}}. {{3}}!",choice|Ten~too big~Please|Thirty~cheap~What time works?|Nice to meet you~Beautiful~Taxi,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12819,16,cloze_passage,exercise,12818,"A: This is {{1}}.
@@ -3006,7 +3081,8 @@ B: This is {{2}}. {{3}}!",word_bank|Too small~Beautiful~cheap~Small~too big|too 
 B: This is {{2}}. {{3}}!",choice|o'clock~too big~Bitter|Eleven~cheap~Boarding pass|It's~This is~Beautiful,1|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12821,16,cloze_passage,exercise,12818,"A: This is {{1}}.
 B: This is {{2}}. {{3}}!",word_bank|Too small~too big~cheap~Small~Beautiful|too big~cheap~Beautiful,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12822,17,preview_card,preview,12823,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این نوع تمرین‌ها برای سنجش توانایی شما در استفاده عملی و ساختاریافته از واژگان آموخته شده است، بنابراین باید کلمات درس را به صورت طبیعی در متن جای دهید.
+12822,17,true_false,preview,12823,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Caution",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12823,17,cloze_passage,main,,"A: {{1}}! {{2}}.
 B: {{3}}.",choice|Caution~I can't~Change|a~Entrance~Nice weather|Three~Boarding pass~Thank you,0|1|2,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12824,17,cloze_passage,exercise,12823,"A: {{1}}! {{2}}.
@@ -3015,7 +3091,8 @@ B: {{3}}.",word_bank|Delayed~Caution~Entrance~Thank you~Exit|Caution~Entrance~Th
 B: {{3}}.",choice|No problem~Caution~Doctor|Entrance~My phone number~Tomorrow|Thank you~The bill~Repeat please,1|0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12826,17,cloze_passage,exercise,12823,"A: {{1}}! {{2}}.
 B: {{3}}.",word_bank|Delayed~Caution~Entrance~Exit~Thank you|Caution~Entrance~Thank you,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12827,17,preview_card,preview,12828,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,در این بخش، شما باید با توجه به مفهوم کلی مکالمه، بهترین کلماتی که از دایره لغات درس آمده‌اند را برای پر کردن جاهای خالی انتخاب کنید.
+12827,17,true_false,preview,12828,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Boarding now",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12828,17,cloze_passage,main,,"A: {{1}} {{2}}?
 B: {{3}}!",choice|I'm from~Where is the~I have|Small~exit~quarter past|What time works?~Boarding now~This address,1|1|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12829,17,cloze_passage,exercise,12828,"A: {{1}} {{2}}?
@@ -3024,7 +3101,8 @@ B: {{3}}!",word_bank|Where is the~Caution~Boarding now~exit~Entrance|Where is th
 B: {{3}}!",choice|a~Cheap~Where is the|exit~Battery~It's|Bitter~Boarding now~Beautiful,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12831,17,cloze_passage,exercise,12828,"A: {{1}} {{2}}?
 B: {{3}}!",word_bank|Boarding now~Where is the~Caution~Entrance~exit|Where is the~exit~Boarding now,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12832,17,preview_card,preview,12833,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,این تمرین‌ها مهارت‌های درک مطلب و تولید زبان را ترکیب می‌کنند؛ شما باید واژگان آموخته شده را به شکل مکالمه‌ای پیوند دهید.
+12832,17,true_false,preview,12833,"این عبارت در مکالمه‌ی بعدی می‌آید:
+delayed",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12833,17,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}! Exit.",choice|Cash~It's~I'm free|Please~I'm sick~delayed|Caution~Discount~What time works?,1|2|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12834,17,cloze_passage,exercise,12833,"A: {{1}} {{2}}.
@@ -3033,7 +3111,8 @@ B: {{3}}! Exit.",word_bank|Boarding now~It's~delayed~Entrance~Caution|It's~delay
 B: {{3}}! Exit.",choice|Delicious~I'm hungry~It's|delayed~Where is the~Understand|I have~Caution~Five,2|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12836,17,cloze_passage,exercise,12833,"A: {{1}} {{2}}.
 B: {{3}}! Exit.",word_bank|It's~Entrance~Caution~delayed~Boarding now|It's~delayed~Caution,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12837,18,preview_card,preview,12838,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,
+12837,18,true_false,preview,12838,"این عبارت در مکالمه‌ی بعدی می‌آید:
+Take care",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12838,18,cloze_passage,main,,"A: {{1}}!
 B: {{2}}.",choice|Take care~Please~Turn right|Eight~Keep in touch~It's,0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12839,18,cloze_passage,exercise,12838,"A: {{1}}!
@@ -3042,7 +3121,8 @@ B: {{2}}.",word_bank|Keep in touch~My email is~Thanks for everything~Take care|T
 B: {{2}}.",choice|Take care~Yesterday~Eleven|Keep in touch~Thanks for everything~It hurts,0|0,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12841,18,cloze_passage,exercise,12838,"A: {{1}}!
 B: {{2}}.",word_bank|Keep in touch~Take care~Thanks for everything~My email is|Take care~Keep in touch,,,,,کلمه‌های درست را از بین گزینه‌ها انتخاب کنید.
-12842,18,preview_card,preview,12843,حالا یک مکالمه‌ی کوتاه می‌بینید که فقط از کلمات همین درس ساخته شده، با چند جای خالی. باید جاهای خالی را با کلمه‌ی درست پر کنید.,قبول,,,,,This exercise tests your ability to use vocabulary contextually; you must choose the word that makes the conversation flow naturally and grammatically correctly within the lesson's theme. Don't just pick a familiar word—make sure it fits the meaning of the sentence.
+12842,18,true_false,preview,12843,"این عبارت در مکالمه‌ی بعدی می‌آید:
+My email is",,true,,,,همین عبارت یکی از جای‌های خالی مکالمه را پر می‌کند.
 12843,18,cloze_passage,main,,"A: {{1}} {{2}}.
 B: {{3}}!",choice|Today~My email is~Bathroom|this~a~Yesterday|SIM card~Thanks for everything~See you later,1|0|1,,,,جاهای خالی را با کلمه‌ی درست پر کنید.
 12844,18,cloze_passage,exercise,12843,"A: {{1}} {{2}}.
