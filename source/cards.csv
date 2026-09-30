@@ -3704,3 +3704,1519 @@ Nice to meet you
 20025,3,listening_card,exercise,12200,,type|One,,,,,"عبارتی که شنیدید:
 One
 (یک)"
+31001,1,listening_card,exercise,9001,,select|سلام|لطفاً|ممنون,0,,course_2001.wav,,"عبارتی که شنیدید:
+Hello
+(سلام)"
+31002,1,listening_card,exercise,9006,,select|صبح بخیر|سلام,0,,course_2002.wav,,"عبارتی که شنیدید:
+Good morning
+(صبح بخیر)"
+31003,1,listening_card,exercise,9012,,select|حال شما چطور هست؟|صبح بخیر|سلام,0,,course_2003.wav,,"عبارتی که شنیدید:
+How are you?
+(حال شما چطور هست؟)"
+31004,1,listening_card,exercise,9017,,select|خوبم|حال شما چطور هست؟|سلام,0,,course_2004.wav,,"عبارتی که شنیدید:
+I'm fine
+(خوبم)"
+31005,1,listening_card,exercise,9023,,select|حالم خوب است|خوبم|صبح بخیر,0,,course_2005.wav,,"عبارتی که شنیدید:
+I'm good
+(حالم خوب است)"
+31006,1,listening_card,exercise,9029,,select|خسته‌ام|حالم خوب است|خوبم,0,,course_2006.wav,,"عبارتی که شنیدید:
+I'm tired
+(خسته‌ام)"
+31007,1,listening_card,exercise,9038,,select|تو چی؟|خسته‌ام|حالم خوب است,0,,course_2007.wav,,"عبارتی که شنیدید:
+And you?
+(تو چی؟)"
+31008,1,listening_card,exercise,9045,,select|لطفاً|تو چی؟|سلام,0,,course_2008.wav,,"عبارتی که شنیدید:
+Please
+(لطفاً)"
+31009,1,listening_card,exercise,9050,,select|ممنون|لطفاً|تو چی؟,0,,course_2009.wav,,"عبارتی که شنیدید:
+Thank you
+(ممنون)"
+39001,1,listening_card,exercise,9001,,select|سلام|لطفاً|ممنون,0,,course_2001.wav,,"عبارتی که شنیدید:
+Hello
+(سلام)"
+39002,1,listening_card,exercise,9006,,select|صبح بخیر|سلام,0,,course_2002.wav,,"عبارتی که شنیدید:
+Good morning
+(صبح بخیر)"
+39003,1,listening_card,exercise,9012,,select|حال شما چطور هست؟|صبح بخیر|سلام,0,,course_2003.wav,,"عبارتی که شنیدید:
+How are you?
+(حال شما چطور هست؟)"
+39004,1,listening_card,exercise,9017,,select|خوبم|حال شما چطور هست؟|سلام,0,,course_2004.wav,,"عبارتی که شنیدید:
+I'm fine
+(خوبم)"
+39005,1,listening_card,exercise,9023,,select|حالم خوب است|خوبم|صبح بخیر,0,,course_2005.wav,,"عبارتی که شنیدید:
+I'm good
+(حالم خوب است)"
+39006,1,listening_card,exercise,9029,,select|خسته‌ام|حالم خوب است|خوبم,0,,course_2006.wav,,"عبارتی که شنیدید:
+I'm tired
+(خسته‌ام)"
+39007,1,listening_card,exercise,9038,,select|تو چی؟|خسته‌ام|حالم خوب است,0,,course_2007.wav,,"عبارتی که شنیدید:
+And you?
+(تو چی؟)"
+39008,1,listening_card,exercise,9045,,select|لطفاً|تو چی؟|سلام,0,,course_2008.wav,,"عبارتی که شنیدید:
+Please
+(لطفاً)"
+39009,1,listening_card,exercise,9050,,select|ممنون|لطفاً|تو چی؟,0,,course_2009.wav,,"عبارتی که شنیدید:
+Thank you
+(ممنون)"
+30001,19,true_false,preview,30002,"S s
+صدایش «س» است، درست یا غلط؟",,true,,,,"S s
+صدای این حرف تقریباً «س» است."
+30002,19,multiple_choice,main,,"S s
+این حرف چه صدایی دارد؟",س|اَ|م,0,,,,"S s
+صدای این حرف تقریباً «س» است."
+30003,19,listening_card,exercise,30002,,select|A a|S s|T t,1,,snd_s.wav,,"صدایی که شنیدید:
+S s
+(تقریباً «س»)"
+30004,19,multiple_choice,exercise,30002,کدام حرف صدای «س» دارد؟,T t|A a|S s,2,,,,صدای «س» مال حرف S s است.
+30005,19,true_false,preview,30006,"A a
+صدایش «اَ» است، درست یا غلط؟",,true,,,,"A a
+صدای این حرف تقریباً «اَ» است."
+30006,19,multiple_choice,main,,"A a
+این حرف چه صدایی دارد؟",ای|اَ|آ,1,,,,"A a
+صدای این حرف تقریباً «اَ» است."
+30007,19,listening_card,exercise,30006,,select|T t|S s|A a,2,,snd_a.wav,,"صدایی که شنیدید:
+A a
+(تقریباً «اَ»)"
+30008,19,multiple_choice,exercise,30006,کدام حرف صدای «اَ» دارد؟,A a|S s|T t,0,,,,صدای «اَ» مال حرف A a است.
+30009,19,true_false,preview,30010,"T t
+صدایش «ت» است، درست یا غلط؟",,true,,,,"T t
+صدای این حرف تقریباً «ت» است."
+30010,19,multiple_choice,main,,"T t
+این حرف چه صدایی دارد؟",د|اِ|ت,2,,,,"T t
+صدای این حرف تقریباً «ت» است."
+30011,19,listening_card,exercise,30010,,select|T t|S s|A a,0,,snd_t.wav,,"صدایی که شنیدید:
+T t
+(تقریباً «ت»)"
+30012,19,multiple_choice,exercise,30010,کدام حرف صدای «ت» دارد؟,A a|T t|S s,1,,,,صدای «ت» مال حرف T t است.
+30013,19,true_false,preview,30014,"P p
+صدایش «پ» است، درست یا غلط؟",,true,,,,"P p
+صدای این حرف تقریباً «پ» است."
+30014,19,multiple_choice,main,,"P p
+این حرف چه صدایی دارد؟",پ|ک|کّ,0,,,,"P p
+صدای این حرف تقریباً «پ» است."
+30015,19,listening_card,exercise,30014,,select|S s|P p|T t,1,,snd_p.wav,,"صدایی که شنیدید:
+P p
+(تقریباً «پ»)"
+30016,19,multiple_choice,exercise,30014,کدام حرف صدای «پ» دارد؟,T t|S s|P p,2,,,,صدای «پ» مال حرف P p است.
+30017,19,true_false,preview,30018,"sat
+یعنی «نشست»، درست یا غلط؟",,true,,,,"sat
+یعنی نشست."
+30018,19,multiple_choice,main,,"sat
+یعنی چی؟",نشست|نوازش|شیره,0,,,,"sat
+یعنی نشست."
+30019,19,listening_card,exercise,30018,,select|شیره|نشست|نوازش,1,,w_sat.wav,,"کلمه‌ای که شنیدید:
+sat
+(نشست)"
+30020,19,listening_card,exercise,30018,,order|s|a|t,0,,w_sat.wav,,"کلمه‌ای که شنیدید:
+sat
+(s + a + t)"
+30021,19,speech_recognition,exercise,30018,sat,,,,,,"آن را بگویید:
+sat"
+30022,19,true_false,preview,30023,"pat
+یعنی «نوازش»، درست یا غلط؟",,true,,,,"pat
+یعنی نوازش."
+30023,19,multiple_choice,main,,"pat
+یعنی چی؟",نشست|نوازش|شیره,1,,,,"pat
+یعنی نوازش."
+30024,19,listening_card,exercise,30023,,select|شیره|نشست|نوازش,2,,w_pat.wav,,"کلمه‌ای که شنیدید:
+pat
+(نوازش)"
+30025,19,listening_card,exercise,30023,,order|p|a|t,0,,w_pat.wav,,"کلمه‌ای که شنیدید:
+pat
+(p + a + t)"
+30026,19,speech_recognition,exercise,30023,pat,,,,,,"آن را بگویید:
+pat"
+30027,19,true_false,preview,30028,"tap
+یعنی «شیر آب»، درست یا غلط؟",,true,,,,"tap
+یعنی شیر آب."
+30028,19,multiple_choice,main,,"tap
+یعنی چی؟",نشست|شیره|شیر آب,2,,,,"tap
+یعنی شیر آب."
+30029,19,listening_card,exercise,30028,,select|شیر آب|شیره|نشست,0,,w_tap.wav,,"کلمه‌ای که شنیدید:
+tap
+(شیر آب)"
+30030,19,listening_card,exercise,30028,,order|t|a|p,0,,w_tap.wav,,"کلمه‌ای که شنیدید:
+tap
+(t + a + p)"
+30031,19,speech_recognition,exercise,30028,tap,,,,,,"آن را بگویید:
+tap"
+30032,19,true_false,preview,30033,"sap
+یعنی «شیره»، درست یا غلط؟",,true,,,,"sap
+یعنی شیره."
+30033,19,multiple_choice,main,,"sap
+یعنی چی؟",شیره|نشست|شیر آب,0,,,,"sap
+یعنی شیره."
+30034,19,listening_card,exercise,30033,,select|شیر آب|شیره|نشست,1,,w_sap.wav,,"کلمه‌ای که شنیدید:
+sap
+(شیره)"
+30035,19,listening_card,exercise,30033,,order|s|a|p,0,,w_sap.wav,,"کلمه‌ای که شنیدید:
+sap
+(s + a + p)"
+30036,19,speech_recognition,exercise,30033,sap,,,,,,"آن را بگویید:
+sap"
+30037,19,match_pairs,exercise,30033,هر کلمه را به معنایش وصل کنید.,sat↔نشست|pat↔نوازش|tap↔شیر آب|sap↔شیره,,,,,هر کلمه را با معنایش جفت کنید.
+30038,20,true_false,preview,30039,"I i
+صدایش «ای» است، درست یا غلط؟",,true,,,,"I i
+صدای این حرف تقریباً «ای» است."
+30039,20,multiple_choice,main,,"I i
+این حرف چه صدایی دارد؟",پ|ای|آ,1,,,,"I i
+صدای این حرف تقریباً «ای» است."
+30040,20,listening_card,exercise,30039,,select|P p|S s|I i,2,,snd_i.wav,,"صدایی که شنیدید:
+I i
+(تقریباً «ای»)"
+30041,20,multiple_choice,exercise,30039,کدام حرف صدای «ای» دارد؟,I i|T t|A a,0,,,,صدای «ای» مال حرف I i است.
+30042,20,true_false,preview,30043,"N n
+صدایش «ن» است، درست یا غلط؟",,true,,,,"N n
+صدای این حرف تقریباً «ن» است."
+30043,20,multiple_choice,main,,"N n
+این حرف چه صدایی دارد؟",د|اِ|ن,2,,,,"N n
+صدای این حرف تقریباً «ن» است."
+30044,20,listening_card,exercise,30043,,select|A a|N n,1,,snd_n.wav,,"صدایی که شنیدید:
+N n
+(تقریباً «ن»)"
+30045,20,multiple_choice,exercise,30043,کدام حرف صدای «ن» دارد؟,N n|T t,0,,,,صدای «ن» مال حرف N n است.
+30046,20,true_false,preview,30047,"M m
+صدایش «م» است، درست یا غلط؟",,true,,,,"M m
+صدای این حرف تقریباً «م» است."
+30047,20,multiple_choice,main,,"M m
+این حرف چه صدایی دارد؟",م|ک|کّ,0,,,,"M m
+صدای این حرف تقریباً «م» است."
+30048,20,listening_card,exercise,30047,,select|P p|M m|T t,1,,snd_m.wav,,"صدایی که شنیدید:
+M m
+(تقریباً «م»)"
+30049,20,multiple_choice,exercise,30047,کدام حرف صدای «م» دارد؟,T t|P p|M m,2,,,,صدای «م» مال حرف M m است.
+30050,20,true_false,preview,30051,"D d
+صدایش «د» است، درست یا غلط؟",,true,,,,"D d
+صدای این حرف تقریباً «د» است."
+30051,20,multiple_choice,main,,"D d
+این حرف چه صدایی دارد؟",اُ|د|ف,1,,,,"D d
+صدای این حرف تقریباً «د» است."
+30052,20,listening_card,exercise,30051,,select|N n|P p|D d,2,,snd_d.wav,,"صدایی که شنیدید:
+D d
+(تقریباً «د»)"
+30053,20,multiple_choice,exercise,30051,کدام حرف صدای «د» دارد؟,D d|T t|I i,0,,,,صدای «د» مال حرف D d است.
+30054,20,true_false,preview,30055,"sit
+یعنی «نشستن»، درست یا غلط؟",,true,,,,"sit
+یعنی نشستن."
+30055,20,multiple_choice,main,,"sit
+یعنی چی؟",نشستن|نوک|غمگین,0,,,,"sit
+یعنی نشستن."
+30056,20,listening_card,exercise,30055,,select|غمگین|نشستن|نوک,1,,w_sit.wav,,"کلمه‌ای که شنیدید:
+sit
+(نشستن)"
+30057,20,listening_card,exercise,30055,,order|s|i|t,0,,w_sit.wav,,"کلمه‌ای که شنیدید:
+sit
+(s + i + t)"
+30058,20,speech_recognition,exercise,30055,sit,,,,,,"آن را بگویید:
+sit"
+30059,20,true_false,preview,30060,"tip
+یعنی «نوک»، درست یا غلط؟",,true,,,,"tip
+یعنی نوک."
+30060,20,multiple_choice,main,,"tip
+یعنی چی؟",مرد|نوک|فرو بردن,1,,,,"tip
+یعنی نوک."
+30061,20,listening_card,exercise,30060,,select|نقشه|شن|نوک,2,,w_tip.wav,,"کلمه‌ای که شنیدید:
+tip
+(نوک)"
+30062,20,listening_card,exercise,30060,,order|t|i|p,0,,w_tip.wav,,"کلمه‌ای که شنیدید:
+tip
+(t + i + p)"
+30063,20,speech_recognition,exercise,30060,tip,,,,,,"آن را بگویید:
+tip"
+30064,20,true_false,preview,30065,"pin
+یعنی «سنجاق»، درست یا غلط؟",,true,,,,"pin
+یعنی سنجاق."
+30065,20,multiple_choice,main,,"pin
+یعنی چی؟",شن|نقشه|سنجاق,2,,,,"pin
+یعنی سنجاق."
+30066,20,listening_card,exercise,30065,,select|سنجاق|فرو بردن|مرد,0,,w_pin.wav,,"کلمه‌ای که شنیدید:
+pin
+(سنجاق)"
+30067,20,listening_card,exercise,30065,,order|p|i|n,0,,w_pin.wav,,"کلمه‌ای که شنیدید:
+pin
+(p + i + n)"
+30068,20,speech_recognition,exercise,30065,pin,,,,,,"آن را بگویید:
+pin"
+30069,20,true_false,preview,30070,"map
+یعنی «نقشه»، درست یا غلط؟",,true,,,,"map
+یعنی نقشه."
+30070,20,multiple_choice,main,,"map
+یعنی چی؟",نقشه|نشستن|غمگین,0,,,,"map
+یعنی نقشه."
+30071,20,listening_card,exercise,30070,,select|غمگین|نقشه|نشستن,1,,w_map.wav,,"کلمه‌ای که شنیدید:
+map
+(نقشه)"
+30072,20,listening_card,exercise,30070,,order|m|a|p,0,,w_map.wav,,"کلمه‌ای که شنیدید:
+map
+(m + a + p)"
+30073,20,speech_recognition,exercise,30070,map,,,,,,"آن را بگویید:
+map"
+30074,20,match_pairs,exercise,30070,هر کلمه را به معنایش وصل کنید.,sit↔نشستن|tip↔نوک|pin↔سنجاق|map↔نقشه,,,,,هر کلمه را با معنایش جفت کنید.
+30075,20,true_false,preview,30076,"man
+یعنی «مرد»، درست یا غلط؟",,true,,,,"man
+یعنی مرد."
+30076,20,multiple_choice,main,,"man
+یعنی چی؟",نقشه|مرد|فرو بردن,1,,,,"man
+یعنی مرد."
+30077,20,listening_card,exercise,30076,,select|سنجاق|شن|مرد,2,,w_man.wav,,"کلمه‌ای که شنیدید:
+man
+(مرد)"
+30078,20,listening_card,exercise,30076,,order|m|a|n,0,,w_man.wav,,"کلمه‌ای که شنیدید:
+man
+(m + a + n)"
+30079,20,speech_recognition,exercise,30076,man,,,,,,"آن را بگویید:
+man"
+30080,20,true_false,preview,30081,"dad
+یعنی «بابا»، درست یا غلط؟",,true,,,,"dad
+یعنی بابا."
+30081,20,multiple_choice,main,,"dad
+یعنی چی؟",شن|سنجاق|بابا,2,,,,"dad
+یعنی بابا."
+30082,20,listening_card,exercise,30081,,select|بابا|فرو بردن|نقشه,0,,w_dad.wav,,"کلمه‌ای که شنیدید:
+dad
+(بابا)"
+30083,20,listening_card,exercise,30081,,order|d|a|d,0,,w_dad.wav,,"کلمه‌ای که شنیدید:
+dad
+(d + a + d)"
+30084,20,speech_recognition,exercise,30081,dad,,,,,,"آن را بگویید:
+dad"
+30085,20,true_false,preview,30086,"sad
+یعنی «غمگین»، درست یا غلط؟",,true,,,,"sad
+یعنی غمگین."
+30086,20,multiple_choice,main,,"sad
+یعنی چی؟",غمگین|نشستن|بابا,0,,,,"sad
+یعنی غمگین."
+30087,20,listening_card,exercise,30086,,select|بابا|غمگین|نشستن,1,,w_sad.wav,,"کلمه‌ای که شنیدید:
+sad
+(غمگین)"
+30088,20,listening_card,exercise,30086,,order|s|a|d,0,,w_sad.wav,,"کلمه‌ای که شنیدید:
+sad
+(s + a + d)"
+30089,20,speech_recognition,exercise,30086,sad,,,,,,"آن را بگویید:
+sad"
+30090,20,true_false,preview,30091,"sand
+یعنی «شن»، درست یا غلط؟",,true,,,,"sand
+یعنی شن."
+30091,20,multiple_choice,main,,"sand
+یعنی چی؟",نقشه|شن|فرو بردن,1,,,,"sand
+یعنی شن."
+30092,20,listening_card,exercise,30091,,select|سنجاق|غمگین|شن,2,,w_sand.wav,,"کلمه‌ای که شنیدید:
+sand
+(شن)"
+30093,20,listening_card,exercise,30091,,order|s|a|n|d,0,,w_sand.wav,,"کلمه‌ای که شنیدید:
+sand
+(s + a + n + d)"
+30094,20,speech_recognition,exercise,30091,sand,,,,,,"آن را بگویید:
+sand"
+30095,20,match_pairs,exercise,30091,هر کلمه را به معنایش وصل کنید.,man↔مرد|dad↔بابا|sad↔غمگین|sand↔شن,,,,,هر کلمه را با معنایش جفت کنید.
+30096,20,true_false,preview,30097,"pan
+یعنی «ماهیتابه»، درست یا غلط؟",,true,,,,"pan
+یعنی ماهیتابه."
+30097,20,multiple_choice,main,,"pan
+یعنی چی؟",غمگین|سنجاق|ماهیتابه,2,,,,"pan
+یعنی ماهیتابه."
+30098,20,listening_card,exercise,30097,,select|ماهیتابه|فرو بردن|نقشه,0,,w_pan.wav,,"کلمه‌ای که شنیدید:
+pan
+(ماهیتابه)"
+30099,20,listening_card,exercise,30097,,order|p|a|n,0,,w_pan.wav,,"کلمه‌ای که شنیدید:
+pan
+(p + a + n)"
+30100,20,speech_recognition,exercise,30097,pan,,,,,,"آن را بگویید:
+pan"
+30101,20,true_false,preview,30102,"dip
+یعنی «فرو بردن»، درست یا غلط؟",,true,,,,"dip
+یعنی فرو بردن."
+30102,20,multiple_choice,main,,"dip
+یعنی چی؟",فرو بردن|نشستن|بابا,0,,,,"dip
+یعنی فرو بردن."
+30103,20,listening_card,exercise,30102,,select|بابا|فرو بردن|نشستن,1,,w_dip.wav,,"کلمه‌ای که شنیدید:
+dip
+(فرو بردن)"
+30104,20,listening_card,exercise,30102,,order|d|i|p,0,,w_dip.wav,,"کلمه‌ای که شنیدید:
+dip
+(d + i + p)"
+30105,20,speech_recognition,exercise,30102,dip,,,,,,"آن را بگویید:
+dip"
+30106,20,match_pairs,exercise,30102,هر کلمه را به معنایش وصل کنید.,pan↔ماهیتابه|dip↔فرو بردن,,,,,هر کلمه را با معنایش جفت کنید.
+30107,21,true_false,preview,30108,"G g
+صدایش «گ» است، درست یا غلط؟",,true,,,,"G g
+صدای این حرف تقریباً «گ» است."
+30108,21,multiple_choice,main,,"G g
+این حرف چه صدایی دارد؟",م|اِ|گ,2,,,,"G g
+صدای این حرف تقریباً «گ» است."
+30109,21,listening_card,exercise,30108,,select|G g|M m|P p,0,,snd_g.wav,,"صدایی که شنیدید:
+G g
+(تقریباً «گ»)"
+30110,21,multiple_choice,exercise,30108,کدام حرف صدای «گ» دارد؟,P p|G g|M m,1,,,,صدای «گ» مال حرف G g است.
+30111,21,true_false,preview,30112,"O o
+صدایش «آ» است، درست یا غلط؟",,true,,,,"O o
+صدای این حرف تقریباً «آ» است."
+30112,21,multiple_choice,main,,"O o
+این حرف چه صدایی دارد؟",آ|ک|کّ,0,,,,"O o
+صدای این حرف تقریباً «آ» است."
+30113,21,listening_card,exercise,30112,,select|S s|O o|N n,1,,snd_o.wav,,"صدایی که شنیدید:
+O o
+(تقریباً «آ»)"
+30114,21,multiple_choice,exercise,30112,کدام حرف صدای «آ» دارد؟,T t|M m|O o,2,,,,صدای «آ» مال حرف O o است.
+30115,21,true_false,preview,30116,"C c
+صدایش «ک» است، درست یا غلط؟",,true,,,,"C c
+صدای این حرف تقریباً «ک» است."
+30116,21,multiple_choice,main,,"C c
+این حرف چه صدایی دارد؟",اُ|ک|ف,1,,,,"C c
+صدای این حرف تقریباً «ک» است."
+30117,21,listening_card,exercise,30116,,select|T t|D d|C c,2,,snd_c.wav,,"صدایی که شنیدید:
+C c
+(تقریباً «ک»)"
+30118,21,multiple_choice,exercise,30116,کدام حرف صدای «ک» دارد؟,C c|A a|M m,0,,,,صدای «ک» مال حرف C c است.
+30119,21,true_false,preview,30120,"K k
+صدایش «کِ» است، درست یا غلط؟",,true,,,,"K k
+صدای این حرف تقریباً «کِ» است."
+30120,21,multiple_choice,main,,"K k
+این حرف چه صدایی دارد؟",ه|چ|کِ,2,,,,"K k
+صدای این حرف تقریباً «کِ» است."
+30121,21,listening_card,exercise,30120,,select|K k|I i|O o,0,,snd_k.wav,,"صدایی که شنیدید:
+K k
+(تقریباً «کِ»)"
+30122,21,multiple_choice,exercise,30120,کدام حرف صدای «کِ» دارد؟,S s|K k|M m,1,,,,صدای «کِ» مال حرف K k است.
+30123,21,true_false,preview,30124,"dog
+یعنی «سگ»، درست یا غلط؟",,true,,,,"dog
+یعنی سگ."
+30124,21,multiple_choice,main,,"dog
+یعنی چی؟",سگ|خوک|بچه,0,,,,"dog
+یعنی سگ."
+30125,21,listening_card,exercise,30124,,select|قابلمه|سگ|بچه,1,,w_dog.wav,,"کلمه‌ای که شنیدید:
+dog
+(سگ)"
+30126,21,listening_card,exercise,30124,,order|d|o|g,0,,w_dog.wav,,"کلمه‌ای که شنیدید:
+dog
+(d + o + g)"
+30127,21,speech_recognition,exercise,30124,dog,,,,,,"آن را بگویید:
+dog"
+30128,21,true_false,preview,30129,"pig
+یعنی «خوک»، درست یا غلط؟",,true,,,,"pig
+یعنی خوک."
+30129,21,multiple_choice,main,,"pig
+یعنی چی؟",قابلمه|خوک|گربه,1,,,,"pig
+یعنی خوک."
+30130,21,listening_card,exercise,30129,,select|سگ|کلاه لبه‌دار|خوک,2,,w_pig.wav,,"کلمه‌ای که شنیدید:
+pig
+(خوک)"
+30131,21,listening_card,exercise,30129,,order|p|i|g,0,,w_pig.wav,,"کلمه‌ای که شنیدید:
+pig
+(p + i + g)"
+30132,21,speech_recognition,exercise,30129,pig,,,,,,"آن را بگویید:
+pig"
+30133,21,true_false,preview,30134,"cat
+یعنی «گربه»، درست یا غلط؟",,true,,,,"cat
+یعنی گربه."
+30134,21,multiple_choice,main,,"cat
+یعنی چی؟",برچسب|بالا|گربه,2,,,,"cat
+یعنی گربه."
+30135,21,listening_card,exercise,30134,,select|گربه|بالا|برچسب,0,,w_cat.wav,,"کلمه‌ای که شنیدید:
+cat
+(گربه)"
+30136,21,listening_card,exercise,30134,,order|c|a|t,0,,w_cat.wav,,"کلمه‌ای که شنیدید:
+cat
+(c + a + t)"
+30137,21,speech_recognition,exercise,30134,cat,,,,,,"آن را بگویید:
+cat"
+30138,21,true_false,preview,30139,"cap
+یعنی «کلاه لبه‌دار»، درست یا غلط؟",,true,,,,"cap
+یعنی کلاه لبه‌دار."
+30139,21,multiple_choice,main,,"cap
+یعنی چی؟",کلاه لبه‌دار|گربه|سگ,0,,,,"cap
+یعنی کلاه لبه‌دار."
+30140,21,listening_card,exercise,30139,,select|خوک|کلاه لبه‌دار|قابلمه,1,,w_cap.wav,,"کلمه‌ای که شنیدید:
+cap
+(کلاه لبه‌دار)"
+30141,21,listening_card,exercise,30139,,order|c|a|p,0,,w_cap.wav,,"کلمه‌ای که شنیدید:
+cap
+(c + a + p)"
+30142,21,speech_recognition,exercise,30139,cap,,,,,,"آن را بگویید:
+cap"
+30143,21,match_pairs,exercise,30139,هر کلمه را به معنایش وصل کنید.,dog↔سگ|pig↔خوک|cat↔گربه|cap↔کلاه لبه‌دار,,,,,هر کلمه را با معنایش جفت کنید.
+30144,21,true_false,preview,30145,"pot
+یعنی «قابلمه»، درست یا غلط؟",,true,,,,"pot
+یعنی قابلمه."
+30145,21,multiple_choice,main,,"pot
+یعنی چی؟",بچه|قابلمه|کلاه لبه‌دار,1,,,,"pot
+یعنی قابلمه."
+30146,21,listening_card,exercise,30145,,select|بچه|سگ|قابلمه,2,,w_pot.wav,,"کلمه‌ای که شنیدید:
+pot
+(قابلمه)"
+30147,21,listening_card,exercise,30145,,order|p|o|t,0,,w_pot.wav,,"کلمه‌ای که شنیدید:
+pot
+(p + o + t)"
+30148,21,speech_recognition,exercise,30145,pot,,,,,,"آن را بگویید:
+pot"
+30149,21,true_false,preview,30150,"top
+یعنی «بالا»، درست یا غلط؟",,true,,,,"top
+یعنی بالا."
+30150,21,multiple_choice,main,,"top
+یعنی چی؟",خوک|برچسب|بالا,2,,,,"top
+یعنی بالا."
+30151,21,listening_card,exercise,30150,,select|بالا|گربه|قابلمه,0,,w_top.wav,,"کلمه‌ای که شنیدید:
+top
+(بالا)"
+30152,21,listening_card,exercise,30150,,order|t|o|p,0,,w_top.wav,,"کلمه‌ای که شنیدید:
+top
+(t + o + p)"
+30153,21,speech_recognition,exercise,30150,top,,,,,,"آن را بگویید:
+top"
+30154,21,true_false,preview,30155,"kid
+یعنی «بچه»، درست یا غلط؟",,true,,,,"kid
+یعنی بچه."
+30155,21,multiple_choice,main,,"kid
+یعنی چی؟",بچه|قابلمه|گربه,0,,,,"kid
+یعنی بچه."
+30156,21,listening_card,exercise,30155,,select|برچسب|بچه|خوک,1,,w_kid.wav,,"کلمه‌ای که شنیدید:
+kid
+(بچه)"
+30157,21,listening_card,exercise,30155,,order|k|i|d,0,,w_kid.wav,,"کلمه‌ای که شنیدید:
+kid
+(k + i + d)"
+30158,21,speech_recognition,exercise,30155,kid,,,,,,"آن را بگویید:
+kid"
+30159,21,true_false,preview,30160,"tag
+یعنی «برچسب»، درست یا غلط؟",,true,,,,"tag
+یعنی برچسب."
+30160,21,multiple_choice,main,,"tag
+یعنی چی؟",سگ|برچسب|بالا,1,,,,"tag
+یعنی برچسب."
+30161,21,listening_card,exercise,30160,,select|کلاه لبه‌دار|بالا|برچسب,2,,w_tag.wav,,"کلمه‌ای که شنیدید:
+tag
+(برچسب)"
+30162,21,listening_card,exercise,30160,,order|t|a|g,0,,w_tag.wav,,"کلمه‌ای که شنیدید:
+tag
+(t + a + g)"
+30163,21,speech_recognition,exercise,30160,tag,,,,,,"آن را بگویید:
+tag"
+30164,21,match_pairs,exercise,30160,هر کلمه را به معنایش وصل کنید.,pot↔قابلمه|top↔بالا|kid↔بچه|tag↔برچسب,,,,,هر کلمه را با معنایش جفت کنید.
+30165,22,true_false,preview,30166,"E e
+صدایش «اِ» است، درست یا غلط؟",,true,,,,"E e
+صدای این حرف تقریباً «اِ» است."
+30166,22,multiple_choice,main,,"E e
+این حرف چه صدایی دارد؟",اِ|آ|کّ,0,,,,"E e
+صدای این حرف تقریباً «اِ» است."
+30167,22,listening_card,exercise,30166,,select|O o|E e|T t,1,,snd_e.wav,,"صدایی که شنیدید:
+E e
+(تقریباً «اِ»)"
+30168,22,multiple_choice,exercise,30166,کدام حرف صدای «اِ» دارد؟,G g|P p|E e,2,,,,صدای «اِ» مال حرف E e است.
+30169,22,true_false,preview,30170,"U u
+صدایش «اُ» است، درست یا غلط؟",,true,,,,"U u
+صدای این حرف تقریباً «اُ» است."
+30170,22,multiple_choice,main,,"U u
+این حرف چه صدایی دارد؟",اِ|اُ|ف,1,,,,"U u
+صدای این حرف تقریباً «اُ» است."
+30171,22,listening_card,exercise,30170,,select|E e|I i|U u,2,,snd_u.wav,,"صدایی که شنیدید:
+U u
+(تقریباً «اُ»)"
+30172,22,multiple_choice,exercise,30170,کدام حرف صدای «اُ» دارد؟,U u|D d|T t,0,,,,صدای «اُ» مال حرف U u است.
+30173,22,true_false,preview,30174,"R r
+صدایش «ر» است، درست یا غلط؟",,true,,,,"R r
+صدای این حرف تقریباً «ر» است."
+30174,22,multiple_choice,main,,"R r
+این حرف چه صدایی دارد؟",ه|چ|ر,2,,,,"R r
+صدای این حرف تقریباً «ر» است."
+30175,22,listening_card,exercise,30174,,select|R r|A a|M m,0,,snd_r.wav,,"صدایی که شنیدید:
+R r
+(تقریباً «ر»)"
+30176,22,multiple_choice,exercise,30174,کدام حرف صدای «ر» دارد؟,M m|R r|A a,1,,,,صدای «ر» مال حرف R r است.
+30177,22,true_false,preview,30178,"ck
+صدایش «کّ» است، درست یا غلط؟",,true,,,,"ck
+صدای این حرف تقریباً «کّ» است."
+30178,22,multiple_choice,main,,"ck
+این حرف چه صدایی دارد؟",کّ|ل|وُ,0,,,,"ck
+صدای این حرف تقریباً «کّ» است."
+30179,22,listening_card,exercise,30178,,select|P p|ck|G g,1,,snd_ck.wav,,"صدایی که شنیدید:
+ck
+(تقریباً «کّ»)"
+30180,22,multiple_choice,exercise,30178,کدام حرف صدای «کّ» دارد؟,N n|S s|ck,2,,,,صدای «کّ» مال حرف ck است.
+30181,22,true_false,preview,30182,"red
+یعنی «قرمز»، درست یا غلط؟",,true,,,,"red
+یعنی قرمز."
+30182,22,multiple_choice,main,,"red
+یعنی چی؟",قرمز|خودکار|فنجان,0,,,,"red
+یعنی قرمز."
+30183,22,listening_card,exercise,30182,,select|فنجان|قرمز|خودکار,1,,w_red.wav,,"کلمه‌ای که شنیدید:
+red
+(قرمز)"
+30184,22,listening_card,exercise,30182,,order|r|e|d,0,,w_red.wav,,"کلمه‌ای که شنیدید:
+red
+(r + e + d)"
+30185,22,speech_recognition,exercise,30182,red,,,,,,"آن را بگویید:
+red"
+30186,22,true_false,preview,30187,"pen
+یعنی «خودکار»، درست یا غلط؟",,true,,,,"pen
+یعنی خودکار."
+30187,22,multiple_choice,main,,"pen
+یعنی چی؟",دویدن|خودکار|اردک,1,,,,"pen
+یعنی خودکار."
+30188,22,listening_card,exercise,30187,,select|مردان|فرش کوچک|خودکار,2,,w_pen.wav,,"کلمه‌ای که شنیدید:
+pen
+(خودکار)"
+30189,22,listening_card,exercise,30187,,order|p|e|n,0,,w_pen.wav,,"کلمه‌ای که شنیدید:
+pen
+(p + e + n)"
+30190,22,speech_recognition,exercise,30187,pen,,,,,,"آن را بگویید:
+pen"
+30191,22,true_false,preview,30192,"ten
+یعنی «ده»، درست یا غلط؟",,true,,,,"ten
+یعنی ده."
+30192,22,multiple_choice,main,,"ten
+یعنی چی؟",فرش کوچک|مردان|ده,2,,,,"ten
+یعنی ده."
+30193,22,listening_card,exercise,30192,,select|ده|اردک|دویدن,0,,w_ten.wav,,"کلمه‌ای که شنیدید:
+ten
+(ده)"
+30194,22,listening_card,exercise,30192,,order|t|e|n,0,,w_ten.wav,,"کلمه‌ای که شنیدید:
+ten
+(t + e + n)"
+30195,22,speech_recognition,exercise,30192,ten,,,,,,"آن را بگویید:
+ten"
+30196,22,true_false,preview,30197,"men
+یعنی «مردان»، درست یا غلط؟",,true,,,,"men
+یعنی مردان."
+30197,22,multiple_choice,main,,"men
+یعنی چی؟",مردان|قرمز|فنجان,0,,,,"men
+یعنی مردان."
+30198,22,listening_card,exercise,30197,,select|فنجان|مردان|قرمز,1,,w_men.wav,,"کلمه‌ای که شنیدید:
+men
+(مردان)"
+30199,22,listening_card,exercise,30197,,order|m|e|n,0,,w_men.wav,,"کلمه‌ای که شنیدید:
+men
+(m + e + n)"
+30200,22,speech_recognition,exercise,30197,men,,,,,,"آن را بگویید:
+men"
+30201,22,match_pairs,exercise,30197,هر کلمه را به معنایش وصل کنید.,red↔قرمز|pen↔خودکار|ten↔ده|men↔مردان,,,,,هر کلمه را با معنایش جفت کنید.
+30202,22,true_false,preview,30203,"run
+یعنی «دویدن»، درست یا غلط؟",,true,,,,"run
+یعنی دویدن."
+30203,22,multiple_choice,main,,"run
+یعنی چی؟",مردان|دویدن|اردک,1,,,,"run
+یعنی دویدن."
+30204,22,listening_card,exercise,30203,,select|ده|فرش کوچک|دویدن,2,,w_run.wav,,"کلمه‌ای که شنیدید:
+run
+(دویدن)"
+30205,22,listening_card,exercise,30203,,order|r|u|n,0,,w_run.wav,,"کلمه‌ای که شنیدید:
+run
+(r + u + n)"
+30206,22,speech_recognition,exercise,30203,run,,,,,,"آن را بگویید:
+run"
+30207,22,true_false,preview,30208,"sun
+یعنی «خورشید»، درست یا غلط؟",,true,,,,"sun
+یعنی خورشید."
+30208,22,multiple_choice,main,,"sun
+یعنی چی؟",فرش کوچک|ده|خورشید,2,,,,"sun
+یعنی خورشید."
+30209,22,listening_card,exercise,30208,,select|خورشید|اردک|مردان,0,,w_sun.wav,,"کلمه‌ای که شنیدید:
+sun
+(خورشید)"
+30210,22,listening_card,exercise,30208,,order|s|u|n,0,,w_sun.wav,,"کلمه‌ای که شنیدید:
+sun
+(s + u + n)"
+30211,22,speech_recognition,exercise,30208,sun,,,,,,"آن را بگویید:
+sun"
+30212,22,true_false,preview,30213,"cup
+یعنی «فنجان»، درست یا غلط؟",,true,,,,"cup
+یعنی فنجان."
+30213,22,multiple_choice,main,,"cup
+یعنی چی؟",فنجان|قرمز|خورشید,0,,,,"cup
+یعنی فنجان."
+30214,22,listening_card,exercise,30213,,select|خورشید|فنجان|قرمز,1,,w_cup.wav,,"کلمه‌ای که شنیدید:
+cup
+(فنجان)"
+30215,22,listening_card,exercise,30213,,order|c|u|p,0,,w_cup.wav,,"کلمه‌ای که شنیدید:
+cup
+(c + u + p)"
+30216,22,speech_recognition,exercise,30213,cup,,,,,,"آن را بگویید:
+cup"
+30217,22,true_false,preview,30218,"rug
+یعنی «فرش کوچک»، درست یا غلط؟",,true,,,,"rug
+یعنی فرش کوچک."
+30218,22,multiple_choice,main,,"rug
+یعنی چی؟",مردان|فرش کوچک|اردک,1,,,,"rug
+یعنی فرش کوچک."
+30219,22,listening_card,exercise,30218,,select|ده|فنجان|فرش کوچک,2,,w_rug.wav,,"کلمه‌ای که شنیدید:
+rug
+(فرش کوچک)"
+30220,22,listening_card,exercise,30218,,order|r|u|g,0,,w_rug.wav,,"کلمه‌ای که شنیدید:
+rug
+(r + u + g)"
+30221,22,speech_recognition,exercise,30218,rug,,,,,,"آن را بگویید:
+rug"
+30222,22,match_pairs,exercise,30218,هر کلمه را به معنایش وصل کنید.,run↔دویدن|sun↔خورشید|cup↔فنجان|rug↔فرش کوچک,,,,,هر کلمه را با معنایش جفت کنید.
+30223,22,true_false,preview,30224,"sock
+یعنی «جوراب»، درست یا غلط؟",,true,,,,"sock
+یعنی جوراب."
+30224,22,multiple_choice,main,,"sock
+یعنی چی؟",فنجان|ده|جوراب,2,,,,"sock
+یعنی جوراب."
+30225,22,listening_card,exercise,30224,,select|جوراب|اردک|مردان,0,,w_sock.wav,,"کلمه‌ای که شنیدید:
+sock
+(جوراب)"
+30226,22,listening_card,exercise,30224,,order|s|o|ck,0,,w_sock.wav,,"کلمه‌ای که شنیدید:
+sock
+(s + o + ck)"
+30227,22,speech_recognition,exercise,30224,sock,,,,,,"آن را بگویید:
+sock"
+30228,22,true_false,preview,30229,"duck
+یعنی «اردک»، درست یا غلط؟",,true,,,,"duck
+یعنی اردک."
+30229,22,multiple_choice,main,,"duck
+یعنی چی؟",اردک|قرمز|خورشید,0,,,,"duck
+یعنی اردک."
+30230,22,listening_card,exercise,30229,,select|خورشید|اردک|قرمز,1,,w_duck.wav,,"کلمه‌ای که شنیدید:
+duck
+(اردک)"
+30231,22,listening_card,exercise,30229,,order|d|u|ck,0,,w_duck.wav,,"کلمه‌ای که شنیدید:
+duck
+(d + u + ck)"
+30232,22,speech_recognition,exercise,30229,duck,,,,,,"آن را بگویید:
+duck"
+30233,22,match_pairs,exercise,30229,هر کلمه را به معنایش وصل کنید.,sock↔جوراب|duck↔اردک,,,,,هر کلمه را با معنایش جفت کنید.
+30234,23,true_false,preview,30235,"H h
+صدایش «ه» است، درست یا غلط؟",,true,,,,"H h
+صدای این حرف تقریباً «ه» است."
+30235,23,multiple_choice,main,,"H h
+این حرف چه صدایی دارد؟",اِ|ه|ف,1,,,,"H h
+صدای این حرف تقریباً «ه» است."
+30236,23,listening_card,exercise,30235,,select|E e|A a|H h,2,,snd_h.wav,,"صدایی که شنیدید:
+H h
+(تقریباً «ه»)"
+30237,23,multiple_choice,exercise,30235,کدام حرف صدای «ه» دارد؟,H h|U u|G g,0,,,,صدای «ه» مال حرف H h است.
+30238,23,true_false,preview,30239,"B b
+صدایش «ب» است، درست یا غلط؟",,true,,,,"B b
+صدای این حرف تقریباً «ب» است."
+30239,23,multiple_choice,main,,"B b
+این حرف چه صدایی دارد؟",کّ|چ|ب,2,,,,"B b
+صدای این حرف تقریباً «ب» است."
+30240,23,listening_card,exercise,30239,,select|B b|ck|P p,0,,snd_b.wav,,"صدایی که شنیدید:
+B b
+(تقریباً «ب»)"
+30241,23,multiple_choice,exercise,30239,کدام حرف صدای «ب» دارد؟,E e|B b|D d,1,,,,صدای «ب» مال حرف B b است.
+30242,23,true_false,preview,30243,"F f
+صدایش «ف» است، درست یا غلط؟",,true,,,,"F f
+صدای این حرف تقریباً «ف» است."
+30243,23,multiple_choice,main,,"F f
+این حرف چه صدایی دارد؟",ف|ل|وُ,0,,,,"F f
+صدای این حرف تقریباً «ف» است."
+30244,23,listening_card,exercise,30243,,select|S s|F f|N n,1,,snd_f.wav,,"صدایی که شنیدید:
+F f
+(تقریباً «ف»)"
+30245,23,multiple_choice,exercise,30243,کدام حرف صدای «ف» دارد؟,K k|M m|F f,2,,,,صدای «ف» مال حرف F f است.
+30246,23,true_false,preview,30247,"L l
+صدایش «ل» است، درست یا غلط؟",,true,,,,"L l
+صدای این حرف تقریباً «ل» است."
+30247,23,multiple_choice,main,,"L l
+این حرف چه صدایی دارد؟",ث|ل|ی,1,,,,"L l
+صدای این حرف تقریباً «ل» است."
+30248,23,listening_card,exercise,30247,,select|T t|D d|L l,2,,snd_l.wav,,"صدایی که شنیدید:
+L l
+(تقریباً «ل»)"
+30249,23,multiple_choice,exercise,30247,کدام حرف صدای «ل» دارد؟,L l|C c|N n,0,,,,صدای «ل» مال حرف L l است.
+30250,23,true_false,preview,30251,"hat
+یعنی «کلاه»، درست یا غلط؟",,true,,,,"hat
+یعنی کلاه."
+30251,23,multiple_choice,main,,"hat
+یعنی چی؟",کلاه|داغ|پنکه,0,,,,"hat
+یعنی کلاه."
+30252,23,listening_card,exercise,30251,,select|پنکه|کلاه|داغ,1,,w_hat.wav,,"کلمه‌ای که شنیدید:
+hat
+(کلاه)"
+30253,23,listening_card,exercise,30251,,order|h|a|t,0,,w_hat.wav,,"کلمه‌ای که شنیدید:
+hat
+(h + a + t)"
+30254,23,speech_recognition,exercise,30251,hat,,,,,,"آن را بگویید:
+hat"
+30255,23,true_false,preview,30256,"hot
+یعنی «داغ»، درست یا غلط؟",,true,,,,"hot
+یعنی داغ."
+30256,23,multiple_choice,main,,"hot
+یعنی چی؟",تخت|داغ|بغل کردن,1,,,,"hot
+یعنی داغ."
+30257,23,listening_card,exercise,30256,,select|بزرگ|پا|داغ,2,,w_hot.wav,,"کلمه‌ای که شنیدید:
+hot
+(داغ)"
+30258,23,listening_card,exercise,30256,,order|h|o|t,0,,w_hot.wav,,"کلمه‌ای که شنیدید:
+hot
+(h + o + t)"
+30259,23,speech_recognition,exercise,30256,hot,,,,,,"آن را بگویید:
+hot"
+30260,23,true_false,preview,30261,"bag
+یعنی «کیف»، درست یا غلط؟",,true,,,,"bag
+یعنی کیف."
+30261,23,multiple_choice,main,,"bag
+یعنی چی؟",پا|بزرگ|کیف,2,,,,"bag
+یعنی کیف."
+30262,23,listening_card,exercise,30261,,select|کیف|بغل کردن|تخت,0,,w_bag.wav,,"کلمه‌ای که شنیدید:
+bag
+(کیف)"
+30263,23,listening_card,exercise,30261,,order|b|a|g,0,,w_bag.wav,,"کلمه‌ای که شنیدید:
+bag
+(b + a + g)"
+30264,23,speech_recognition,exercise,30261,bag,,,,,,"آن را بگویید:
+bag"
+30265,23,true_false,preview,30266,"big
+یعنی «بزرگ»، درست یا غلط؟",,true,,,,"big
+یعنی بزرگ."
+30266,23,multiple_choice,main,,"big
+یعنی چی؟",بزرگ|کلاه|پنکه,0,,,,"big
+یعنی بزرگ."
+30267,23,listening_card,exercise,30266,,select|پنکه|بزرگ|کلاه,1,,w_big.wav,,"کلمه‌ای که شنیدید:
+big
+(بزرگ)"
+30268,23,listening_card,exercise,30266,,order|b|i|g,0,,w_big.wav,,"کلمه‌ای که شنیدید:
+big
+(b + i + g)"
+30269,23,speech_recognition,exercise,30266,big,,,,,,"آن را بگویید:
+big"
+30270,23,match_pairs,exercise,30266,هر کلمه را به معنایش وصل کنید.,hat↔کلاه|hot↔داغ|bag↔کیف|big↔بزرگ,,,,,هر کلمه را با معنایش جفت کنید.
+30271,23,true_false,preview,30272,"bed
+یعنی «تخت»، درست یا غلط؟",,true,,,,"bed
+یعنی تخت."
+30272,23,multiple_choice,main,,"bed
+یعنی چی؟",بزرگ|تخت|بغل کردن,1,,,,"bed
+یعنی تخت."
+30273,23,listening_card,exercise,30272,,select|کیف|پا|تخت,2,,w_bed.wav,,"کلمه‌ای که شنیدید:
+bed
+(تخت)"
+30274,23,listening_card,exercise,30272,,order|b|e|d,0,,w_bed.wav,,"کلمه‌ای که شنیدید:
+bed
+(b + e + d)"
+30275,23,speech_recognition,exercise,30272,bed,,,,,,"آن را بگویید:
+bed"
+30276,23,true_false,preview,30277,"bus
+یعنی «اتوبوس»، درست یا غلط؟",,true,,,,"bus
+یعنی اتوبوس."
+30277,23,multiple_choice,main,,"bus
+یعنی چی؟",پا|کیف|اتوبوس,2,,,,"bus
+یعنی اتوبوس."
+30278,23,listening_card,exercise,30277,,select|اتوبوس|بغل کردن|بزرگ,0,,w_bus.wav,,"کلمه‌ای که شنیدید:
+bus
+(اتوبوس)"
+30279,23,listening_card,exercise,30277,,order|b|u|s,0,,w_bus.wav,,"کلمه‌ای که شنیدید:
+bus
+(b + u + s)"
+30280,23,speech_recognition,exercise,30277,bus,,,,,,"آن را بگویید:
+bus"
+30281,23,true_false,preview,30282,"fan
+یعنی «پنکه»، درست یا غلط؟",,true,,,,"fan
+یعنی پنکه."
+30282,23,multiple_choice,main,,"fan
+یعنی چی؟",پنکه|کلاه|اتوبوس,0,,,,"fan
+یعنی پنکه."
+30283,23,listening_card,exercise,30282,,select|اتوبوس|پنکه|کلاه,1,,w_fan.wav,,"کلمه‌ای که شنیدید:
+fan
+(پنکه)"
+30284,23,listening_card,exercise,30282,,order|f|a|n,0,,w_fan.wav,,"کلمه‌ای که شنیدید:
+fan
+(f + a + n)"
+30285,23,speech_recognition,exercise,30282,fan,,,,,,"آن را بگویید:
+fan"
+30286,23,true_false,preview,30287,"leg
+یعنی «پا»، درست یا غلط؟",,true,,,,"leg
+یعنی پا."
+30287,23,multiple_choice,main,,"leg
+یعنی چی؟",بزرگ|پا|بغل کردن,1,,,,"leg
+یعنی پا."
+30288,23,listening_card,exercise,30287,,select|کیف|پنکه|پا,2,,w_leg.wav,,"کلمه‌ای که شنیدید:
+leg
+(پا)"
+30289,23,listening_card,exercise,30287,,order|l|e|g,0,,w_leg.wav,,"کلمه‌ای که شنیدید:
+leg
+(l + e + g)"
+30290,23,speech_recognition,exercise,30287,leg,,,,,,"آن را بگویید:
+leg"
+30291,23,match_pairs,exercise,30287,هر کلمه را به معنایش وصل کنید.,bed↔تخت|bus↔اتوبوس|fan↔پنکه|leg↔پا,,,,,هر کلمه را با معنایش جفت کنید.
+30292,23,true_false,preview,30293,"hen
+یعنی «مرغ»، درست یا غلط؟",,true,,,,"hen
+یعنی مرغ."
+30293,23,multiple_choice,main,,"hen
+یعنی چی؟",پنکه|کیف|مرغ,2,,,,"hen
+یعنی مرغ."
+30294,23,listening_card,exercise,30293,,select|مرغ|بغل کردن|بزرگ,0,,w_hen.wav,,"کلمه‌ای که شنیدید:
+hen
+(مرغ)"
+30295,23,listening_card,exercise,30293,,order|h|e|n,0,,w_hen.wav,,"کلمه‌ای که شنیدید:
+hen
+(h + e + n)"
+30296,23,speech_recognition,exercise,30293,hen,,,,,,"آن را بگویید:
+hen"
+30297,23,true_false,preview,30298,"hug
+یعنی «بغل کردن»، درست یا غلط؟",,true,,,,"hug
+یعنی بغل کردن."
+30298,23,multiple_choice,main,,"hug
+یعنی چی؟",بغل کردن|کلاه|اتوبوس,0,,,,"hug
+یعنی بغل کردن."
+30299,23,listening_card,exercise,30298,,select|اتوبوس|بغل کردن|کلاه,1,,w_hug.wav,,"کلمه‌ای که شنیدید:
+hug
+(بغل کردن)"
+30300,23,listening_card,exercise,30298,,order|h|u|g,0,,w_hug.wav,,"کلمه‌ای که شنیدید:
+hug
+(h + u + g)"
+30301,23,speech_recognition,exercise,30298,hug,,,,,,"آن را بگویید:
+hug"
+30302,23,match_pairs,exercise,30298,هر کلمه را به معنایش وصل کنید.,hen↔مرغ|hug↔بغل کردن,,,,,هر کلمه را با معنایش جفت کنید.
+30303,24,true_false,preview,30304,"sh
+صدایش «ش» است، درست یا غلط؟",,true,,,,"sh
+صدای این حرف تقریباً «ش» است."
+30304,24,multiple_choice,main,,"sh
+این حرف چه صدایی دارد؟",کّ|چ|ش,2,,,,"sh
+صدای این حرف تقریباً «ش» است."
+30305,24,listening_card,exercise,30304,,select|sh|ck|S s,0,,snd_sh.wav,,"صدایی که شنیدید:
+sh
+(تقریباً «ش»)"
+30306,24,multiple_choice,exercise,30304,کدام حرف صدای «ش» دارد؟,F f|sh|U u,1,,,,صدای «ش» مال حرف sh است.
+30307,24,true_false,preview,30308,"ch
+صدایش «چ» است، درست یا غلط؟",,true,,,,"ch
+صدای این حرف تقریباً «چ» است."
+30308,24,multiple_choice,main,,"ch
+این حرف چه صدایی دارد؟",چ|ف|وُ,0,,,,"ch
+صدای این حرف تقریباً «چ» است."
+30309,24,listening_card,exercise,30308,,select|F f|ch|T t,1,,snd_ch.wav,,"صدایی که شنیدید:
+ch
+(تقریباً «چ»)"
+30310,24,multiple_choice,exercise,30308,کدام حرف صدای «چ» دارد؟,B b|E e|ch,2,,,,صدای «چ» مال حرف ch است.
+30311,24,true_false,preview,30312,"th
+صدایش «ث» است، درست یا غلط؟",,true,,,,"th
+صدای این حرف تقریباً «ث» است."
+30312,24,multiple_choice,main,,"th
+این حرف چه صدایی دارد؟",چ|ث|ی,1,,,,"th
+صدای این حرف تقریباً «ث» است."
+30313,24,listening_card,exercise,30312,,select|ch|I i|th,2,,snd_th.wav,,"صدایی که شنیدید:
+th
+(تقریباً «ث»)"
+30314,24,multiple_choice,exercise,30312,کدام حرف صدای «ث» دارد؟,th|H h|K k,0,,,,صدای «ث» مال حرف th است.
+30315,24,true_false,preview,30316,"ng
+صدایش «نگ» است، درست یا غلط؟",,true,,,,"ng
+صدای این حرف تقریباً «نگ» است."
+30316,24,multiple_choice,main,,"ng
+این حرف چه صدایی دارد؟",ج|کو|نگ,2,,,,"ng
+صدای این حرف تقریباً «نگ» است."
+30317,24,listening_card,exercise,30316,,select|ng|A a|M m,0,,snd_ng.wav,,"صدایی که شنیدید:
+ng
+(تقریباً «نگ»)"
+30318,24,multiple_choice,exercise,30316,کدام حرف صدای «نگ» دارد؟,ck|ng|C c,1,,,,صدای «نگ» مال حرف ng است.
+30319,24,true_false,preview,30320,"ship
+یعنی «کشتی»، درست یا غلط؟",,true,,,,"ship
+یعنی کشتی."
+30320,24,multiple_choice,main,,"ship
+یعنی چی؟",کشتی|ماهی|آن,0,,,,"ship
+یعنی کشتی."
+30321,24,listening_card,exercise,30320,,select|آن|کشتی|ماهی,1,,w_ship.wav,,"کلمه‌ای که شنیدید:
+ship
+(کشتی)"
+30322,24,listening_card,exercise,30320,,order|sh|i|p,0,,w_ship.wav,,"کلمه‌ای که شنیدید:
+ship
+(sh + i + p)"
+30323,24,speech_recognition,exercise,30320,ship,,,,,,"آن را بگویید:
+ship"
+30324,24,true_false,preview,30325,"fish
+یعنی «ماهی»، درست یا غلط؟",,true,,,,"fish
+یعنی ماهی."
+30325,24,multiple_choice,main,,"fish
+یعنی چی؟",چیپس|ماهی|انگشتر,1,,,,"fish
+یعنی ماهی."
+30326,24,listening_card,exercise,30325,,select|چانه|لاغر|ماهی,2,,w_fish.wav,,"کلمه‌ای که شنیدید:
+fish
+(ماهی)"
+30327,24,listening_card,exercise,30325,,order|f|i|sh,0,,w_fish.wav,,"کلمه‌ای که شنیدید:
+fish
+(f + i + sh)"
+30328,24,speech_recognition,exercise,30325,fish,,,,,,"آن را بگویید:
+fish"
+30329,24,true_false,preview,30330,"shop
+یعنی «مغازه»، درست یا غلط؟",,true,,,,"shop
+یعنی مغازه."
+30330,24,multiple_choice,main,,"shop
+یعنی چی؟",لاغر|چانه|مغازه,2,,,,"shop
+یعنی مغازه."
+30331,24,listening_card,exercise,30330,,select|مغازه|انگشتر|چیپس,0,,w_shop.wav,,"کلمه‌ای که شنیدید:
+shop
+(مغازه)"
+30332,24,listening_card,exercise,30330,,order|sh|o|p,0,,w_shop.wav,,"کلمه‌ای که شنیدید:
+shop
+(sh + o + p)"
+30333,24,speech_recognition,exercise,30330,shop,,,,,,"آن را بگویید:
+shop"
+30334,24,true_false,preview,30335,"chin
+یعنی «چانه»، درست یا غلط؟",,true,,,,"chin
+یعنی چانه."
+30335,24,multiple_choice,main,,"chin
+یعنی چی؟",چانه|کشتی|آن,0,,,,"chin
+یعنی چانه."
+30336,24,listening_card,exercise,30335,,select|آن|چانه|کشتی,1,,w_chin.wav,,"کلمه‌ای که شنیدید:
+chin
+(چانه)"
+30337,24,listening_card,exercise,30335,,order|ch|i|n,0,,w_chin.wav,,"کلمه‌ای که شنیدید:
+chin
+(ch + i + n)"
+30338,24,speech_recognition,exercise,30335,chin,,,,,,"آن را بگویید:
+chin"
+30339,24,match_pairs,exercise,30335,هر کلمه را به معنایش وصل کنید.,ship↔کشتی|fish↔ماهی|shop↔مغازه|chin↔چانه,,,,,هر کلمه را با معنایش جفت کنید.
+30340,24,true_false,preview,30341,"chip
+یعنی «چیپس»، درست یا غلط؟",,true,,,,"chip
+یعنی چیپس."
+30341,24,multiple_choice,main,,"chip
+یعنی چی؟",چانه|چیپس|انگشتر,1,,,,"chip
+یعنی چیپس."
+30342,24,listening_card,exercise,30341,,select|مغازه|لاغر|چیپس,2,,w_chip.wav,,"کلمه‌ای که شنیدید:
+chip
+(چیپس)"
+30343,24,listening_card,exercise,30341,,order|ch|i|p,0,,w_chip.wav,,"کلمه‌ای که شنیدید:
+chip
+(ch + i + p)"
+30344,24,speech_recognition,exercise,30341,chip,,,,,,"آن را بگویید:
+chip"
+30345,24,true_false,preview,30346,"this
+یعنی «این»، درست یا غلط؟",,true,,,,"this
+یعنی این."
+30346,24,multiple_choice,main,,"this
+یعنی چی؟",لاغر|مغازه|این,2,,,,"this
+یعنی این."
+30347,24,listening_card,exercise,30346,,select|این|انگشتر|چانه,0,,w_this.wav,,"کلمه‌ای که شنیدید:
+this
+(این)"
+30348,24,listening_card,exercise,30346,,order|th|i|s,0,,w_this.wav,,"کلمه‌ای که شنیدید:
+this
+(th + i + s)"
+30349,24,speech_recognition,exercise,30346,this,,,,,,"آن را بگویید:
+this"
+30350,24,true_false,preview,30351,"that
+یعنی «آن»، درست یا غلط؟",,true,,,,"that
+یعنی آن."
+30351,24,multiple_choice,main,,"that
+یعنی چی؟",آن|کشتی|این,0,,,,"that
+یعنی آن."
+30352,24,listening_card,exercise,30351,,select|این|آن|کشتی,1,,w_that.wav,,"کلمه‌ای که شنیدید:
+that
+(آن)"
+30353,24,listening_card,exercise,30351,,order|th|a|t,0,,w_that.wav,,"کلمه‌ای که شنیدید:
+that
+(th + a + t)"
+30354,24,speech_recognition,exercise,30351,that,,,,,,"آن را بگویید:
+that"
+30355,24,true_false,preview,30356,"thin
+یعنی «لاغر»، درست یا غلط؟",,true,,,,"thin
+یعنی لاغر."
+30356,24,multiple_choice,main,,"thin
+یعنی چی؟",چانه|لاغر|انگشتر,1,,,,"thin
+یعنی لاغر."
+30357,24,listening_card,exercise,30356,,select|مغازه|آن|لاغر,2,,w_thin.wav,,"کلمه‌ای که شنیدید:
+thin
+(لاغر)"
+30358,24,listening_card,exercise,30356,,order|th|i|n,0,,w_thin.wav,,"کلمه‌ای که شنیدید:
+thin
+(th + i + n)"
+30359,24,speech_recognition,exercise,30356,thin,,,,,,"آن را بگویید:
+thin"
+30360,24,match_pairs,exercise,30356,هر کلمه را به معنایش وصل کنید.,chip↔چیپس|this↔این|that↔آن|thin↔لاغر,,,,,هر کلمه را با معنایش جفت کنید.
+30361,24,true_false,preview,30362,"sing
+یعنی «خواندن»، درست یا غلط؟",,true,,,,"sing
+یعنی خواندن."
+30362,24,multiple_choice,main,,"sing
+یعنی چی؟",آن|مغازه|خواندن,2,,,,"sing
+یعنی خواندن."
+30363,24,listening_card,exercise,30362,,select|خواندن|انگشتر|چانه,0,,w_sing.wav,,"کلمه‌ای که شنیدید:
+sing
+(خواندن)"
+30364,24,listening_card,exercise,30362,,order|s|i|ng,0,,w_sing.wav,,"کلمه‌ای که شنیدید:
+sing
+(s + i + ng)"
+30365,24,speech_recognition,exercise,30362,sing,,,,,,"آن را بگویید:
+sing"
+30366,24,true_false,preview,30367,"ring
+یعنی «انگشتر»، درست یا غلط؟",,true,,,,"ring
+یعنی انگشتر."
+30367,24,multiple_choice,main,,"ring
+یعنی چی؟",انگشتر|کشتی|این,0,,,,"ring
+یعنی انگشتر."
+30368,24,listening_card,exercise,30367,,select|این|انگشتر|کشتی,1,,w_ring.wav,,"کلمه‌ای که شنیدید:
+ring
+(انگشتر)"
+30369,24,listening_card,exercise,30367,,order|r|i|ng,0,,w_ring.wav,,"کلمه‌ای که شنیدید:
+ring
+(r + i + ng)"
+30370,24,speech_recognition,exercise,30367,ring,,,,,,"آن را بگویید:
+ring"
+30371,24,match_pairs,exercise,30367,هر کلمه را به معنایش وصل کنید.,sing↔خواندن|ring↔انگشتر,,,,,هر کلمه را با معنایش جفت کنید.
+30372,25,true_false,preview,30373,"W w
+صدایش «وُ» است، درست یا غلط؟",,true,,,,"W w
+صدای این حرف تقریباً «وُ» است."
+30373,25,multiple_choice,main,,"W w
+این حرف چه صدایی دارد؟",وُ|ف|نگ,0,,,,"W w
+صدای این حرف تقریباً «وُ» است."
+30374,25,listening_card,exercise,30373,,select|F f|W w|ng,1,,snd_w.wav,,"صدایی که شنیدید:
+W w
+(تقریباً «وُ»)"
+30375,25,multiple_choice,exercise,30373,کدام حرف صدای «وُ» دارد؟,ng|F f|W w,2,,,,صدای «وُ» مال حرف W w است.
+30376,25,true_false,preview,30377,"J j
+صدایش «ج» است، درست یا غلط؟",,true,,,,"J j
+صدای این حرف تقریباً «ج» است."
+30377,25,multiple_choice,main,,"J j
+این حرف چه صدایی دارد؟",چ|ج|ی,1,,,,"J j
+صدای این حرف تقریباً «ج» است."
+30378,25,listening_card,exercise,30377,,select|ch|A a|J j,2,,snd_j.wav,,"صدایی که شنیدید:
+J j
+(تقریباً «ج»)"
+30379,25,multiple_choice,exercise,30377,کدام حرف صدای «ج» دارد؟,J j|th|B b,0,,,,صدای «ج» مال حرف J j است.
+30380,25,true_false,preview,30381,"V v
+صدایش «و» است، درست یا غلط؟",,true,,,,"V v
+صدای این حرف تقریباً «و» است."
+30381,25,multiple_choice,main,,"V v
+این حرف چه صدایی دارد؟",وُ|کو|و,2,,,,"V v
+صدای این حرف تقریباً «و» است."
+30382,25,listening_card,exercise,30381,,select|V v|W w|P p,0,,snd_v.wav,,"صدایی که شنیدید:
+V v
+(تقریباً «و»)"
+30383,25,multiple_choice,exercise,30381,کدام حرف صدای «و» دارد؟,ch|V v|H h,1,,,,صدای «و» مال حرف V v است.
+30384,25,true_false,preview,30385,"Y y
+صدایش «ی» است، درست یا غلط؟",,true,,,,"Y y
+صدای این حرف تقریباً «ی» است."
+30385,25,multiple_choice,main,,"Y y
+این حرف چه صدایی دارد؟",ی|ز|ت,0,,,,"Y y
+صدای این حرف تقریباً «ی» است."
+30386,25,listening_card,exercise,30385,,select|S s|Y y|N n,1,,snd_y.wav,,"صدایی که شنیدید:
+Y y
+(تقریباً «ی»)"
+30387,25,multiple_choice,exercise,30385,کدام حرف صدای «ی» دارد؟,sh|ck|Y y,2,,,,صدای «ی» مال حرف Y y است.
+30388,25,true_false,preview,30389,"Z z
+صدایش «ز» است، درست یا غلط؟",,true,,,,"Z z
+صدای این حرف تقریباً «ز» است."
+30389,25,multiple_choice,main,,"Z z
+این حرف چه صدایی دارد؟",س|ز|ن,1,,,,"Z z
+صدای این حرف تقریباً «ز» است."
+30390,25,listening_card,exercise,30389,,select|T t|D d|Z z,2,,snd_z.wav,,"صدایی که شنیدید:
+Z z
+(تقریباً «ز»)"
+30391,25,multiple_choice,exercise,30389,کدام حرف صدای «ز» دارد؟,Z z|L l|R r,0,,,,صدای «ز» مال حرف Z z است.
+30392,25,true_false,preview,30393,"X x
+صدایش «کس» است، درست یا غلط؟",,true,,,,"X x
+صدای این حرف تقریباً «کس» است."
+30393,25,multiple_choice,main,,"X x
+این حرف چه صدایی دارد؟",پ|گ|کس,2,,,,"X x
+صدای این حرف تقریباً «کس» است."
+30394,25,listening_card,exercise,30393,,select|X x|I i|O o,0,,snd_x.wav,,"صدایی که شنیدید:
+X x
+(تقریباً «کس»)"
+30395,25,multiple_choice,exercise,30393,کدام حرف صدای «کس» دارد؟,F f|X x|U u,1,,,,صدای «کس» مال حرف X x است.
+30396,25,true_false,preview,30397,"qu
+صدایش «کو» است، درست یا غلط؟",,true,,,,"qu
+صدای این حرف تقریباً «کو» است."
+30397,25,multiple_choice,main,,"qu
+این حرف چه صدایی دارد؟",کو|م|کِ,0,,,,"qu
+صدای این حرف تقریباً «کو» است."
+30398,25,listening_card,exercise,30397,,select|M m|qu|K k,1,,snd_qu.wav,,"صدایی که شنیدید:
+qu
+(تقریباً «کو»)"
+30399,25,multiple_choice,exercise,30397,کدام حرف صدای «کو» دارد؟,B b|E e|qu,2,,,,صدای «کو» مال حرف qu است.
+30400,25,true_false,preview,30401,"web
+یعنی «تار»، درست یا غلط؟",,true,,,,"web
+یعنی تار."
+30401,25,multiple_choice,main,,"web
+یعنی چی؟",تار|خیس|زیپ,0,,,,"web
+یعنی تار."
+30402,25,listening_card,exercise,30401,,select|زیپ|تار|خیس,1,,w_web.wav,,"کلمه‌ای که شنیدید:
+web
+(تار)"
+30403,25,listening_card,exercise,30401,,order|w|e|b,0,,w_web.wav,,"کلمه‌ای که شنیدید:
+web
+(w + e + b)"
+30404,25,speech_recognition,exercise,30401,web,,,,,,"آن را بگویید:
+web"
+30405,25,true_false,preview,30406,"wet
+یعنی «خیس»، درست یا غلط؟",,true,,,,"wet
+یعنی خیس."
+30406,25,multiple_choice,main,,"wet
+یعنی چی؟",ون|خیس|آزمون,1,,,,"wet
+یعنی خیس."
+30407,25,listening_card,exercise,30406,,select|جت|جعبه|خیس,2,,w_wet.wav,,"کلمه‌ای که شنیدید:
+wet
+(خیس)"
+30408,25,listening_card,exercise,30406,,order|w|e|t,0,,w_wet.wav,,"کلمه‌ای که شنیدید:
+wet
+(w + e + t)"
+30409,25,speech_recognition,exercise,30406,wet,,,,,,"آن را بگویید:
+wet"
+30410,25,true_false,preview,30411,"jam
+یعنی «مربا»، درست یا غلط؟",,true,,,,"jam
+یعنی مربا."
+30411,25,multiple_choice,main,,"jam
+یعنی چی؟",جعبه|جت|مربا,2,,,,"jam
+یعنی مربا."
+30412,25,listening_card,exercise,30411,,select|مربا|آزمون|ون,0,,w_jam.wav,,"کلمه‌ای که شنیدید:
+jam
+(مربا)"
+30413,25,listening_card,exercise,30411,,order|j|a|m,0,,w_jam.wav,,"کلمه‌ای که شنیدید:
+jam
+(j + a + m)"
+30414,25,speech_recognition,exercise,30411,jam,,,,,,"آن را بگویید:
+jam"
+30415,25,true_false,preview,30416,"jet
+یعنی «جت»، درست یا غلط؟",,true,,,,"jet
+یعنی جت."
+30416,25,multiple_choice,main,,"jet
+یعنی چی؟",جت|تار|زیپ,0,,,,"jet
+یعنی جت."
+30417,25,listening_card,exercise,30416,,select|زیپ|جت|تار,1,,w_jet.wav,,"کلمه‌ای که شنیدید:
+jet
+(جت)"
+30418,25,listening_card,exercise,30416,,order|j|e|t,0,,w_jet.wav,,"کلمه‌ای که شنیدید:
+jet
+(j + e + t)"
+30419,25,speech_recognition,exercise,30416,jet,,,,,,"آن را بگویید:
+jet"
+30420,25,match_pairs,exercise,30416,هر کلمه را به معنایش وصل کنید.,web↔تار|wet↔خیس|jam↔مربا|jet↔جت,,,,,هر کلمه را با معنایش جفت کنید.
+30421,25,true_false,preview,30422,"van
+یعنی «ون»، درست یا غلط؟",,true,,,,"van
+یعنی ون."
+30422,25,multiple_choice,main,,"van
+یعنی چی؟",جت|ون|آزمون,1,,,,"van
+یعنی ون."
+30423,25,listening_card,exercise,30422,,select|مربا|جعبه|ون,2,,w_van.wav,,"کلمه‌ای که شنیدید:
+van
+(ون)"
+30424,25,listening_card,exercise,30422,,order|v|a|n,0,,w_van.wav,,"کلمه‌ای که شنیدید:
+van
+(v + a + n)"
+30425,25,speech_recognition,exercise,30422,van,,,,,,"آن را بگویید:
+van"
+30426,25,true_false,preview,30427,"yes
+یعنی «بله»، درست یا غلط؟",,true,,,,"yes
+یعنی بله."
+30427,25,multiple_choice,main,,"yes
+یعنی چی؟",جعبه|مربا|بله,2,,,,"yes
+یعنی بله."
+30428,25,listening_card,exercise,30427,,select|بله|آزمون|جت,0,,w_yes.wav,,"کلمه‌ای که شنیدید:
+yes
+(بله)"
+30429,25,listening_card,exercise,30427,,order|y|e|s,0,,w_yes.wav,,"کلمه‌ای که شنیدید:
+yes
+(y + e + s)"
+30430,25,speech_recognition,exercise,30427,yes,,,,,,"آن را بگویید:
+yes"
+30431,25,true_false,preview,30432,"zip
+یعنی «زیپ»، درست یا غلط؟",,true,,,,"zip
+یعنی زیپ."
+30432,25,multiple_choice,main,,"zip
+یعنی چی؟",زیپ|تار|بله,0,,,,"zip
+یعنی زیپ."
+30433,25,listening_card,exercise,30432,,select|بله|زیپ|تار,1,,w_zip.wav,,"کلمه‌ای که شنیدید:
+zip
+(زیپ)"
+30434,25,listening_card,exercise,30432,,order|z|i|p,0,,w_zip.wav,,"کلمه‌ای که شنیدید:
+zip
+(z + i + p)"
+30435,25,speech_recognition,exercise,30432,zip,,,,,,"آن را بگویید:
+zip"
+30436,25,true_false,preview,30437,"box
+یعنی «جعبه»، درست یا غلط؟",,true,,,,"box
+یعنی جعبه."
+30437,25,multiple_choice,main,,"box
+یعنی چی؟",جت|جعبه|آزمون,1,,,,"box
+یعنی جعبه."
+30438,25,listening_card,exercise,30437,,select|مربا|زیپ|جعبه,2,,w_box.wav,,"کلمه‌ای که شنیدید:
+box
+(جعبه)"
+30439,25,listening_card,exercise,30437,,order|b|o|x,0,,w_box.wav,,"کلمه‌ای که شنیدید:
+box
+(b + o + x)"
+30440,25,speech_recognition,exercise,30437,box,,,,,,"آن را بگویید:
+box"
+30441,25,match_pairs,exercise,30437,هر کلمه را به معنایش وصل کنید.,van↔ون|yes↔بله|zip↔زیپ|box↔جعبه,,,,,هر کلمه را با معنایش جفت کنید.
+30442,25,true_false,preview,30443,"six
+یعنی «شش»، درست یا غلط؟",,true,,,,"six
+یعنی شش."
+30443,25,multiple_choice,main,,"six
+یعنی چی؟",زیپ|مربا|شش,2,,,,"six
+یعنی شش."
+30444,25,listening_card,exercise,30443,,select|شش|آزمون|جت,0,,w_six.wav,,"کلمه‌ای که شنیدید:
+six
+(شش)"
+30445,25,listening_card,exercise,30443,,order|s|i|x,0,,w_six.wav,,"کلمه‌ای که شنیدید:
+six
+(s + i + x)"
+30446,25,speech_recognition,exercise,30443,six,,,,,,"آن را بگویید:
+six"
+30447,25,true_false,preview,30448,"quiz
+یعنی «آزمون»، درست یا غلط؟",,true,,,,"quiz
+یعنی آزمون."
+30448,25,multiple_choice,main,,"quiz
+یعنی چی؟",آزمون|تار|بله,0,,,,"quiz
+یعنی آزمون."
+30449,25,listening_card,exercise,30448,,select|بله|آزمون|تار,1,,w_quiz.wav,,"کلمه‌ای که شنیدید:
+quiz
+(آزمون)"
+30450,25,listening_card,exercise,30448,,order|qu|i|z,0,,w_quiz.wav,,"کلمه‌ای که شنیدید:
+quiz
+(qu + i + z)"
+30451,25,speech_recognition,exercise,30448,quiz,,,,,,"آن را بگویید:
+quiz"
+30452,25,match_pairs,exercise,30448,هر کلمه را به معنایش وصل کنید.,six↔شش|quiz↔آزمون,,,,,هر کلمه را با معنایش جفت کنید.
+30453,26,true_false,preview,30454,"Aa
+اسمش «اِی» است، درست یا غلط؟",,true,,,,"Aa
+اسم این حرف «اِی» است."
+30454,26,multiple_choice,main,,"Aa
+اسم این حرف چیست؟",اِی|بی|آی,0,,,,"Aa
+اسم این حرف «اِی» است."
+30455,26,listening_card,exercise,30454,,select|B|A|I,1,,letter_a.wav,,"اسمی که شنیدید:
+A
+(اِی)"
+30456,26,multiple_choice,exercise,30454,کدام حرف اسمش «اِی» است؟,I|B|A,2,,,,«اِی» اسم حرف Aa است.
+30457,26,true_false,preview,30458,"Bb
+اسمش «بی» است، درست یا غلط؟",,true,,,,"Bb
+اسم این حرف «بی» است."
+30458,26,multiple_choice,main,,"Bb
+اسم این حرف چیست؟",جی|بی|اِن,1,,,,"Bb
+اسم این حرف «بی» است."
+30459,26,listening_card,exercise,30458,,select|G|N|B,2,,letter_b.wav,,"اسمی که شنیدید:
+B
+(بی)"
+30460,26,multiple_choice,exercise,30458,کدام حرف اسمش «بی» است؟,B|N|G,0,,,,«بی» اسم حرف Bb است.
+30461,26,true_false,preview,30462,"Cc
+اسمش «سی» است، درست یا غلط؟",,true,,,,"Cc
+اسم این حرف «سی» است."
+30462,26,multiple_choice,main,,"Cc
+اسم این حرف چیست؟",اِل|اِس|سی,2,,,,"Cc
+اسم این حرف «سی» است."
+30463,26,listening_card,exercise,30462,,select|C|L|S,0,,letter_c.wav,,"اسمی که شنیدید:
+C
+(سی)"
+30464,26,multiple_choice,exercise,30462,کدام حرف اسمش «سی» است؟,S|C|L,1,,,,«سی» اسم حرف Cc است.
+30465,26,true_false,preview,30466,"Dd
+اسمش «دی» است، درست یا غلط؟",,true,,,,"Dd
+اسم این حرف «دی» است."
+30466,26,multiple_choice,main,,"Dd
+اسم این حرف چیست؟",دی|کیو|اِکس,0,,,,"Dd
+اسم این حرف «دی» است."
+30467,26,listening_card,exercise,30466,,select|Q|D|X,1,,letter_d.wav,,"اسمی که شنیدید:
+D
+(دی)"
+30468,26,multiple_choice,exercise,30466,کدام حرف اسمش «دی» است؟,X|Q|D,2,,,,«دی» اسم حرف Dd است.
+30469,26,true_false,preview,30470,"Ee
+اسمش «ای» است، درست یا غلط؟",,true,,,,"Ee
+اسم این حرف «ای» است."
+30470,26,multiple_choice,main,,"Ee
+اسم این حرف چیست؟",وی|ای|سی,1,,,,"Ee
+اسم این حرف «ای» است."
+30471,26,listening_card,exercise,30470,,select|V|C|E,2,,letter_e.wav,,"اسمی که شنیدید:
+E
+(ای)"
+30472,26,multiple_choice,exercise,30470,کدام حرف اسمش «ای» است؟,E|C|V,0,,,,«ای» اسم حرف Ee است.
+30473,26,match_pairs,exercise,30470,هر حرف را به نام فارسی آن وصل کنید.,A↔اِی|B↔بی|C↔سی|D↔دی|E↔ای,,,,,هر حرف را با نامش جفت کنید.
+30474,26,true_false,preview,30475,"Ff
+اسمش «اِف» است، درست یا غلط؟",,true,,,,"Ff
+اسم این حرف «اِف» است."
+30475,26,multiple_choice,main,,"Ff
+اسم این حرف چیست؟",اِی|ایچ|اِف,2,,,,"Ff
+اسم این حرف «اِف» است."
+30476,26,listening_card,exercise,30475,,select|F|A|H,0,,letter_f.wav,,"اسمی که شنیدید:
+F
+(اِف)"
+30477,26,multiple_choice,exercise,30475,کدام حرف اسمش «اِف» است؟,H|F|A,1,,,,«اِف» اسم حرف Ff است.
+30478,26,true_false,preview,30479,"Gg
+اسمش «جی» است، درست یا غلط؟",,true,,,,"Gg
+اسم این حرف «جی» است."
+30479,26,multiple_choice,main,,"Gg
+اسم این حرف چیست؟",جی|اِف|اِم,0,,,,"Gg
+اسم این حرف «جی» است."
+30480,26,listening_card,exercise,30479,,select|F|G|M,1,,letter_g.wav,,"اسمی که شنیدید:
+G
+(جی)"
+30481,26,multiple_choice,exercise,30479,کدام حرف اسمش «جی» است؟,M|F|G,2,,,,«جی» اسم حرف Gg است.
+30482,26,true_false,preview,30483,"Hh
+اسمش «ایچ» است، درست یا غلط؟",,true,,,,"Hh
+اسم این حرف «ایچ» است."
+30483,26,multiple_choice,main,,"Hh
+اسم این حرف چیست؟",کِی|ایچ|آر,1,,,,"Hh
+اسم این حرف «ایچ» است."
+30484,26,listening_card,exercise,30483,,select|K|R|H,2,,letter_h.wav,,"اسمی که شنیدید:
+H
+(ایچ)"
+30485,26,multiple_choice,exercise,30483,کدام حرف اسمش «ایچ» است؟,H|R|K,0,,,,«ایچ» اسم حرف Hh است.
+30486,26,true_false,preview,30487,"Ii
+اسمش «آی» است، درست یا غلط؟",,true,,,,"Ii
+اسم این حرف «آی» است."
+30487,26,multiple_choice,main,,"Ii
+اسم این حرف چیست؟",پی|دابلیو|آی,2,,,,"Ii
+اسم این حرف «آی» است."
+30488,26,listening_card,exercise,30487,,select|I|P|W,0,,letter_i.wav,,"اسمی که شنیدید:
+I
+(آی)"
+30489,26,multiple_choice,exercise,30487,کدام حرف اسمش «آی» است؟,W|I|P,1,,,,«آی» اسم حرف Ii است.
+30490,26,true_false,preview,30491,"Jj
+اسمش «جِی» است، درست یا غلط؟",,true,,,,"Jj
+اسم این حرف «جِی» است."
+30491,26,multiple_choice,main,,"Jj
+اسم این حرف چیست؟",جِی|یو|بی,0,,,,"Jj
+اسم این حرف «جِی» است."
+30492,26,listening_card,exercise,30491,,select|U|J|B,1,,letter_j.wav,,"اسمی که شنیدید:
+J
+(جِی)"
+30493,26,multiple_choice,exercise,30491,کدام حرف اسمش «جِی» است؟,B|U|J,2,,,,«جِی» اسم حرف Jj است.
+30494,26,match_pairs,exercise,30491,هر حرف را به نام فارسی آن وصل کنید.,F↔اِف|G↔جی|H↔ایچ|I↔آی|J↔جِی,,,,,هر حرف را با نامش جفت کنید.
+30495,26,true_false,preview,30496,"Kk
+اسمش «کِی» است، درست یا غلط؟",,true,,,,"Kk
+اسم این حرف «کِی» است."
+30496,26,multiple_choice,main,,"Kk
+اسم این حرف چیست؟",زِد|کِی|جی,1,,,,"Kk
+اسم این حرف «کِی» است."
+30497,26,listening_card,exercise,30496,,select|Z|G|K,2,,letter_k.wav,,"اسمی که شنیدید:
+K
+(کِی)"
+30498,26,multiple_choice,exercise,30496,کدام حرف اسمش «کِی» است؟,K|G|Z,0,,,,«کِی» اسم حرف Kk است.
+30499,26,true_false,preview,30500,"Ll
+اسمش «اِل» است، درست یا غلط؟",,true,,,,"Ll
+اسم این حرف «اِل» است."
+30500,26,multiple_choice,main,,"Ll
+اسم این حرف چیست؟",ای|اِس|اِل,2,,,,"Ll
+اسم این حرف «اِل» است."
+30501,26,listening_card,exercise,30500,,select|L|E|S,0,,letter_l.wav,,"اسمی که شنیدید:
+L
+(اِل)"
+30502,26,multiple_choice,exercise,30500,کدام حرف اسمش «اِل» است؟,S|L|E,1,,,,«اِل» اسم حرف Ll است.
+30503,26,true_false,preview,30504,"Mm
+اسمش «اِم» است، درست یا غلط؟",,true,,,,"Mm
+اسم این حرف «اِم» است."
+30504,26,multiple_choice,main,,"Mm
+اسم این حرف چیست؟",اِم|جِی|کیو,0,,,,"Mm
+اسم این حرف «اِم» است."
+30505,26,listening_card,exercise,30504,,select|J|M|Q,1,,letter_m.wav,,"اسمی که شنیدید:
+M
+(اِم)"
+30506,26,multiple_choice,exercise,30504,کدام حرف اسمش «اِم» است؟,Q|J|M,2,,,,«اِم» اسم حرف Mm است.
+30507,26,true_false,preview,30508,"Nn
+اسمش «اِن» است، درست یا غلط؟",,true,,,,"Nn
+اسم این حرف «اِن» است."
+30508,26,multiple_choice,main,,"Nn
+اسم این حرف چیست؟",اُو|اِن|وی,1,,,,"Nn
+اسم این حرف «اِن» است."
+30509,26,listening_card,exercise,30508,,select|O|V|N,2,,letter_n.wav,,"اسمی که شنیدید:
+N
+(اِن)"
+30510,26,multiple_choice,exercise,30508,کدام حرف اسمش «اِن» است؟,N|V|O,0,,,,«اِن» اسم حرف Nn است.
+30511,26,true_false,preview,30512,"Oo
+اسمش «اُو» است، درست یا غلط؟",,true,,,,"Oo
+اسم این حرف «اُو» است."
+30512,26,multiple_choice,main,,"Oo
+اسم این حرف چیست؟",تی|اِی|اُو,2,,,,"Oo
+اسم این حرف «اُو» است."
+30513,26,listening_card,exercise,30512,,select|O|T|A,0,,letter_o.wav,,"اسمی که شنیدید:
+O
+(اُو)"
+30514,26,multiple_choice,exercise,30512,کدام حرف اسمش «اُو» است؟,A|O|T,1,,,,«اُو» اسم حرف Oo است.
+30515,26,match_pairs,exercise,30512,هر حرف را به نام فارسی آن وصل کنید.,K↔کِی|L↔اِل|M↔اِم|N↔اِن|O↔اُو,,,,,هر حرف را با نامش جفت کنید.
+30516,26,true_false,preview,30517,"Pp
+اسمش «پی» است، درست یا غلط؟",,true,,,,"Pp
+اسم این حرف «پی» است."
+30517,26,multiple_choice,main,,"Pp
+اسم این حرف چیست؟",پی|وای|اِف,0,,,,"Pp
+اسم این حرف «پی» است."
+30518,26,listening_card,exercise,30517,,select|Y|P|F,1,,letter_p.wav,,"اسمی که شنیدید:
+P
+(پی)"
+30519,26,multiple_choice,exercise,30517,کدام حرف اسمش «پی» است؟,F|Y|P,2,,,,«پی» اسم حرف Pp است.
+30520,26,true_false,preview,30521,"Qq
+اسمش «کیو» است، درست یا غلط؟",,true,,,,"Qq
+اسم این حرف «کیو» است."
+30521,26,multiple_choice,main,,"Qq
+اسم این حرف چیست؟",دی|کیو|کِی,1,,,,"Qq
+اسم این حرف «کیو» است."
+30522,26,listening_card,exercise,30521,,select|D|K|Q,2,,letter_q.wav,,"اسمی که شنیدید:
+Q
+(کیو)"
+30523,26,multiple_choice,exercise,30521,کدام حرف اسمش «کیو» است؟,Q|K|D,0,,,,«کیو» اسم حرف Qq است.
+30524,26,true_false,preview,30525,"Rr
+اسمش «آر» است، درست یا غلط؟",,true,,,,"Rr
+اسم این حرف «آر» است."
+30525,26,multiple_choice,main,,"Rr
+اسم این حرف چیست؟",آی|پی|آر,2,,,,"Rr
+اسم این حرف «آر» است."
+30526,26,listening_card,exercise,30525,,select|R|I|P,0,,letter_r.wav,,"اسمی که شنیدید:
+R
+(آر)"
+30527,26,multiple_choice,exercise,30525,کدام حرف اسمش «آر» است؟,P|R|I,1,,,,«آر» اسم حرف Rr است.
+30528,26,true_false,preview,30529,"Ss
+اسمش «اِس» است، درست یا غلط؟",,true,,,,"Ss
+اسم این حرف «اِس» است."
+30529,26,multiple_choice,main,,"Ss
+اسم این حرف چیست؟",اِس|اِن|یو,0,,,,"Ss
+اسم این حرف «اِس» است."
+30530,26,listening_card,exercise,30529,,select|N|S|U,1,,letter_s.wav,,"اسمی که شنیدید:
+S
+(اِس)"
+30531,26,multiple_choice,exercise,30529,کدام حرف اسمش «اِس» است؟,U|N|S,2,,,,«اِس» اسم حرف Ss است.
+30532,26,true_false,preview,30533,"Tt
+اسمش «تی» است، درست یا غلط؟",,true,,,,"Tt
+اسم این حرف «تی» است."
+30533,26,multiple_choice,main,,"Tt
+اسم این حرف چیست؟",اِس|تی|زِد,1,,,,"Tt
+اسم این حرف «تی» است."
+30534,26,listening_card,exercise,30533,,select|S|Z|T,2,,letter_t.wav,,"اسمی که شنیدید:
+T
+(تی)"
+30535,26,multiple_choice,exercise,30533,کدام حرف اسمش «تی» است؟,T|Z|S,0,,,,«تی» اسم حرف Tt است.
+30536,26,match_pairs,exercise,30533,هر حرف را به نام فارسی آن وصل کنید.,P↔پی|Q↔کیو|R↔آر|S↔اِس|T↔تی,,,,,هر حرف را با نامش جفت کنید.
+30537,26,true_false,preview,30538,"Uu
+اسمش «یو» است، درست یا غلط؟",,true,,,,"Uu
+اسم این حرف «یو» است."
+30538,26,multiple_choice,main,,"Uu
+اسم این حرف چیست؟",اِکس|ای|یو,2,,,,"Uu
+اسم این حرف «یو» است."
+30539,26,listening_card,exercise,30538,,select|U|X|E,0,,letter_u.wav,,"اسمی که شنیدید:
+U
+(یو)"
+30540,26,multiple_choice,exercise,30538,کدام حرف اسمش «یو» است؟,E|U|X,1,,,,«یو» اسم حرف Uu است.
+30541,26,true_false,preview,30542,"Vv
+اسمش «وی» است، درست یا غلط؟",,true,,,,"Vv
+اسم این حرف «وی» است."
+30542,26,multiple_choice,main,,"Vv
+اسم این حرف چیست؟",وی|سی|جِی,0,,,,"Vv
+اسم این حرف «وی» است."
+30543,26,listening_card,exercise,30542,,select|C|V|J,1,,letter_v.wav,,"اسمی که شنیدید:
+V
+(وی)"
+30544,26,multiple_choice,exercise,30542,کدام حرف اسمش «وی» است؟,J|C|V,2,,,,«وی» اسم حرف Vv است.
+30545,26,true_false,preview,30546,"Ww
+اسمش «دابلیو» است، درست یا غلط؟",,true,,,,"Ww
+اسم این حرف «دابلیو» است."
+30546,26,multiple_choice,main,,"Ww
+اسم این حرف چیست؟",ایچ|دابلیو|اُو,1,,,,"Ww
+اسم این حرف «دابلیو» است."
+30547,26,listening_card,exercise,30546,,select|H|O|W,2,,letter_w.wav,,"اسمی که شنیدید:
+W
+(دابلیو)"
+30548,26,multiple_choice,exercise,30546,کدام حرف اسمش «دابلیو» است؟,W|O|H,0,,,,«دابلیو» اسم حرف Ww است.
+30549,26,true_false,preview,30550,"Xx
+اسمش «اِکس» است، درست یا غلط؟",,true,,,,"Xx
+اسم این حرف «اِکس» است."
+30550,26,multiple_choice,main,,"Xx
+اسم این حرف چیست؟",اِم|تی|اِکس,2,,,,"Xx
+اسم این حرف «اِکس» است."
+30551,26,listening_card,exercise,30550,,select|X|M|T,0,,letter_x.wav,,"اسمی که شنیدید:
+X
+(اِکس)"
+30552,26,multiple_choice,exercise,30550,کدام حرف اسمش «اِکس» است؟,T|X|M,1,,,,«اِکس» اسم حرف Xx است.
+30553,26,true_false,preview,30554,"Yy
+اسمش «وای» است، درست یا غلط؟",,true,,,,"Yy
+اسم این حرف «وای» است."
+30554,26,multiple_choice,main,,"Yy
+اسم این حرف چیست؟",وای|آر|اِف,0,,,,"Yy
+اسم این حرف «وای» است."
+30555,26,listening_card,exercise,30554,,select|R|Y|F,1,,letter_y.wav,,"اسمی که شنیدید:
+Y
+(وای)"
+30556,26,multiple_choice,exercise,30554,کدام حرف اسمش «وای» است؟,F|R|Y,2,,,,«وای» اسم حرف Yy است.
+30557,26,match_pairs,exercise,30554,هر حرف را به نام فارسی آن وصل کنید.,U↔یو|V↔وی|W↔دابلیو|X↔اِکس|Y↔وای,,,,,هر حرف را با نامش جفت کنید.
+30558,26,true_false,preview,30559,"Zz
+اسمش «زِد» است، درست یا غلط؟",,true,,,,"Zz
+اسم این حرف «زِد» است."
+30559,26,multiple_choice,main,,"Zz
+اسم این حرف چیست؟",دابلیو|زِد|دی,1,,,,"Zz
+اسم این حرف «زِد» است."
+30560,26,listening_card,exercise,30559,,select|W|D|Z,2,,letter_z.wav,,"اسمی که شنیدید:
+Z
+(زِد)"
+30561,26,multiple_choice,exercise,30559,کدام حرف اسمش «زِد» است؟,Z|D|W,0,,,,«زِد» اسم حرف Zz است.
+30562,26,match_pairs,exercise,30559,هر حرف را به نام فارسی آن وصل کنید.,U↔یو|V↔وی|W↔دابلیو|X↔اِکس|Y↔وای|Z↔زِد,,,,,هر حرف را با نامش جفت کنید.

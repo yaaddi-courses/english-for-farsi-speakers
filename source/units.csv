@@ -1,4 +1,12 @@
 id,title,description,min_level,section,image,section_image,title_fa,description_fa
+19,Sounds 1: s a t p,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۱: s a t p,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+20,Sounds 2: i n m d,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۲: i n m d,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+21,Sounds 3: g o c k,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۳: g o c k,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+22,Sounds 4: e u r ck,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۴: e u r ck,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+23,Sounds 5: h b f l,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۵: h b f l,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+24,Sounds 6: sh ch th ng,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۶: sh ch th ng,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+25,Sounds 7: w j v y z x qu,"Hear the sounds, then read real words made from them.",1,Getting Started,deck19.png,,صداها ۷: w j v y z x qu,صداها را بشنوید و بعد کلمه‌های واقعی بخوانید.
+26,Letter names,"Now that you know the sounds, learn what each letter is called.",1,Getting Started,deck19.png,,نام حرف‌ها,حالا که صداها را می‌شناسید، اسم هر حرف را یاد بگیرید.
 1,Sounds & Survival Phrases,"The handful of words you'll use in almost every interaction, plus the English sounds Farsi speakers often trip on.",1,Getting Started,deck1.png,,عبارت‌های ضروری و ابتدایی,چند کلمه‌ی کلیدی که تقریباً در هر مکالمه‌ای بهشون نیاز داری.
 2,Introducing Yourself,"Saying your name, where you're from, and why you're visiting.",1,Getting Started,deck2.png,,معرفی کردن خودت,گفتن اسمت، اهل کجا بودنت، و دلیل سفرت.
 3,Numbers & Money,"Counting, prices, paying, and tipping.",1,Getting Started,deck3.png,,,
@@ -15,5 +23,5 @@ id,title,description,min_level,section,image,section_image,title_fa,description_
 14,Making Plans,"Suggesting something, accepting or declining, and arranging to meet.",1,Staying Connected,deck14.png,,,
 15,Common Everyday Verbs in Action,"Want, need, like, and can — used in the real requests you'll actually make.",1,Putting It Together,deck15.png,,,
 16,Describing People & Things,"Simple, useful adjectives for people, places, and things.",1,Putting It Together,deck16.png,,,
-17,Public Signs & Announcements,"Reading common signs and understanding airport/train announcements.",1,Putting It Together,deck17.png,,,
+17,Public Signs & Announcements,Reading common signs and understanding airport/train announcements.,1,Putting It Together,deck17.png,,,
 18,Saying Goodbye & Staying in Touch,"Farewells, exchanging contact info, and thanking someone.",1,Putting It Together,deck18.png,,,

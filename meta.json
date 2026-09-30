@@ -4,7 +4,7 @@
   "description": "Practical, real-world English for Farsi speakers who want to travel and get by in everyday situations — greetings, airports, hotels, food, shopping, small talk, and handling problems. No grammar drills, no exam prep, just the phrases you'd actually use.",
   "image": "cover.png",
   "file": "english-for-farsi-speakers.zip",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "language": "fa",
   "titleTranslations": {
     "fa": "انگلیسی برای فارسی‌زبان‌ها"
@@ -33,9 +33,22 @@
       "version": "1.3.0",
       "date": "2026-09-22",
       "notes": "Added source/glossary.csv (168 terms, extracted from each pack's own true_false preview statement) — every course now ships a glossary, per the flashcard-course-creator skill's updated rule."
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-09-30",
+      "notes": "New first decks teach reading from scratch, the way phonics does: a few letter SOUNDS at a time (s a t p, then i n m d, and so on), hearing each one, then real words built only from the letters learned so far (read the word, hear it, arrange its letters, say it). Letter names (A-Z) come last. The first packs of \"Sounds & Survival Phrases\" now also start by listening: hear the phrase, pick its Farsi meaning."
     }
   ],
   "toc": [
+    "Sounds 1: s a t p",
+    "Sounds 2: i n m d",
+    "Sounds 3: g o c k",
+    "Sounds 4: e u r ck",
+    "Sounds 5: h b f l",
+    "Sounds 6: sh ch th ng",
+    "Sounds 7: w j v y z x qu",
+    "Letter names",
     "Sounds & Survival Phrases",
     "Introducing Yourself",
     "Numbers & Money",
