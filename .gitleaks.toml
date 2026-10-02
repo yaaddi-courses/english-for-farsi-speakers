@@ -1,0 +1,7 @@
+# Extend gitleaks' default rules; only add narrow, justified allowlists.
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "pronunciations.csv is a vocabulary list: rows like 'Key', 'password' next to an audio-file hash look like an API key to the generic rule but are just words"
+paths = ['''source/pronunciations\.csv''']
