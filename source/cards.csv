@@ -5220,3 +5220,206 @@ Z
 (زِد)"
 30561,26,multiple_choice,exercise,30559,کدام حرف اسمش «زِد» است؟,Z|D|W,0,,,,«زِد» اسم حرف Zz است.
 30562,26,match_pairs,exercise,30559,هر حرف را به نام فارسی آن وصل کنید.,U↔یو|V↔وی|W↔دابلیو|X↔اِکس|Y↔وای|Z↔زِد,,,,,هر حرف را با نامش جفت کنید.
+39010,1,multiple_choice,exam,,«سلام» به انگلیسی کدام است؟,Hello|Goodbye|And you?,0,,,,«سلام» را می‌گوییم «Hello».
+39011,16,true_false,exam,,«Good morning» یعنی «صبح بخیر».,,true,,,,درست است؛ «Good morning» یعنی «صبح بخیر».
+39012,1,true_false,exam,,«Please» یعنی «ممنون».,,false,,,,نه؛ «Please» یعنی «لطفاً».
+39013,1,multiple_choice,exam,,معنی «Thank you» کدام است؟,ممنون|می‌خواهم|آب,0,,,,«Thank you» یعنی «ممنون».
+39014,16,multiple_choice,exam,,«خواهش می‌کنم» به انگلیسی کدام است؟,Good morning|You're welcome|I'm thirsty,1,,,,«خواهش می‌کنم» را می‌گوییم «You're welcome».
+39015,1,true_false,exam,,«Yes» یعنی «بله».,,true,,,,درست است؛ «Yes» یعنی «بله».
+39016,1,true_false,exam,,«No» یعنی «صبح بخیر».,,false,,,,نه؛ «No» یعنی «نه».
+39017,1,multiple_choice,exam,,معنی «Excuse me» کدام است؟,متاسفم|ببخشید|صبح بخیر,1,,,,«Excuse me» یعنی «ببخشید».
+39018,1,multiple_choice,exam,,«متاسفم» به انگلیسی کدام است؟,Yes|Please|Sorry,2,,,,«متاسفم» را می‌گوییم «Sorry».
+39019,1,true_false,exam,,«Goodbye» یعنی «خداحافظ».,,true,,,,درست است؛ «Goodbye» یعنی «خداحافظ».
+39020,1,true_false,exam,,«Water» یعنی «صبح بخیر».,,false,,,,نه؛ «Water» یعنی «آب».
+39021,2,multiple_choice,exam,,معنی «I'm tired» کدام است؟,تو چی؟|صبح بخیر|خسته‌ام,2,,,,«I'm tired» یعنی «خسته‌ام».
+39022,2,multiple_choice,exam,,«خوبم» به انگلیسی کدام است؟,I'm fine|I'm hungry|And you?,0,,,,«خوبم» را می‌گوییم «I'm fine».
+39023,1,true_false,exam,,«And you?» یعنی «تو چی؟».,,true,,,,درست است؛ «And you?» یعنی «تو چی؟».
+39024,2,true_false,exam,,«I'm hungry» یعنی «خوبم».,,false,,,,نه؛ «I'm hungry» یعنی «گرسنه هستم».
+39025,2,multiple_choice,exam,,معنی «I'm thirsty» کدام است؟,تشنه هستم|صبح بخیر|خواهش می‌کنم,0,,,,«I'm thirsty» یعنی «تشنه هستم».
+39026,2,multiple_choice,exam,,«می‌خواهم» به انگلیسی کدام است؟,No|I want|Thank you,1,,,,«می‌خواهم» را می‌گوییم «I want».
+39027,2,true_false,exam,,«I» یعنی «من».,,true,,,,درست است؛ «I» یعنی «من».
+39028,2,true_false,exam,,«am» یعنی «خواهش می‌کنم».,,false,,,,نه؛ «am» یعنی «هستم».
+39029,2,multiple_choice,exam,,معنی «name» کدام است؟,بله|اسم|چی,1,,,,«name» یعنی «اسم».
+39030,2,multiple_choice,exam,,«از» به انگلیسی کدام است؟,No|Water|from,2,,,,«از» را می‌گوییم «from».
+39031,2,true_false,exam,,«in» یعنی «در».,,true,,,,درست است؛ «in» یعنی «در».
+39032,2,true_false,exam,,«staying» یعنی «ممنون».,,false,,,,نه؛ «staying» یعنی «اقامت».
+39033,2,multiple_choice,exam,,معنی «What» کدام است؟,ممنون|لطفاً|چی,2,,,,«What» یعنی «چی».
+39034,2,multiple_choice,exam,,«مال تو» به انگلیسی کدام است؟,your|staying|from,0,,,,«مال تو» را می‌گوییم «your».
+39035,2,true_false,exam,,«Nice to meet you» یعنی «خوشحالم».,,true,,,,درست است؛ «Nice to meet you» یعنی «خوشحالم».
+39036,3,true_false,exam,,«Two» یعنی «از».,,false,,,,نه؛ «Two» یعنی «دو».
+39037,3,multiple_choice,exam,,معنی «Three» کدام است؟,سه|شصت|هشت,0,,,,«Three» یعنی «سه».
+39038,3,multiple_choice,exam,,«چهار» به انگلیسی کدام است؟,staying|Four|am,1,,,,«چهار» را می‌گوییم «Four».
+39039,3,true_false,exam,,«Five» یعنی «پنج».,,true,,,,درست است؛ «Five» یعنی «پنج».
+39040,3,true_false,exam,,«Six» یعنی «پول خرد».,,false,,,,نه؛ «Six» یعنی «شش».
+39041,3,multiple_choice,exam,,معنی «Seven» کدام است؟,هفتاد|هفت|مال تو,1,,,,«Seven» یعنی «هفت».
+39042,3,multiple_choice,exam,,«هشت» به انگلیسی کدام است؟,Ten|staying|Eight,2,,,,«هشت» را می‌گوییم «Eight».
+39043,3,true_false,exam,,«Nine» یعنی «نه».,,true,,,,درست است؛ «Nine» یعنی «نه».
+39044,3,true_false,exam,,«Ten» یعنی «خواهش می‌کنم».,,false,,,,نه؛ «Ten» یعنی «ده».
+39045,3,multiple_choice,exam,,معنی «Eleven» کدام است؟,متاسفم|دوازده|یازده,2,,,,«Eleven» یعنی «یازده».
+39046,3,multiple_choice,exam,,«دوازده» به انگلیسی کدام است؟,Twelve|Two|I'm tired,0,,,,«دوازده» را می‌گوییم «Twelve».
+39047,3,true_false,exam,,«This» یعنی «این».,,true,,,,درست است؛ «This» یعنی «این».
+39048,9,true_false,exam,,«Too expensive» یعنی «سه».,,false,,,,نه؛ «Too expensive» یعنی «خیلی گران است».
+39049,3,multiple_choice,exam,,معنی «Change» کدام است؟,پول خرد|صبح بخیر|هشت,0,,,,«Change» یعنی «پول خرد».
+39050,3,multiple_choice,exam,,«شصت» به انگلیسی کدام است؟,your|Sixty|Ninety,1,,,,«شصت» را می‌گوییم «Sixty».
+39051,3,true_false,exam,,«Seventy» یعنی «هفتاد».,,true,,,,درست است؛ «Seventy» یعنی «هفتاد».
+39052,3,true_false,exam,,«Eighty» یعنی «اقامت».,,false,,,,نه؛ «Eighty» یعنی «هشتاد».
+39053,3,multiple_choice,exam,,معنی «Ninety» کدام است؟,یازده|نود|این,1,,,,«Ninety» یعنی «نود».
+39054,3,multiple_choice,exam,,«صد» به انگلیسی کدام است؟,What|This|Hundred,2,,,,«صد» را می‌گوییم «Hundred».
+39055,4,true_false,exam,,«Fifteen» یعنی «پانزده».,,true,,,,درست است؛ «Fifteen» یعنی «پانزده».
+39056,4,true_false,exam,,«Twenty» یعنی «صد».,,false,,,,نه؛ «Twenty» یعنی «بیست».
+39057,4,multiple_choice,exam,,معنی «Thirty» کدام است؟,نه|بله|سی,2,,,,«Thirty» یعنی «سی».
+39058,4,multiple_choice,exam,,«چهل» به انگلیسی کدام است؟,Forty|What|Thirty,0,,,,«چهل» را می‌گوییم «Forty».
+39059,4,true_false,exam,,«Fifty» یعنی «پنجاه».,,true,,,,درست است؛ «Fifty» یعنی «پنجاه».
+39060,4,true_false,exam,,«Today» یعنی «پانزده».,,false,,,,نه؛ «Today» یعنی «امروز».
+39061,4,multiple_choice,exam,,معنی «Tomorrow» کدام است؟,فردا|هشت|در,0,,,,«Tomorrow» یعنی «فردا».
+39062,16,multiple_choice,exam,,«دیروز» به انگلیسی کدام است؟,Good morning|Yesterday|Seventy,1,,,,«دیروز» را می‌گوییم «Yesterday».
+39063,4,true_false,exam,,«half past» یعنی «و نیم».,,true,,,,درست است؛ «half past» یعنی «و نیم».
+39064,4,true_false,exam,,«quarter past» یعنی «اقامت».,,false,,,,نه؛ «quarter past» یعنی «و ربع».
+39065,4,multiple_choice,exam,,معنی «quarter to» کدام است؟,هشتاد|ربع به|خسته‌ام,1,,,,«quarter to» یعنی «ربع به».
+39066,14,true_false,exam,,«What time is it?» یعنی «ببخشید».,,false,,,,نه؛ «What time is it?» یعنی «ساعت چند هست؟».
+39067,5,true_false,exam,,«Passport» یعنی «پاسپورت».,,true,,,,درست است؛ «Passport» یعنی «پاسپورت».
+39068,9,true_false,exam,,«Boarding pass» یعنی «ممنون».,,false,,,,نه؛ «Boarding pass» یعنی «کارت پرواز».
+39069,5,multiple_choice,exam,,معنی «Gate» کدام است؟,هستم|پاسپورت|گیت,2,,,,«Gate» یعنی «گیت».
+39070,5,multiple_choice,exam,,«چمدون» به انگلیسی کدام است؟,Suitcase|Customs|from,0,,,,«چمدون» را می‌گوییم «Suitcase».
+39071,5,true_false,exam,,«Customs» یعنی «گمرک».,,true,,,,درست است؛ «Customs» یعنی «گمرک».
+39072,5,true_false,exam,,«Baggage claim» یعنی «دو».,,false,,,,نه؛ «Baggage claim» یعنی «تحویل چمدان».
+39073,5,true_false,exam,,«Where is the» یعنی «گمرک».,,false,,,,نه؛ «Where is the» یعنی «کجا هست».
+39074,7,multiple_choice,exam,,«نیاز دارم» به انگلیسی کدام است؟,I'm fine|I need|Excuse me,1,,,,«نیاز دارم» را می‌گوییم «I need».
+39075,6,true_false,exam,,«Taxi» یعنی «تاکسی».,,true,,,,درست است؛ «Taxi» یعنی «تاکسی».
+39076,6,true_false,exam,,«Bus» یعنی «و نیم».,,false,,,,نه؛ «Bus» یعنی «اتوبوس».
+39077,6,multiple_choice,exam,,معنی «Straight ahead» کدام است؟,تشنه هستم|مستقیم برو|تحویل چمدان,1,,,,«Straight ahead» یعنی «مستقیم برو».
+39078,6,true_false,exam,,«Turn left» یعنی «من».,,false,,,,نه؛ «Turn left» یعنی «به چپ بپیچید».
+39079,6,true_false,exam,,«Turn right» یعنی «به راست بپیچید».,,true,,,,درست است؛ «Turn right» یعنی «به راست بپیچید».
+39080,6,true_false,exam,,«Train» یعنی «دوازده».,,false,,,,نه؛ «Train» یعنی «قطار».
+39081,6,multiple_choice,exam,,معنی «Ticket» کدام است؟,امروز|شش|بلیط,2,,,,«Ticket» یعنی «بلیط».
+39082,7,multiple_choice,exam,,«اتاق» به انگلیسی کدام است؟,Room|in|I want,0,,,,«اتاق» را می‌گوییم «Room».
+39083,7,true_false,exam,,«I have» یعنی «دارم».,,true,,,,درست است؛ «I have» یعنی «دارم».
+39084,7,true_false,exam,,«Reservation» یعنی «اقامت».,,false,,,,نه؛ «Reservation» یعنی «رزرو».
+39085,7,multiple_choice,exam,,معنی «Key» کدام است؟,کلید|اقامت|نه,0,,,,«Key» یعنی «کلید».
+39086,7,multiple_choice,exam,,«خراب است» به انگلیسی کدام است؟,Twelve|Broken|Hello,1,,,,«خراب است» را می‌گوییم «Broken».
+39087,7,true_false,exam,,«Check-out» یعنی «چک-اوت».,,true,,,,درست است؛ «Check-out» یعنی «چک-اوت».
+39088,8,true_false,exam,,«Breakfast» یعنی «ده».,,false,,,,نه؛ «Breakfast» یعنی «صبحانه».
+39089,8,multiple_choice,exam,,معنی «Menu» کدام است؟,سلام|منو|نود,1,,,,«Menu» یعنی «منو».
+39090,8,multiple_choice,exam,,«صورتحساب» به انگلیسی کدام است؟,Suitcase|Tomorrow|The bill,2,,,,«صورتحساب» را می‌گوییم «The bill».
+39091,8,true_false,exam,,«Delicious» یعنی «خوشمزه».,,true,,,,درست است؛ «Delicious» یعنی «خوشمزه».
+39092,8,true_false,exam,,«Spicy» یعنی «بلیط».,,false,,,,نه؛ «Spicy» یعنی «تند».
+39093,8,multiple_choice,exam,,معنی «Sweet» کدام است؟,ببخشید|اتوبوس|شیرین,2,,,,«Sweet» یعنی «شیرین».
+39094,8,multiple_choice,exam,,«ترش» به انگلیسی کدام است؟,Sour|Nine|Water,0,,,,«ترش» را می‌گوییم «Sour».
+39095,8,true_false,exam,,«Salty» یعنی «شور».,,true,,,,درست است؛ «Salty» یعنی «شور».
+39096,8,true_false,exam,,«Bitter» یعنی «و نیم».,,false,,,,نه؛ «Bitter» یعنی «تلخ».
+39097,8,multiple_choice,exam,,معنی «I'll have» کدام است؟,سفارش می‌دهم|صبح بخیر|تشنه هستم,0,,,,«I'll have» یعنی «سفارش می‌دهم».
+39098,16,true_false,exam,,«Too big» یعنی «متاسفم».,,false,,,,نه؛ «Too big» یعنی «خیلی بزرگ است».
+39099,16,true_false,exam,,«Too small» یعنی «خیلی کوچک».,,true,,,,درست است؛ «Too small» یعنی «خیلی کوچک».
+39100,9,true_false,exam,,«Discount» یعنی «گیت».,,false,,,,نه؛ «Discount» یعنی «تخفیف».
+39101,9,multiple_choice,exam,,معنی «Cash» کدام است؟,اسم|نقد|دو,1,,,,«Cash» یعنی «نقد».
+39102,9,multiple_choice,exam,,«کارت» به انگلیسی کدام است؟,Water|from|Card,2,,,,«کارت» را می‌گوییم «Card».
+39103,9,true_false,exam,,«Receipt» یعنی «رسید».,,true,,,,درست است؛ «Receipt» یعنی «رسید».
+39104,16,true_false,exam,,«Nice weather» یعنی «صبحانه».,,false,,,,نه؛ «Nice weather» یعنی «هوای خوب هست».
+39105,10,multiple_choice,exam,,معنی «I agree» کدام است؟,از|خراب است|موافقم,2,,,,«I agree» یعنی «موافقم».
+39106,10,multiple_choice,exam,,«مخالفم» به انگلیسی کدام است؟,I disagree|Check-out|Please,0,,,,«مخالفم» را می‌گوییم «I disagree».
+39107,10,true_false,exam,,«No problem» یعنی «مشکلی نیست».,,true,,,,درست است؛ «No problem» یعنی «مشکلی نیست».
+39108,10,true_false,exam,,«Congratulations» یعنی «سه».,,false,,,,نه؛ «Congratulations» یعنی «تبریک».
+39109,11,multiple_choice,exam,,معنی «I'm lost» کدام است؟,گم شدم|تلخ|فردا,0,,,,«I'm lost» یعنی «گم شدم».
+39110,15,true_false,exam,,«Can you help me?» یعنی «اسم».,,false,,,,نه؛ «Can you help me?» یعنی «کمکم کن».
+39111,15,true_false,exam,,«I don't understand» یعنی «نمی‌فهمم».,,true,,,,درست است؛ «I don't understand» یعنی «نمی‌فهمم».
+39112,11,true_false,exam,,«Slower please» یعنی «نه».,,false,,,,نه؛ «Slower please» یعنی «آروم‌تر لطفاً».
+39113,11,multiple_choice,exam,,معنی «Bathroom» کدام است؟,این آدرس|دستشویی|گمرک,1,,,,«Bathroom» یعنی «دستشویی».
+39114,11,multiple_choice,exam,,«این آدرس» به انگلیسی کدام است؟,I'm hungry|Slower please|This address,2,,,,«این آدرس» را می‌گوییم «This address».
+39115,11,true_false,exam,,«Is it far?» یعنی «دوره؟».,,true,,,,درست است؛ «Is it far?» یعنی «دوره؟».
+39116,12,true_false,exam,,«SIM card» یعنی «تاکسی».,,false,,,,نه؛ «SIM card» یعنی «سیم کارت».
+39117,12,multiple_choice,exam,,معنی «Wifi password» کدام است؟,سفارش می‌دهم|کارت پرواز|رمز وای‌فای,2,,,,«Wifi password» یعنی «رمز وای‌فای».
+39118,12,multiple_choice,exam,,«شارژر» به انگلیسی کدام است؟,Charger|I want|Tomorrow,0,,,,«شارژر» را می‌گوییم «Charger».
+39119,12,true_false,exam,,«No signal» یعنی «آنتن ندارد».,,true,,,,درست است؛ «No signal» یعنی «آنتن ندارد».
+39120,12,true_false,exam,,«Battery» یعنی «ده».,,false,,,,نه؛ «Battery» یعنی «باتری».
+39121,13,multiple_choice,exam,,معنی «Doctor» کدام است؟,دکتر|رزرو|مریضم,0,,,,«Doctor» یعنی «دکتر».
+39122,13,multiple_choice,exam,,«داروخانه» به انگلیسی کدام است؟,Twelve|Pharmacy|Please,1,,,,«داروخانه» را می‌گوییم «Pharmacy».
+39123,13,true_false,exam,,«It hurts» یعنی «درد می‌کند».,,true,,,,درست است؛ «It hurts» یعنی «درد می‌کند».
+39124,13,true_false,exam,,«I'm sick» یعنی «چهل».,,false,,,,نه؛ «I'm sick» یعنی «مریضم».
+39125,13,multiple_choice,exam,,معنی «Police» کدام است؟,داروخانه|پلیس|در,1,,,,«Police» یعنی «پلیس».
+39126,13,multiple_choice,exam,,«آتیش» به انگلیسی کدام است؟,I agree|Thirty|Fire,2,,,,«آتیش» را می‌گوییم «Fire».
+39127,14,true_false,exam,,«I'm free» یعنی «وقت دارم».,,true,,,,درست است؛ «I'm free» یعنی «وقت دارم».
+39128,14,true_false,exam,,«I'm busy» یعنی «خسته‌ام».,,false,,,,نه؛ «I'm busy» یعنی «سرم شلوغ هست».
+39129,15,true_false,exam,,«See you later» یعنی «مشکلی نیست».,,false,,,,نه؛ «See you later» یعنی «بعداً می‌بینمت».
+39130,15,multiple_choice,exam,,«دوست دارم» به انگلیسی کدام است؟,I like|Two|Tomorrow,0,,,,«دوست دارم» را می‌گوییم «I like».
+39131,15,true_false,exam,,«I don't like» یعنی «دوست ندارم».,,true,,,,درست است؛ «I don't like» یعنی «دوست ندارم».
+39132,15,true_false,exam,,«Help» یعنی «پنج».,,false,,,,نه؛ «Help» یعنی «کمک».
+39133,15,multiple_choice,exam,,معنی «I can» کدام است؟,می‌توانم|آنتن ندارد|باتری,0,,,,«I can» یعنی «می‌توانم».
+39134,15,multiple_choice,exam,,«نمی‌توانم» به انگلیسی کدام است؟,Eleven|I can't|Bathroom,1,,,,«نمی‌توانم» را می‌گوییم «I can't».
+39135,15,true_false,exam,,«Understand» یعنی «می‌فهمم».,,true,,,,درست است؛ «Understand» یعنی «می‌فهمم».
+39136,15,true_false,exam,,«Go» یعنی «مریضم».,,false,,,,نه؛ «Go» یعنی «رفتن».
+39137,15,multiple_choice,exam,,معنی «Eat» کدام است؟,کمک|خوردن|می‌فهمم,1,,,,«Eat» یعنی «خوردن».
+39138,15,multiple_choice,exam,,«نوشیدن» به انگلیسی کدام است؟,Eleven|Customs|Drink,2,,,,«نوشیدن» را می‌گوییم «Drink».
+39139,15,true_false,exam,,«See» یعنی «دیدن».,,true,,,,درست است؛ «See» یعنی «دیدن».
+39140,16,true_false,exam,,«Big» یعنی «درد می‌کند».,,false,,,,نه؛ «Big» یعنی «بزرگ».
+39141,16,multiple_choice,exam,,معنی «Small» کدام است؟,نه|پنج|کوچک,2,,,,«Small» یعنی «کوچک».
+39142,16,multiple_choice,exam,,«قشنگ» به انگلیسی کدام است؟,Beautiful|I have|Thank you,0,,,,«قشنگ» را می‌گوییم «Beautiful».
+39143,16,true_false,exam,,«Cheap» یعنی «ارزون».,,true,,,,درست است؛ «Cheap» یعنی «ارزون».
+39144,16,true_false,exam,,«Good» یعنی «داروخانه».,,false,,,,نه؛ «Good» یعنی «خوب».
+39145,16,multiple_choice,exam,,معنی «Bad» کدام است؟,بد|پانزده|خوشمزه,0,,,,«Bad» یعنی «بد».
+39146,16,multiple_choice,exam,,«داغ» به انگلیسی کدام است؟,Bus|Hot|Good,1,,,,«داغ» را می‌گوییم «Hot».
+39147,16,true_false,exam,,«Cold» یعنی «سرد».,,true,,,,درست است؛ «Cold» یعنی «سرد».
+39148,17,true_false,exam,,«Exit» یعنی «مشکلی نیست».,,false,,,,نه؛ «Exit» یعنی «خروجی».
+39149,17,multiple_choice,exam,,معنی «Entrance» کدام است؟,خسته‌ام|ورودی|امروز,1,,,,«Entrance» یعنی «ورودی».
+39150,17,multiple_choice,exam,,«احتیاط» به انگلیسی کدام است؟,Twelve|Broken|Caution,2,,,,«احتیاط» را می‌گوییم «Caution».
+39151,17,true_false,exam,,«Delayed» یعنی «تاخیر دارد».,,true,,,,درست است؛ «Delayed» یعنی «تاخیر دارد».
+39152,17,true_false,exam,,«Open» یعنی «رسید».,,false,,,,نه؛ «Open» یعنی «باز».
+39153,17,multiple_choice,exam,,معنی «Closed» کدام است؟,شش|رزرو|بسته,2,,,,«Closed» یعنی «بسته».
+39154,18,true_false,exam,,«Thanks for everything» یعنی «سلام».,,false,,,,نه؛ «Thanks for everything» یعنی «خیلی ممنون».
+39155,19,true_false,exam,,«sat» یعنی «نشست».,,true,,,,درست است؛ «sat» یعنی «نشست».
+39156,10,true_false,exam,,«pat» یعنی «مخالفم».,,false,,,,نه؛ «pat» یعنی «نوازش».
+39157,3,multiple_choice,exam,,معنی «tap» کدام است؟,شیر آب|اقامت|هشت,0,,,,«tap» یعنی «شیر آب».
+39158,12,multiple_choice,exam,,«شیره» به انگلیسی کدام است؟,Charger|sap|Eleven,1,,,,«شیره» را می‌گوییم «sap».
+39159,20,true_false,exam,,«sit» یعنی «نشستن».,,true,,,,درست است؛ «sit» یعنی «نشستن».
+39160,15,true_false,exam,,«tip» یعنی «می‌فهمم».,,false,,,,نه؛ «tip» یعنی «نوک».
+39161,11,multiple_choice,exam,,معنی «pin» کدام است؟,مال تو|سنجاق|دستشویی,1,,,,«pin» یعنی «سنجاق».
+39162,7,multiple_choice,exam,,«نقشه» به انگلیسی کدام است؟,pin|Broken|map,2,,,,«نقشه» را می‌گوییم «map».
+39163,20,true_false,exam,,«man» یعنی «مرد».,,true,,,,درست است؛ «man» یعنی «مرد».
+39164,13,true_false,exam,,«dad» یعنی «درد می‌کند».,,false,,,,نه؛ «dad» یعنی «بابا».
+39165,20,multiple_choice,exam,,معنی «sad» کدام است؟,چی|صد|غمگین,2,,,,«sad» یعنی «غمگین».
+39166,3,multiple_choice,exam,,«شن» به انگلیسی کدام است؟,sand|No|Three,0,,,,«شن» را می‌گوییم «sand».
+39167,20,true_false,exam,,«pan» یعنی «ماهیتابه».,,true,,,,درست است؛ «pan» یعنی «ماهیتابه».
+39168,3,true_false,exam,,«dip» یعنی «پول خرد».,,false,,,,نه؛ «dip» یعنی «فرو بردن».
+39169,13,multiple_choice,exam,,معنی «dog» کدام است؟,سگ|پلیس|نقشه,0,,,,«dog» یعنی «سگ».
+39170,17,multiple_choice,exam,,«خوک» به انگلیسی کدام است؟,Bus|pig|Open,1,,,,«خوک» را می‌گوییم «pig».
+39171,21,true_false,exam,,«cat» یعنی «گربه».,,true,,,,درست است؛ «cat» یعنی «گربه».
+39172,23,true_false,exam,,«cap» یعنی «غمگین».,,false,,,,نه؛ «cap» یعنی «کلاه لبه‌دار».
+39173,3,multiple_choice,exam,,معنی «pot» کدام است؟,یازده|قابلمه|خوک,1,,,,«pot» یعنی «قابلمه».
+39174,21,multiple_choice,exam,,«بالا» به انگلیسی کدام است؟,cat|pin|top,2,,,,«بالا» را می‌گوییم «top».
+39175,21,true_false,exam,,«kid» یعنی «بچه».,,true,,,,درست است؛ «kid» یعنی «بچه».
+39176,21,true_false,exam,,«tag» یعنی «نشستن».,,false,,,,نه؛ «tag» یعنی «برچسب».
+39177,17,multiple_choice,exam,,معنی «red» کدام است؟,شصت|باز|قرمز,2,,,,«red» یعنی «قرمز».
+39178,3,multiple_choice,exam,,«خودکار» به انگلیسی کدام است؟,pen|No|Ninety,0,,,,«خودکار» را می‌گوییم «pen».
+39179,3,true_false,exam,,«ten» یعنی «ده».,,true,,,,درست است؛ «ten» یعنی «ده».
+39180,8,true_false,exam,,«men» یعنی «صورتحساب».,,false,,,,نه؛ «men» یعنی «مردان».
+39181,7,multiple_choice,exam,,معنی «run» کدام است؟,دویدن|غمگین|اتاق,0,,,,«run» یعنی «دویدن».
+39182,15,multiple_choice,exam,,«خورشید» به انگلیسی کدام است؟,I can't|sun|Hundred,1,,,,«خورشید» را می‌گوییم «sun».
+39183,22,true_false,exam,,«cup» یعنی «فنجان».,,true,,,,درست است؛ «cup» یعنی «فنجان».
+39184,16,true_false,exam,,«rug» یعنی «ده».,,false,,,,نه؛ «rug» یعنی «فرش کوچک».
+39185,13,multiple_choice,exam,,معنی «sock» کدام است؟,دکتر|جوراب|من,1,,,,«sock» یعنی «جوراب».
+39186,22,multiple_choice,exam,,«اردک» به انگلیسی کدام است؟,pin|sun|duck,2,,,,«اردک» را می‌گوییم «duck».
+39187,23,true_false,exam,,«hat» یعنی «کلاه».,,true,,,,درست است؛ «hat» یعنی «کلاه».
+39188,16,true_false,exam,,«hot» یعنی «نقشه».,,false,,,,نه؛ «hot» یعنی «داغ».
+39189,16,multiple_choice,exam,,معنی «bag» کدام است؟,پانزده|بزرگ|کیف,2,,,,«bag» یعنی «کیف».
+39190,16,multiple_choice,exam,,«بزرگ» به انگلیسی کدام است؟,big|run|Bitter,0,,,,«بزرگ» را می‌گوییم «big».
+39191,23,true_false,exam,,«bed» یعنی «تخت».,,true,,,,درست است؛ «bed» یعنی «تخت».
+39192,6,true_false,exam,,«bus» یعنی «دویدن».,,false,,,,نه؛ «bus» یعنی «اتوبوس».
+39193,3,multiple_choice,exam,,معنی «fan» کدام است؟,پنکه|صبح بخیر|نود,0,,,,«fan» یعنی «پنکه».
+39194,16,multiple_choice,exam,,«پا» به انگلیسی کدام است؟,Hot|leg|I agree,1,,,,«پا» را می‌گوییم «leg».
+39195,23,true_false,exam,,«hen» یعنی «مرغ».,,true,,,,درست است؛ «hen» یعنی «مرغ».
+39196,23,true_false,exam,,«hug» یعنی «ماهیتابه».,,false,,,,نه؛ «hug» یعنی «بغل کردن».
+39197,11,multiple_choice,exam,,معنی «ship» کدام است؟,این آدرس|کشتی|هستم,1,,,,«ship» یعنی «کشتی».
+39198,24,multiple_choice,exam,,«ماهی» به انگلیسی کدام است؟,hug|red|fish,2,,,,«ماهی» را می‌گوییم «fish».
+39199,24,true_false,exam,,«shop» یعنی «مغازه».,,true,,,,درست است؛ «shop» یعنی «مغازه».
+39200,24,true_false,exam,,«chin» یعنی «فرو بردن».,,false,,,,نه؛ «chin» یعنی «چانه».
+39201,7,multiple_choice,exam,,معنی «chip» کدام است؟,من|خراب است|چیپس,2,,,,«chip» یعنی «چیپس».
+39202,3,multiple_choice,exam,,«لاغر» به انگلیسی کدام است؟,thin|I|Nine,0,,,,«لاغر» را می‌گوییم «thin».
+39203,24,true_false,exam,,«sing» یعنی «خواندن».,,true,,,,درست است؛ «sing» یعنی «خواندن».
+39204,15,true_false,exam,,«ring» یعنی «دیدن».,,false,,,,نه؛ «ring» یعنی «انگشتر».
+39205,1,multiple_choice,exam,,معنی «web» کدام است؟,تار|مغازه|خداحافظ,0,,,,«web» یعنی «تار».
+39206,17,multiple_choice,exam,,«خیس» به انگلیسی کدام است؟,fish|wet|Delayed,1,,,,«خیس» را می‌گوییم «wet».
+39207,25,true_false,exam,,«jam» یعنی «مربا».,,true,,,,درست است؛ «jam» یعنی «مربا».
+39208,25,true_false,exam,,«jet» یعنی «نوازش».,,false,,,,نه؛ «jet» یعنی «جت».
+39209,10,multiple_choice,exam,,معنی «van» کدام است؟,موافقم|ون|قطار,1,,,,«van» یعنی «ون».
+39210,25,multiple_choice,exam,,«زیپ» به انگلیسی کدام است؟,web|bed|zip,2,,,,«زیپ» را می‌گوییم «zip».
+39211,25,true_false,exam,,«box» یعنی «جعبه».,,true,,,,درست است؛ «box» یعنی «جعبه».
+39212,6,true_false,exam,,«quiz» یعنی «مستقیم برو».,,false,,,,نه؛ «quiz» یعنی «آزمون».
