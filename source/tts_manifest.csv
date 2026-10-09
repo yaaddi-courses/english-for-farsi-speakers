@@ -26,8 +26,6 @@ w_sock.wav,sock
 w_duck.wav,duck
 w_fan.wav,fan
 w_hen.wav,hen
-w_hug.wav,hug
-w_chin.wav,chin
 w_chip.wav,chip
 w_thin.wav,thin
 w_jam.wav,jam
@@ -37,6 +35,13 @@ w_quiz.wav,quiz
 w_in.wav,in
 w_is.wav,is
 w_help.wav,help
+w_ten.wav,ten
+w_hot.wav,hot
+w_big.wav,big
+w_bus.wav,bus
+w_this.wav,this
+w_yes.wav,yes
+w_six.wav,six
 snd_s.wav,[s](/sss/)
 snd_a.wav,[a](/æ/)
 snd_t.wav,[t](/tə/)
@@ -118,7 +123,7 @@ w_kid.wav,kid
 w_not.wav,not
 w_red.wav,red
 w_pen.wav,pen
-w_ten.wav,ten
+w_pet.wav,pet
 w_men.wav,men
 w_run.wav,run
 w_sun.wav,sun
@@ -127,11 +132,11 @@ w_up.wav,up
 w_get.wav,get
 w_us.wav,us
 w_hat.wav,hat
-w_hot.wav,hot
+w_hut.wav,hut
 w_bag.wav,bag
-w_big.wav,big
+w_bat.wav,bat
 w_bed.wav,bed
-w_bus.wav,bus
+w_hug.wav,hug
 w_has.wav,has
 w_leg.wav,leg
 w_had.wav,had
@@ -141,7 +146,7 @@ w_fish.wav,fish
 w_shop.wav,shop
 w_much.wav,much
 w_thing.wav,thing
-w_this.wav,this
+w_chin.wav,chin
 w_that.wav,that
 w_long.wav,long
 w_sing.wav,sing
@@ -151,8 +156,8 @@ w_wet.wav,wet
 w_just.wav,just
 w_went.wav,went
 w_van.wav,van
-w_yes.wav,yes
+w_yet.wav,yet
 w_with.wav,with
 w_box.wav,box
-w_six.wav,six
+w_fox.wav,fox
 w_wish.wav,wish
