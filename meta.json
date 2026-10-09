@@ -4,7 +4,7 @@
   "description": "Practical, real-world English for Farsi speakers who want to travel and get by in everyday situations — greetings, airports, hotels, food, shopping, small talk, and handling problems. No grammar drills, no exam prep, just the phrases you'd actually use.",
   "image": "cover.png",
   "file": "english-for-farsi-speakers.zip",
-  "version": "1.1.0",
+  "version": "1.5.0",
   "language": "fa",
   "titleTranslations": {
     "fa": "انگلیسی برای فارسی‌زبان‌ها"
@@ -23,6 +23,11 @@
       "version": "1.1.0",
       "date": "2026-10-04",
       "notes": "Initial release: 18 decks of practical travel/communication English for Farsi speakers, using speech-recognition and listening/dictation cards alongside the usual tap-based types, with every card's English text played aloud automatically. Tap any English word on a card to see its Farsi meaning and hear it, and tap a Farsi word to see the English. The glossary now covers every word of the taught phrases (not only whole phrases). On every card the English is read aloud automatically in the English voice (after you answer, when the English is the answer); a new setting in Settings turns this off. Exams stay silent."
+    },
+    {
+      "version": "1.5.0",
+      "date": "2026-10-08",
+      "notes": "Removed the pronunciation (speak-it-aloud) practice cards: the app no longer uses the microphone. Every phrase still has its meaning card, and the listening, matching, ordering, typing and exam cards are unchanged. The reading-from-scratch decks (Sounds 1 to 7) now teach more common words (for example it, at, and, on, not, get, has, with, just, went) instead of rare ones (sap, rug, sock, hen, quiz, zip), and a single letter read aloud is now said by its name. (Numbered 1.5.0 because the copy bundled in earlier app builds was already 1.4.0, so this installs as an update everywhere.)"
     }
   ],
   "toc": [

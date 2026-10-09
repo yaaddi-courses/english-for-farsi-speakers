@@ -5,6 +5,7 @@ Aa,pron_e0c9035898.mp3
 am,pron_96e8155732.mp3
 And,pron_cffa50a32c.mp3
 And you?,pron_3c09f335c4.mp3
+at,pron_27e90dfa57.mp3
 b,pron_e9d71f5ee7.mp3
 B b,pron_742511abc0.mp3
 Bad,pron_1902e3d6fc.mp3
@@ -19,11 +20,11 @@ Big,pron_95c4bea12e.mp3
 Bitter,pron_23fda791fa.mp3
 Boarding now,pron_88ae9fc022.mp3
 Boarding pass,pron_a3cfd09d8a.mp3
-"Boarding pass, Please",pron_bc119e4f84.mp3
 box,pron_c7d8a6d722.mp3
 Breakfast,pron_9e3a822547.mp3
 Broken,pron_0b8a1caec2.mp3
 Bus,pron_32c70cebf1.mp3
+but,pron_786e97b3ee.mp3
 c,pron_84a516841b.mp3
 C c,pron_900aa83f6b.mp3
 Call an ambulance,pron_104c14dc84.mp3
@@ -40,8 +41,6 @@ Charger,pron_e2faa9211e.mp3
 Cheap,pron_fb8df41a16.mp3
 Check-in,pron_94c0fbc3a9.mp3
 Check-out,pron_4142bde32a.mp3
-chin,pron_44613ba4f9.mp3
-chip,pron_c6b6df0a9e.mp3
 choice,pron_630af549b6.mp3
 ck,pron_c8c2ca9fed.mp3
 Closed,pron_ea88fbaa99.mp3
@@ -59,12 +58,10 @@ dad,pron_0da19b540f.mp3
 Dd,pron_388ad1c312.mp3
 Delayed,pron_128df232b9.mp3
 Delicious,pron_7ab9d1883a.mp3
-dip,pron_6b665e89f2.mp3
 Discount,pron_c467ca0fa2.mp3
 Doctor,pron_1f0160076c.mp3
 dog,pron_e49512524f.mp3
 Drink,pron_7ca7a4abcc.mp3
-duck,pron_5ece240085.mp3
 e,pron_58e6b3a414.mp3
 E e,pron_ed3cc73a78.mp3
 Eat,pron_d89455758e.mp3
@@ -75,11 +72,9 @@ Eleven,pron_cc5a0c5067.mp3
 Entrance,pron_df33994d15.mp3
 Excuse,pron_8fb2c3ed10.mp3
 Excuse me,pron_25018d8342.mp3
-"Excuse me, I'm lost",pron_c98085ae93.mp3
 Exit,pron_de3ac21778.mp3
 f,pron_4a0a19218e.mp3
 F f,pron_398d79fad9.mp3
-fan,pron_2899441143.mp3
 Ff,pron_ed70c57d75.mp3
 Fifteen,pron_5cf896e678.mp3
 Fifty,pron_1f7a7912b3.mp3
@@ -93,26 +88,25 @@ from,pron_0b1e95cfd9.mp3
 g,pron_54fd171120.mp3
 G g,pron_6904bb1a27.mp3
 Gate,pron_3c5b492776.mp3
+get,pron_783923e57b.mp3
 Gg,pron_f3226f91f7.mp3
 Go,pron_1ec558a60b.mp3
 Good,pron_fc19318dd1.mp3
 Good morning,pron_a8cbec7254.mp3
 Goodbye,pron_3c8ec48744.mp3
-Goodbye. Take care.,pron_a8eebd368b.mp3
 h,pron_27d5482eeb.mp3
 H h,pron_29b08eb9ce.mp3
+had,pron_85d72cb875.mp3
 half past,pron_dfc2d13bd4.mp3
+has,pron_f6f39fbf67.mp3
 hat,pron_10e5866050.mp3
 Hello,pron_aaf4c61ddc.mp3
 Help,pron_92005ecf37.mp3
-hen,pron_d811086176.mp3
 Hh,pron_d3fc13dc12.mp3
 Hot,pron_4bd8eddacb.mp3
 How are you?,pron_4bfe46a79d.mp3
-How are you? I'm fine,pron_6e68a3ff8b.mp3
 How much is,pron_6607bb0552.mp3
 How much is This?,pron_30cdbbf372.mp3
-hug,pron_f11fb55ced.mp3
 Hundred,pron_e9b039adef.mp3
 I,pron_042dc4512f.mp3
 I agree,pron_a9f4c1627c.mp3
@@ -123,41 +117,24 @@ I am from Tehran,pron_588bfbf4d6.mp3
 I am staying in Shiraz,pron_23d2c861f4.mp3
 I am staying in Tehran,pron_a431cf4803.mp3
 I can,pron_dfdad7a47e.mp3
-I can Go.,pron_147bb9a088.mp3
-I can Help,pron_ba4eaac689.mp3
 I can't,pron_5e394e2483.mp3
 I can't Understand,pron_ace7d5b63a.mp3
 I disagree,pron_a9ee5955c0.mp3
 I don't like,pron_924766734b.mp3
-I don't like This,pron_57c3d8730b.mp3
 I don't understand,pron_6e954c4932.mp3
-I don't understand. Slower please.,pron_77cd6bf443.mp3
 I have,pron_48d05aefa0.mp3
-I have a Card,pron_72394a40ce.mp3
-I have a Reservation,pron_f08ddbe867.mp3
-I have Cash,pron_1d29829295.mp3
 I i,pron_0a5c12bdd9.mp3
 I like,pron_08a30893e4.mp3
-I like This,pron_db239809c9.mp3
 I need,pron_f3b7141b4d.mp3
-I need a Charger,pron_0739e3da46.mp3
-I need a Doctor,pron_89494d3abe.mp3
-I need a Taxi,pron_383036d459.mp3
-I need a Ticket.,pron_be4ece4b52.mp3
-I need a Train.,pron_34aaef1d9c.mp3
 I want,pron_7204fea453.mp3
 I want a Discount,pron_06a5fffbf1.mp3
 I want a Room,pron_bef30ee0d0.mp3
-I want a SIM card,pron_fd72ed2279.mp3
-I want Breakfast.,pron_72d2856956.mp3
-I want Water.,pron_daf794d7e4.mp3
 I'll have,pron_77a47c6198.mp3
 I'll have Water.,pron_4bb4ce2645.mp3
 I'm,pron_5c7afd6815.mp3
 I'm allergic to,pron_3600f1211c.mp3
 I'm busy,pron_694d1bdd88.mp3
 I'm fine,pron_c42b30fc32.mp3
-I'm fine. And you?,pron_6b893b8720.mp3
 I'm free,pron_6a8bf6f814.mp3
 I'm from,pron_50c3f2a136.mp3
 I'm from Shiraz.,pron_16f32d6452.mp3
@@ -165,36 +142,23 @@ I'm good,pron_01283e1b73.mp3
 I'm hungry,pron_442f5ff9f0.mp3
 I'm hungry. Where is the menu?,pron_37bf9b0a71.mp3
 I'm looking for,pron_e3bc35aa48.mp3
-I'm looking for This address,pron_8270c8bb91.mp3
 I'm lost,pron_e3e9a9e4fc.mp3
-I'm lost. Can you help me?,pron_b0fbee9333.mp3
 I'm sick,pron_f33a0a2dd0.mp3
-I'm sick. I need a Doctor.,pron_81af4704cc.mp3
 I'm staying in,pron_21b177bcba.mp3
 I'm staying in a hotel.,pron_b94546661b.mp3
 I'm thirsty,pron_21423f9213.mp3
-I'm thirsty. I want Water.,pron_e2cc6ce60b.mp3
 I'm tired,pron_5bbcbcaa21.mp3
 Ii,pron_3918373cf5.mp3
 in,pron_af10ef20dd.mp3
 is,pron_b47f363e2b.mp3
 Is it far?,pron_c59b0e541b.mp3
+it,pron_6c5522ca8a.mp3
 It hurts,pron_2b26da551f.mp3
 It's,pron_79bbc535e9.mp3
-It's Eight Thirty,pron_5ff22fef08.mp3
-It's Five Fifty,pron_8b233dab2a.mp3
-It's Four Forty,pron_aa27a5a36d.mp3
-It's half past One,pron_bc8e591bb2.mp3
-It's One o'clock,pron_639d658de4.mp3
-It's quarter past Three,pron_346b4c7234.mp3
-It's quarter to Two,pron_6a4907b8f6.mp3
-It's Seven Twenty,pron_65f2edbfcd.mp3
-It's Two Fifteen,pron_ec634a7c8d.mp3
 j,pron_5c2dd944dd.mp3
 J j,pron_db8851fbde.mp3
-jam,pron_da3dd5c265.mp3
-jet,pron_2f659ba674.mp3
 Jj,pron_7323a5431d.mp3
+just,pron_d95b79cfc9.mp3
 Just connect each English number word with its proper Persian translation.,pron_24b1534edf.mp3
 k,pron_13fbd79c3d.mp3
 K k,pron_28451667e9.mp3
@@ -207,9 +171,8 @@ l,pron_07c342be6e.mp3
 L l,pron_aea1ae9e70.mp3
 leg,pron_321d6cc517.mp3
 Let's meet,pron_1bcc346250.mp3
-Let's meet. What time works?,pron_0ecf3d78b4.mp3
-"Listen carefully to the audio and practice saying the full sentence, paying attention to how 'This' is pronounced in context.",pron_b3c0983402.mp3
 Ll,pron_110c8a30c1.mp3
+long,pron_bd3027fa56.mp3
 m,pron_6b0d31c0d5.mp3
 M m,pron_d9225e2b3c.mp3
 man,pron_8175e3c875.mp3
@@ -220,6 +183,7 @@ Menu,pron_252a25667d.mp3
 "Menu, Please",pron_6d38cc0fa6.mp3
 Mm,pron_b8d09b4d85.mp3
 morning,pron_45a21e4b5b.mp3
+much,pron_7d3f44729d.mp3
 My,pron_3ece1471f4.mp3
 My email is,pron_a18393b8a9.mp3
 My email is This.,pron_5bfb48a033.mp3
@@ -240,19 +204,21 @@ Nn,pron_07962e32be.mp3
 No,pron_fd12863535.mp3
 No problem,pron_7bf7ca17c6.mp3
 No signal,pron_18c8509f0f.mp3
+not,pron_557f255516.mp3
 o,pron_7a81af3e59.mp3
 O o,pron_3275f77713.mp3
 o'clock,pron_22286fa349.mp3
+on,pron_db3d405b10.mp3
 One,pron_fe05bcdcdc.mp3
 Oo,pron_0343bb07c9.mp3
 Open,pron_5fc7e38bff.mp3
 order,pron_cce55e4309.mp3
 p,pron_516b9783fc.mp3
 P p,pron_5b786de053.mp3
-pan,pron_bd2bd8216b.mp3
 Passport,pron_a3404013c7.mp3
 "Passport, Please",pron_c662e9706a.mp3
-pat,pron_7ffe1ba40f.mp3
+past,pron_dc52f27926.mp3
+pasta,pron_46139b0b16.mp3
 pen,pron_31a841af7b.mp3
 Pharmacy,pron_adfa59cc50.mp3
 pig,pron_2cd4ba9308.mp3
@@ -261,13 +227,11 @@ Please,pron_cae355b615.mp3
 Police,pron_ee848a3b5b.mp3
 pot,pron_cb79bd0ce2.mp3
 Pp,pron_6d3236ec3c.mp3
-Practice saying this word out loud to improve your pronunciation and speaking fluency.,pron_75484dd996.mp3
 Q,pron_22ea1c649c.mp3
 Qq,pron_bed4eb698c.mp3
 qu,pron_f4dd46b081.mp3
 quarter past,pron_90892dca17.mp3
 quarter to,pron_ec644f7b02.mp3
-quiz,pron_d501d3ec02.mp3
 r,pron_4dc7c9ec43.mp3
 R r,pron_8269201204.mp3
 Receipt,pron_14e60ace3d.mp3
@@ -277,7 +241,6 @@ Reservation,pron_bcf112ef01.mp3
 ring,pron_5c7d283db5.mp3
 Room,pron_27a5a05c01.mp3
 Rr,pron_843cbacc61.mp3
-rug,pron_0602f910be.mp3
 run,pron_df6ad19037.mp3
 s,pron_a0f1490a20.mp3
 S s,pron_f158a7cbcd.mp3
@@ -287,7 +250,6 @@ sand,pron_42625bfece.mp3
 sap,pron_f4603bd4ae.mp3
 Sara.,pron_dea04453c2.mp3
 sat,pron_c55de0f599.mp3
-Say the word out loud to practice how it sounds in English.,pron_86ff592c54.mp3
 See,pron_3d637fc604.mp3
 See you later,pron_b522739f51.mp3
 select,pron_81448fe273.mp3
@@ -303,9 +265,7 @@ Six,pron_bec9703f7a.mp3
 Sixty,pron_387f1fe4b7.mp3
 Slower please,pron_5001a49c9a.mp3
 Small,pron_89f6229a11.mp3
-sock,pron_18c9667c29.mp3
 Sorry,pron_dd7b1d0288.mp3
-Sorry. No problem.,pron_0f68094fe7.mp3
 Sour,pron_000b4b94cb.mp3
 Spicy,pron_680c1e02bc.mp3
 Ss,pron_c1c93f88d2.mp3
@@ -316,7 +276,6 @@ sun,pron_22fa6121da.mp3
 Sweet,pron_457774c6f0.mp3
 t,pron_8efd86fb78.mp3
 T t,pron_e363de7a47.mp3
-tag,pron_5e9b60f691.mp3
 Take care,pron_8617fd73a9.mp3
 tap,pron_25f30d353d.mp3
 Taxi,pron_4d82205a20.mp3
@@ -325,45 +284,27 @@ th,pron_fa6af6e97d.mp3
 Thank,pron_c4121f6a6c.mp3
 Thank you,pron_897a1c5987.mp3
 Thanks for everything,pron_6d637fdf2a.mp3
-Thanks for everything. Goodbye.,pron_805cc4214b.mp3
 that,pron_33b8220108.mp3
 The bill,pron_d8a3f27f7b.mp3
-"The bill, Please",pron_c974d47766.mp3
 "The question asks for the specific flavor profile, and 'bitter' describes that distinct taste often associated with certain herbs or strong drinks.",pron_460d9889da.mp3
 "The subject pronoun 'I' must come first, followed by the verb 'have,' making the correct order 'I have cash.' You can't say 'Cash I have.'",pron_2a8ca05955.mp3
 thin,pron_6ca0fa2674.mp3
+thing,pron_863cc374e6.mp3
 Thirty,pron_c54450b325.mp3
 This,pron_c2543fff3b.mp3
 This address,pron_cea4559850.mp3
 This is,pron_87fe39902c.mp3
-This is Bad.,pron_84d0c4ae20.mp3
-This is Beautiful,pron_3efc1d44ad.mp3
-This is Big,pron_b6b438a8ac.mp3
-This is Bitter,pron_7b2847ae36.mp3
-This is Broken,pron_f8cff8fcef.mp3
 This is Cheap,pron_fc42087d98.mp3
-This is Closed.,pron_d24a9f46b9.mp3
-This is Cold.,pron_82a963b4fe.mp3
 This is Delayed,pron_46eec5abf2.mp3
 This is Delicious,pron_81e0a19860.mp3
-This is Eighty.,pron_6e80705eb5.mp3
 This is Good.,pron_9e555f7f6e.mp3
 This is Hot.,pron_5c92d7227c.mp3
-This is Hundred.,pron_29482294e3.mp3
-This is My phone number,pron_515f036a77.mp3
 This is Ninety.,pron_7daae4bb73.mp3
 This is Open.,pron_5c3c784df7.mp3
 This is Salty,pron_b917da6dea.mp3
 This is Seventy.,pron_4dad05efae.mp3
-This is Sixty.,pron_3b3217d423.mp3
 This is Small,pron_16c0dbc2ed.mp3
-This is Sour,pron_6e535721f5.mp3
-This is Spicy,pron_72d26d1687.mp3
 This is Sweet,pron_15246d9e9e.mp3
-This is Too big,pron_3d5c241b3c.mp3
-This is Too expensive,pron_112eeb708e.mp3
-This is Too small,pron_66b9dc3a0f.mp3
-This is Water.,pron_a4aed032c7.mp3
 "This matching exercise tests your vocabulary knowledge. Remember that 'Delicious' describes taste, while 'Change' usually relates to money.",pron_a96b88ab48.mp3
 Three,pron_b802f38430.mp3
 Ticket,pron_346d34a0f0.mp3
@@ -372,7 +313,6 @@ tired,pron_511e991159.mp3
 Today,pron_2dd2bed725.mp3
 "Today, I'm busy",pron_99bd423c40.mp3
 Tomorrow,pron_2dac81d65d.mp3
-"Tomorrow, I'm free",pron_0ab2352486.mp3
 Tonight,pron_4ce0cba1df.mp3
 Too big,pron_3b40ce56c0.mp3
 Too expensive,pron_bd3ad84f6d.mp3
@@ -380,7 +320,6 @@ Too small,pron_c63e3e110e.mp3
 top,pron_af2c7b4ca0.mp3
 Train,pron_94efdd6f62.mp3
 Try on,pron_1b3afa3534.mp3
-Try repeating this phrase out loud so you get comfortable with its sound and rhythm. It’s essential for talking about travel plans.,pron_91c56bf325.mp3
 Tt,pron_8c1017982b.mp3
 Turn left,pron_8da88b6de9.mp3
 Turn right,pron_c8845877c8.mp3
@@ -391,6 +330,8 @@ type,pron_d0a3e7f81a.mp3
 u,pron_51e69892ab.mp3
 U u,pron_75b34feb17.mp3
 Understand,pron_8e73840bbf.mp3
+up,pron_7c0a25c06e.mp3
+us,pron_da2b128800.mp3
 Uu,pron_6f457e97a2.mp3
 v,pron_7a38d8cbd2.mp3
 V v,pron_153815a09f.mp3
@@ -401,23 +342,20 @@ W w,pron_202b303291.mp3
 Water,pron_6d5a45920a.mp3
 web,pron_ca84d1343b.mp3
 welcome,pron_c0b137fe2d.mp3
+went,pron_c4a1f13b85.mp3
 wet,pron_c8e275e6d1.mp3
 What,pron_a110e6b9a3.mp3
 What is your name?,pron_657089beb5.mp3
 What time is it?,pron_a1fcd16f26.mp3
 What time works?,pron_5f140a709d.mp3
 Where is the,pron_818ef9f838.mp3
-Where is the Baggage claim?,pron_73d18dd6b2.mp3
-Where is the Bathroom?,pron_c107970ac6.mp3
-Where is the Bus?,pron_76ab6281c0.mp3
 Where is the Check-in?,pron_b7545cd281.mp3
-Where is the Customs?,pron_eee6943dcf.mp3
-Where is the Exit?,pron_ee55bc8586.mp3
 Where is the Gate?,pron_8dbccb3a86.mp3
 Where is the Pharmacy?,pron_4174464d1d.mp3
-Where is the Suitcase?,pron_5c8e38086b.mp3
 Wifi password,pron_f25c82d198.mp3
 "Wifi password, Please",pron_508597bc2d.mp3
+wish,pron_7b2577c452.mp3
+with,pron_8fcd25a39d.mp3
 Ww,pron_1c4f0c6eb8.mp3
 x,pron_11f6ad8ec5.mp3
 X x,pron_4edce84f80.mp3
@@ -436,7 +374,6 @@ You're,pron_26f9f86e36.mp3
 You're welcome,pron_d1b38a2813.mp3
 your,pron_4dc73741b9.mp3
 Yy,pron_b2a801fc1f.mp3
-z,pron_395df8f7c5.mp3
+Z,pron_395df8f7c5.mp3
 Z z,pron_c4a16c353b.mp3
-zip,pron_f13e27693c.mp3
 Zz,pron_d7dacae2c9.mp3
