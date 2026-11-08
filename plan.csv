@@ -1,0 +1,252 @@
+section,deck,pack,level,keywords,terms,kind,main_card_id
+Getting Started,Sounds & Survival Phrases,Hello یعنی چی؟,1,Hello,Hello,teach,9001
+Getting Started,Sounds & Survival Phrases,Good morning یعنی چی؟,1,Good morning,Good morning,teach,9006
+Getting Started,Sounds & Survival Phrases,I want یعنی چی؟,1,I want,I want,teach,12997
+Getting Started,Sounds & Survival Phrases,How are you? یعنی چی,1,How are you?,How are you?,teach,9012
+Getting Started,Sounds & Survival Phrases,I'm fine یعنی چی؟,1,I'm fine,I'm fine,teach,9017
+Getting Started,Sounds & Survival Phrases,I'm good یعنی چی؟,1,I'm good,I'm good,teach,9023
+Getting Started,Sounds & Survival Phrases,a یعنی چی؟,1,a,a,teach,13004
+Getting Started,Sounds & Survival Phrases,I'm tired یعنی چی؟,1,I'm tired,I'm tired,teach,9029
+Getting Started,Sounds & Survival Phrases,And you? یعنی چی,1,And you?,And you?,teach,9038
+Getting Started,Sounds & Survival Phrases,Please یعنی چی؟,1,Please,Please,teach,9045
+Getting Started,Sounds & Survival Phrases,Water یعنی چی؟,1,Water,Water,teach,13010
+Getting Started,Sounds & Survival Phrases,Thank you یعنی چی؟,1,Thank you,Thank you,teach,9050
+Getting Started,Sounds & Survival Phrases,You're welcome یعنی چی؟,1,You're welcome,You're welcome,teach,9057
+Getting Started,Sounds & Survival Phrases,Yes یعنی چی؟,1,Yes,Yes,teach,9064
+Getting Started,Sounds & Survival Phrases,This is یعنی چی؟,1,This is,This is,teach,13018
+Getting Started,Sounds & Survival Phrases,No یعنی چی؟,1,No,No,teach,9069
+Getting Started,Sounds & Survival Phrases,Excuse me یعنی چی؟,1,Excuse me,Excuse me,teach,9074
+Getting Started,Sounds & Survival Phrases,Sorry یعنی چی؟,1,Sorry,Sorry,teach,9081
+Getting Started,Sounds & Survival Phrases,I'm hungry یعنی چی؟,1,I'm hungry,I'm hungry,teach,13028
+Getting Started,Sounds & Survival Phrases,Goodbye یعنی چی؟,1,Goodbye,Goodbye,teach,9086
+Getting Started,Sounds & Survival Phrases,"Ali: Hello! {{1}}, please. Sara: Yes, this is {{2}}. Ali: {{",1,"Ali: Hello! {{1}}, please. Sara: Yes, this is {{2}}. Ali: {{3}}! I'm thirsty.",,teach,12438
+Getting Started,Sounds & Survival Phrases,"Ali: Sorry! {{1}}, thank you. Sara: {{2}}, this is {{3}}.",1,"Ali: Sorry! {{1}}, thank you. Sara: {{2}}, this is {{3}}.",,teach,12528
+Getting Started,Sounds & Survival Phrases,I'm thirsty یعنی چی؟,1,I'm thirsty,I'm thirsty,teach,13034
+Getting Started,Sounds & Survival Phrases,"Ali: {{1}} water, {{2}}. Sara: {{3}}, this is water.",1,"Ali: {{1}} water, {{2}}. Sara: {{3}}, this is water.",,teach,12533
+Getting Started,Sounds & Survival Phrases,"Ali: {{1}}! {{2}}. Sara: Sorry, no {{3}}.",1,"Ali: {{1}}! {{2}}. Sara: Sorry, no {{3}}.",,teach,12538
+Getting Started,Sounds & Survival Phrases,Ali: {{1}}! I'm thirsty. Sara: {{2}} water. {{3}}!,1,Ali: {{1}}! I'm thirsty. Sara: {{2}} water. {{3}}!,,teach,12543
+Getting Started,Introducing Yourself,I یعنی چی؟,1,I,I,teach,9816
+Getting Started,Introducing Yourself,am یعنی چی؟,1,am,am,teach,9821
+Getting Started,Introducing Yourself,My یعنی چی؟,1,My,My,teach,9826
+Getting Started,Introducing Yourself,name یعنی چی؟,1,name,name,teach,9831
+Getting Started,Introducing Yourself,is یعنی چی؟,1,is,is,teach,9836
+Getting Started,Introducing Yourself,from یعنی چی؟,1,from,from,teach,9843
+Getting Started,Introducing Yourself,staying یعنی چی؟,1,staying,staying,teach,9850
+Getting Started,Introducing Yourself,in یعنی چی؟,1,in,in,teach,9855
+Getting Started,Introducing Yourself,Nice to meet you یعنی چی؟,1,Nice to meet you,Nice to meet you,teach,9862
+Getting Started,Introducing Yourself,Ali: {{1}}! {{2}} Ali. Sara: Nice to meet you! {{3}} Tehran.,1,Ali: {{1}}! {{2}} Ali. Sara: Nice to meet you! {{3}} Tehran.,,teach,12443
+Getting Started,Introducing Yourself,A: {{1}} Reza. {{2}} Isfahan. B: {{3}}!,1,A: {{1}} Reza. {{2}} Isfahan. B: {{3}}!,,teach,12548
+Getting Started,Introducing Yourself,A: {{1}}! {{2}} Tehran. B: Nice to meet you! {{3}}.,1,A: {{1}}! {{2}} Tehran. B: Nice to meet you! {{3}}.,,teach,12553
+Getting Started,Introducing Yourself,"A: {{1}}, {{2}} Maryam. B: Nice to meet you! {{3}} Yazd.",1,"A: {{1}}, {{2}} Maryam. B: Nice to meet you! {{3}} Yazd.",,teach,12558
+Getting Started,Introducing Yourself,A: {{1}}! {{2}} Karaj. B: My name is Reza. {{3}}!,1,A: {{1}}! {{2}} Karaj. B: My name is Reza. {{3}}!,,teach,12563
+Getting Started,Introducing Yourself,What یعنی چی؟,1,What,What,teach,13138
+Getting Started,Introducing Yourself,your یعنی چی؟,1,your,your,teach,13145
+Getting Started,Numbers & Money,One,1,One,One,teach,12200
+Getting Started,Numbers & Money,Two یعنی چی؟,1,Two,Two,teach,12205
+Getting Started,Numbers & Money,Three یعنی چی؟,1,Three,Three,teach,12211
+Getting Started,Numbers & Money,Four یعنی چی؟,1,Four,Four,teach,12217
+Getting Started,Numbers & Money,Five یعنی چی؟,1,Five,Five,teach,12224
+Getting Started,Numbers & Money,Six یعنی چی؟,1,Six,Six,teach,12230
+Getting Started,Numbers & Money,Seven یعنی چی؟,1,Seven,Seven,teach,12236
+Getting Started,Numbers & Money,Eight یعنی چی؟,1,Eight,Eight,teach,12243
+Getting Started,Numbers & Money,Nine یعنی چی؟,1,Nine,Nine,teach,12249
+Getting Started,Numbers & Money,Ten یعنی چی؟,1,Ten,Ten,teach,12255
+Getting Started,Numbers & Money,Eleven یعنی چی؟,1,Eleven,Eleven,teach,12262
+Getting Started,Numbers & Money,Twelve یعنی چی؟,1,Twelve,Twelve,teach,12268
+Getting Started,Numbers & Money,This یعنی چی؟,1,This,This,teach,12274
+Getting Started,Numbers & Money,How much is یعنی چی؟,1,How much is,How much is,teach,12281
+Getting Started,Numbers & Money,Too expensive یعنی چی؟,1,Too expensive,Too expensive,teach,12290
+Getting Started,Numbers & Money,Change یعنی چی؟,1,Change,Change,teach,12299
+Getting Started,Numbers & Money,"Ali: Excuse me, {{1}} this? Sara: This is ten. Ali: {{2}}! I",1,"Ali: Excuse me, {{1}} this? Sara: This is ten. Ali: {{2}}! I want {{3}}.",,teach,12448
+Getting Started,Numbers & Money,"A: Excuse me, {{1}} this? B: This is {{2}}. {{3}}!",1,"A: Excuse me, {{1}} this? B: This is {{2}}. {{3}}!",,teach,12568
+Getting Started,Numbers & Money,"A: {{1}} {{2}}. {{3}}, please. B: Thank you!",1,"A: {{1}} {{2}}. {{3}}, please. B: Thank you!",,teach,12573
+Getting Started,Numbers & Money,A: {{1}} {{2}}. This is {{3}}! B: This is two.,1,A: {{1}} {{2}}. This is {{3}}! B: This is two.,,teach,12578
+Getting Started,Numbers & Money,A: This is {{1}}. {{2}} this? B: This is {{3}}.,1,A: This is {{1}}. {{2}} this? B: This is {{3}}.,,teach,12583
+Getting Started,Numbers & Money,Sixty یعنی چی؟,2,Sixty,Sixty,teach,13042
+Getting Started,Numbers & Money,Seventy یعنی چی؟,2,Seventy,Seventy,teach,13050
+Getting Started,Numbers & Money,Eighty یعنی چی؟,2,Eighty,Eighty,teach,13060
+Getting Started,Numbers & Money,Ninety یعنی چی؟,2,Ninety,Ninety,teach,13068
+Getting Started,Numbers & Money,Hundred یعنی چی؟,2,Hundred,Hundred,teach,13077
+Getting Started,Telling Time & Dates,What time is it? یعنی چی,2,What time is it?,What time is it?,teach,12306
+Getting Started,Telling Time & Dates,It's یعنی چی؟,2,It's,It's,teach,12312
+Getting Started,Telling Time & Dates,o'clock یعنی چی؟,2,o'clock,o'clock,teach,12318
+Getting Started,Telling Time & Dates,half past یعنی چی؟,2,half past,half past,teach,12330
+Getting Started,Telling Time & Dates,quarter past یعنی چی؟,2,quarter past,quarter past,teach,12340
+Getting Started,Telling Time & Dates,quarter to یعنی چی؟,2,quarter to,quarter to,teach,12349
+Getting Started,Telling Time & Dates,Fifteen یعنی چی؟,2,Fifteen,Fifteen,teach,12359
+Getting Started,Telling Time & Dates,Twenty یعنی چی؟,2,Twenty,Twenty,teach,12369
+Getting Started,Telling Time & Dates,Thirty یعنی چی؟,2,Thirty,Thirty,teach,12380
+Getting Started,Telling Time & Dates,Forty یعنی چی؟,2,Forty,Forty,teach,12392
+Getting Started,Telling Time & Dates,Fifty یعنی چی؟,2,Fifty,Fifty,teach,12403
+Getting Started,Telling Time & Dates,Today یعنی چی؟,2,Today,Today,teach,12414
+Getting Started,Telling Time & Dates,Tomorrow یعنی چی؟,2,Tomorrow,Tomorrow,teach,12421
+Getting Started,Telling Time & Dates,Yesterday یعنی چی؟,2,Yesterday,Yesterday,teach,12427
+Getting Started,Telling Time & Dates,"Ali: Excuse me, {{1}}? Sara: It's {{2}} {{3}}. Ali: Thank yo",2,"Ali: Excuse me, {{1}}? Sara: It's {{2}} {{3}}. Ali: Thank you!",,teach,12453
+Getting Started,Telling Time & Dates,A: What time is it? B: {{1}} {{2}} {{3}}.,2,A: What time is it? B: {{1}} {{2}} {{3}}.,,teach,12588
+Getting Started,Telling Time & Dates,A: It's {{1}} {{2}}. B: Thank you! {{3}}?,2,A: It's {{1}} {{2}}. B: Thank you! {{3}}?,,teach,12593
+Getting Started,Telling Time & Dates,A: It's {{1}} {{2}}. B: {{3}}? Yesterday?,2,A: It's {{1}} {{2}}. B: {{3}}? Yesterday?,,teach,12598
+Getting Started,Telling Time & Dates,A: It's {{1}} {{2}}. B: Thank you! It's {{3}}.,2,A: It's {{1}} {{2}}. B: Thank you! It's {{3}}.,,teach,12603
+On the Move,At the Airport,Passport یعنی چی؟,2,Passport,Passport,teach,11540
+On the Move,At the Airport,Boarding pass یعنی چی؟,2,Boarding pass,Boarding pass,teach,11549
+On the Move,At the Airport,Where is the یعنی چی؟,2,Where is the,Where is the,teach,11557
+On the Move,At the Airport,Gate یعنی چی؟,2,Gate,Gate,teach,11564
+On the Move,At the Airport,Suitcase یعنی چی؟,2,Suitcase,Suitcase,teach,11573
+On the Move,At the Airport,"Ali: Excuse me, where is the {{1}}? Sara: This is a gate. Th",2,"Ali: Excuse me, where is the {{1}}? Sara: This is a gate. Thank you! Ali: I have a {{2}}. I have a {{3}}.",,teach,12458
+On the Move,At the Airport,A: {{1}} {{2}}? B: {{3}} a suitcase.,2,A: {{1}} {{2}}? B: {{3}} a suitcase.,,teach,12608
+On the Move,At the Airport,A: {{1}} a {{2}}. Thank you! B: Where is the {{3}}?,2,A: {{1}} a {{2}}. Thank you! B: Where is the {{3}}?,,teach,12613
+On the Move,At the Airport,"A: {{1}}, I have a {{2}}. B: This is a {{3}}.",2,"A: {{1}}, I have a {{2}}. B: This is a {{3}}.",,teach,12618
+On the Move,At the Airport,Check-in یعنی چی؟,2,Check-in,Check-in,teach,12874
+On the Move,At the Airport,Customs یعنی چی؟,2,Customs,Customs,teach,12883
+On the Move,At the Airport,Baggage claim یعنی چی؟,2,Baggage claim,Baggage claim,teach,12891
+On the Move,Getting Around,I need یعنی چی؟,2,I need,I need,teach,11581
+On the Move,Getting Around,Taxi یعنی چی؟,2,Taxi,Taxi,teach,11588
+On the Move,Getting Around,Bus یعنی چی؟,2,Bus,Bus,teach,11597
+On the Move,Getting Around,Straight ahead یعنی چی؟,2,Straight ahead,Straight ahead,teach,11605
+On the Move,Getting Around,Turn left یعنی چی؟,2,Turn left,Turn left,teach,11612
+On the Move,Getting Around,Turn right یعنی چی؟,2,Turn right,Turn right,teach,11618
+On the Move,Getting Around,"Ali: Excuse me, I need a {{1}}. Sara: {{2}}. This is a taxi.",2,"Ali: Excuse me, I need a {{1}}. Sara: {{2}}. This is a taxi. Ali: Thank you! Straight ahead? Sara: No, {{3}}.",,teach,12463
+On the Move,Getting Around,A: {{1}} a {{2}}. B: {{3}}.,2,A: {{1}} a {{2}}. B: {{3}}.,,teach,12623
+On the Move,Getting Around,A: {{1}}. {{2}} a {{3}}. B: Thank you!,2,A: {{1}}. {{2}} a {{3}}. B: Thank you!,,teach,12628
+On the Move,Getting Around,"A: {{1}}, I need a {{2}}. B: {{3}}. Straight ahead.",2,"A: {{1}}, I need a {{2}}. B: {{3}}. Straight ahead.",,teach,12633
+On the Move,Getting Around,Train یعنی چی؟,2,Train,Train,teach,13086
+On the Move,Getting Around,Ticket یعنی چی؟,2,Ticket,Ticket,teach,13094
+On the Move,At the Hotel,Room یعنی چی؟,2,Room,Room,teach,11624
+On the Move,At the Hotel,I have یعنی چی؟,2,I have,I have,teach,11635
+On the Move,At the Hotel,Reservation یعنی چی؟,2,Reservation,Reservation,teach,11641
+On the Move,At the Hotel,Key یعنی چی؟,2,Key,Key,teach,11650
+On the Move,At the Hotel,Broken یعنی چی؟,2,Broken,Broken,teach,11660
+On the Move,At the Hotel,"Ali: Excuse me, I have a {{1}}. Sara: This is a {{2}}. Room ",2,"Ali: Excuse me, I have a {{1}}. Sara: This is a {{2}}. Room ten. Ali: Thank you! This is {{3}}.",,teach,12468
+On the Move,At the Hotel,A: {{1}} a {{2}}. B: This is a {{3}}.,2,A: {{1}} a {{2}}. B: This is a {{3}}.,,teach,12638
+On the Move,At the Hotel,A: {{1}} {{2}}. I need a {{3}}. B: Thank you!,2,A: {{1}} {{2}}. I need a {{3}}. B: Thank you!,,teach,12643
+On the Move,At the Hotel,"A: {{1}}, I have a {{2}}. B: {{3}} ten.",2,"A: {{1}}, I have a {{2}}. B: {{3}} ten.",,teach,12648
+On the Move,At the Hotel,A: This is a {{1}}. This is {{2}}. B: I need a {{3}}.,2,A: This is a {{1}}. This is {{2}}. B: I need a {{3}}.,,teach,12653
+On the Move,At the Hotel,Check-out یعنی چی؟,2,Check-out,Check-out,teach,12900
+On the Move,At the Hotel,Breakfast یعنی چی؟,2,Breakfast,Breakfast,teach,12907
+Daily Life,Ordering Food,Menu یعنی چی؟,2,Menu,Menu,teach,11669
+Daily Life,Ordering Food,The bill یعنی چی؟,2,The bill,The bill,teach,11678
+Daily Life,Ordering Food,Delicious یعنی چی؟,2,Delicious,Delicious,teach,11687
+Daily Life,Ordering Food,Spicy یعنی چی؟,3,Spicy,Spicy,teach,11697
+Daily Life,Ordering Food,Sweet یعنی چی؟,3,Sweet,Sweet,teach,11706
+Daily Life,Ordering Food,Sour یعنی چی؟,3,Sour,Sour,teach,11717
+Daily Life,Ordering Food,Salty یعنی چی؟,3,Salty,Salty,teach,11726
+Daily Life,Ordering Food,Bitter یعنی چی؟,3,Bitter,Bitter,teach,11736
+Daily Life,Ordering Food,"Ali: Excuse me, this is a {{1}}. Sara: Thank you! This is {{",3,"Ali: Excuse me, this is a {{1}}. Sara: Thank you! This is {{2}}. Ali: This is {{3}}? Sara: No, this is sweet.",,teach,12473
+Daily Life,Ordering Food,A: This is {{1}}. B: This is {{2}}. {{3}}!,3,A: This is {{1}}. B: This is {{2}}. {{3}}!,,teach,12658
+Daily Life,Ordering Food,"A: This is {{1}}. {{2}}, please. B: {{3}}!",3,"A: This is {{1}}. {{2}}, please. B: {{3}}!",,teach,12663
+Daily Life,Ordering Food,"A: Excuse me, this is a {{1}}. B: This is {{2}}! {{3}} water",3,"A: Excuse me, this is a {{1}}. B: This is {{2}}! {{3}} water.",,teach,12668
+Daily Life,Ordering Food,A: This is {{1}}. This is {{2}}! B: {{3}}.,3,A: This is {{1}}. This is {{2}}! B: {{3}}.,,teach,12673
+Daily Life,Ordering Food,I'll have یعنی چی؟,3,I'll have,I'll have,teach,12915
+Daily Life,Shopping,Too big یعنی چی؟,3,Too big,Too big,teach,11746
+Daily Life,Shopping,Too small یعنی چی؟,3,Too small,Too small,teach,11755
+Daily Life,Shopping,Discount یعنی چی؟,3,Discount,Discount,teach,11764
+Daily Life,Shopping,Cash یعنی چی؟,3,Cash,Cash,teach,11775
+Daily Life,Shopping,Card یعنی چی؟,3,Card,Card,teach,11784
+Daily Life,Shopping,"Ali: Excuse me, this is {{1}}. Sara: This is {{2}}. How much",3,"Ali: Excuse me, this is {{1}}. Sara: This is {{2}}. How much is this? Ali: {{3}}, please! I have cash.",,teach,12478
+Daily Life,Shopping,"A: {{1}} {{2}}. B: {{3}}, please!",3,"A: {{1}} {{2}}. B: {{3}}, please!",,teach,12678
+Daily Life,Shopping,A: I have {{1}}. {{2}} this? B: This is {{3}}.,3,A: I have {{1}}. {{2}} this? B: This is {{3}}.,,teach,12683
+Daily Life,Shopping,"A: {{1}}, I have a {{2}}. B: This is {{3}}.",3,"A: {{1}}, I have a {{2}}. B: This is {{3}}.",,teach,12688
+Daily Life,Shopping,A: This is {{1}}! B: {{2}}! This is {{3}}.,3,A: This is {{1}}! B: {{2}}! This is {{3}}.,,teach,12693
+Daily Life,Shopping,Receipt یعنی چی؟,3,Receipt,Receipt,teach,12925
+Daily Life,Shopping,Try on,3,Try on,Try on,teach,12931
+Daily Life,Small Talk & Politeness,Nice weather یعنی چی؟,3,Nice weather,Nice weather,teach,11794
+Daily Life,Small Talk & Politeness,I agree یعنی چی؟,3,I agree,I agree,teach,11801
+Daily Life,Small Talk & Politeness,I disagree یعنی چی؟,3,I disagree,I disagree,teach,11807
+Daily Life,Small Talk & Politeness,No problem یعنی چی؟,3,No problem,No problem,teach,11813
+Daily Life,Small Talk & Politeness,Congratulations یعنی چی؟,3,Congratulations,Congratulations,teach,11822
+Daily Life,Small Talk & Politeness,"Ali: Hello! Nice weather today. Sara: Yes, thank you. My nam",3,"Ali: Hello! Nice weather today. Sara: Yes, thank you. My name is Sara. Ali: Nice to meet you, Sara. I'm from Shiraz. Sara: I'm staying in a hotel. I have a reservation. Ali: I'm hungry. Where is the menu? Sara: This is the menu. No problem!",,teach,12433
+Daily Life,Small Talk & Politeness,"Ali: {{1}} today! Sara: Yes, {{2}}. Ali: {{3}}! No problem.",3,"Ali: {{1}} today! Sara: Yes, {{2}}. Ali: {{3}}! No problem.",,teach,12483
+Daily Life,Small Talk & Politeness,A: {{1}}. B: {{2}}!,3,A: {{1}}. B: {{2}}!,,teach,12698
+Daily Life,Small Talk & Politeness,"A: {{1}}! {{2}} today. B: Yes, {{3}}.",3,"A: {{1}}! {{2}} today. B: Yes, {{3}}.",,teach,12703
+Daily Life,Small Talk & Politeness,A: {{1}}! {{2}}. B: I agree. {{3}}.,3,A: {{1}}! {{2}}. B: I agree. {{3}}.,,teach,12708
+Daily Life,Asking for Help,I'm lost یعنی چی؟,3,I'm lost,I'm lost,teach,11828
+Daily Life,Asking for Help,Can you help me? یعنی چی,3,Can you help me?,Can you help me?,teach,11837
+Daily Life,Asking for Help,I don't understand یعنی چی؟,3,I don't understand,I don't understand,teach,11846
+Daily Life,Asking for Help,Slower please یعنی چی؟,3,Slower please,Slower please,teach,11852
+Daily Life,Asking for Help,Repeat please,3,Repeat please,Repeat please,teach,11860
+Daily Life,Asking for Help,Bathroom یعنی چی؟,3,Bathroom,Bathroom,teach,11867
+Daily Life,Asking for Help,I'm looking for,3,I'm looking for,I'm looking for,teach,11876
+Daily Life,Asking for Help,This address یعنی چی؟,3,This address,This address,teach,11882
+Daily Life,Asking for Help,Is it far? یعنی چی,3,Is it far?,Is it far?,teach,11892
+Daily Life,Asking for Help,"Ali: Excuse me, I'm lost. {{1}}? Sara: Yes, no problem. Ali:",3,"Ali: Excuse me, I'm lost. {{1}}? Sara: Yes, no problem. Ali: I'm looking for {{2}}. {{3}}? Sara: I don't understand. Slower please.",,teach,12488
+Daily Life,Asking for Help,A: {{1}}. {{2}}? B: {{3}}.,3,A: {{1}}. {{2}}? B: {{3}}.,,teach,12713
+Daily Life,Asking for Help,"A: {{1}}, where is the {{2}}? B: {{3}} a bathroom.",3,"A: {{1}}, where is the {{2}}? B: {{3}} a bathroom.",,teach,12718
+Daily Life,Asking for Help,A: {{1}}? {{2}}. B: {{3}}.,3,A: {{1}}? {{2}}. B: {{3}}.,,teach,12723
+Daily Life,Asking for Help,A: {{1}} {{2}}. B: {{3}}.,3,A: {{1}} {{2}}. B: {{3}}.,,teach,12728
+Staying Connected,Phone & Wifi,SIM card یعنی چی؟,3,SIM card,SIM card,teach,11898
+Staying Connected,Phone & Wifi,Wifi password یعنی چی؟,3,Wifi password,Wifi password,teach,11907
+Staying Connected,Phone & Wifi,My phone number,3,My phone number,My phone number,teach,11917
+Staying Connected,Phone & Wifi,Charger یعنی چی؟,3,Charger,Charger,teach,11925
+Staying Connected,Phone & Wifi,No signal یعنی چی؟,3,No signal,No signal,teach,11935
+Staying Connected,Phone & Wifi,Battery یعنی چی؟,3,Battery,Battery,teach,11942
+Staying Connected,Phone & Wifi,"Ali: Excuse me, I need a {{1}}. Sara: This is a {{2}}. Ali: ",3,"Ali: Excuse me, I need a {{1}}. Sara: This is a {{2}}. Ali: Thank you! I need a {{3}}.",,teach,12493
+Staying Connected,Phone & Wifi,A: {{1}} a {{2}}. B: {{3}}!,3,A: {{1}} a {{2}}. B: {{3}}!,,teach,12733
+Staying Connected,Phone & Wifi,A: {{1}} {{2}}. B: Thank you! {{3}}?,3,A: {{1}} {{2}}. B: Thank you! {{3}}?,,teach,12738
+Staying Connected,Phone & Wifi,"A: {{1}}, I need a {{2}}. B: This is a {{3}}.",3,"A: {{1}}, I need a {{2}}. B: This is a {{3}}.",,teach,12743
+Staying Connected,Phone & Wifi,A: {{1}}! B: I have a {{2}}. {{3}}?,3,A: {{1}}! B: I have a {{2}}. {{3}}?,,teach,12748
+Staying Connected,Emergencies & Health,Doctor یعنی چی؟,3,Doctor,Doctor,teach,11948
+Staying Connected,Emergencies & Health,Pharmacy یعنی چی؟,3,Pharmacy,Pharmacy,teach,11958
+Staying Connected,Emergencies & Health,It hurts یعنی چی؟,3,It hurts,It hurts,teach,11968
+Staying Connected,Emergencies & Health,I'm sick یعنی چی؟,3,I'm sick,I'm sick,teach,11974
+Staying Connected,Emergencies & Health,Call an ambulance,3,Call an ambulance,Call an ambulance,teach,11982
+Staying Connected,Emergencies & Health,I'm allergic to,4,I'm allergic to,I'm allergic to,teach,11989
+Staying Connected,Emergencies & Health,"Ali: Excuse me, {{1}}. {{2}}. Sara: {{3}}! Ali: Where is the",4,"Ali: Excuse me, {{1}}. {{2}}. Sara: {{3}}! Ali: Where is the doctor? Where is the pharmacy?",,teach,12498
+Staying Connected,Emergencies & Health,A: {{1}}! {{2}}. B: {{3}}!,4,A: {{1}}! {{2}}. B: {{3}}!,,teach,12753
+Staying Connected,Emergencies & Health,A: {{1}} {{2}}? B: {{3}} a doctor.,4,A: {{1}} {{2}}? B: {{3}} a doctor.,,teach,12758
+Staying Connected,Emergencies & Health,A: {{1}} {{2}}. B: Where is the {{3}}?,4,A: {{1}} {{2}}. B: Where is the {{3}}?,,teach,12763
+Staying Connected,Emergencies & Health,"A: {{1}}, {{2}}. B: {{3}}! I'm sick.",4,"A: {{1}}, {{2}}. B: {{3}}! I'm sick.",,teach,12768
+Staying Connected,Emergencies & Health,Police یعنی چی؟,4,Police,Police,teach,12937
+Staying Connected,Emergencies & Health,Fire یعنی چی؟,4,Fire,Fire,teach,13103
+Staying Connected,Making Plans,Let's meet,4,Let's meet,Let's meet,teach,11995
+Staying Connected,Making Plans,What time works?,4,What time works?,What time works?,teach,12001
+Staying Connected,Making Plans,I'm free یعنی چی؟,4,I'm free,I'm free,teach,12010
+Staying Connected,Making Plans,I'm busy یعنی چی؟,4,I'm busy,I'm busy,teach,12019
+Staying Connected,Making Plans,See you later یعنی چی؟,4,See you later,See you later,teach,12029
+Staying Connected,Making Plans,Ali: {{1}} today! Sara: {{2}}? I'm free. Ali: Thank you! {{3,4,Ali: {{1}} today! Sara: {{2}}? I'm free. Ali: Thank you! {{3}}.,,teach,12503
+Staying Connected,Making Plans,A: {{1}} {{2}}. B: {{3}}!,4,A: {{1}} {{2}}. B: {{3}}!,,teach,12773
+Staying Connected,Making Plans,A: {{1}} {{2}}. B: {{3}}?,4,A: {{1}} {{2}}. B: {{3}}?,,teach,12778
+Staying Connected,Making Plans,A: {{1}} today. B: {{2}}! {{3}}.,4,A: {{1}} today. B: {{2}}! {{3}}.,,teach,12783
+Putting It Together,Common Everyday Verbs in Action,I like یعنی چی؟,4,I like,I like,teach,12036
+Putting It Together,Common Everyday Verbs in Action,I don't like یعنی چی؟,4,I don't like,I don't like,teach,12045
+Putting It Together,Common Everyday Verbs in Action,Help یعنی چی؟,4,Help,Help,teach,12053
+Putting It Together,Common Everyday Verbs in Action,I can یعنی چی؟,4,I can,I can,teach,12060
+Putting It Together,Common Everyday Verbs in Action,Understand یعنی چی؟,4,Understand,Understand,teach,12069
+Putting It Together,Common Everyday Verbs in Action,I can't یعنی چی؟,4,I can't,I can't,teach,12075
+Putting It Together,Common Everyday Verbs in Action,Ali: {{1}} water. {{2}} bus. Sara: I can help! Understand? A,4,"Ali: {{1}} water. {{2}} bus. Sara: I can help! Understand? Ali: Yes, {{3}}.",,teach,12508
+Putting It Together,Common Everyday Verbs in Action,A: {{1}} {{2}}. B: {{3}}? Yes!,4,A: {{1}} {{2}}. B: {{3}}? Yes!,,teach,12788
+Putting It Together,Common Everyday Verbs in Action,A: {{1}} {{2}}. B: {{3}} bus.,4,A: {{1}} {{2}}. B: {{3}} bus.,,teach,12793
+Putting It Together,Common Everyday Verbs in Action,A: {{1}} {{2}}. B: {{3}}! Understand?,4,A: {{1}} {{2}}. B: {{3}}! Understand?,,teach,12798
+Putting It Together,Common Everyday Verbs in Action,A: {{1}} {{2}}. B: {{3}} this.,4,A: {{1}} {{2}}. B: {{3}} this.,,teach,12803
+Putting It Together,Common Everyday Verbs in Action,Go یعنی چی؟,4,Go,Go,teach,13110
+Putting It Together,Common Everyday Verbs in Action,Eat یعنی چی؟,4,Eat,Eat,teach,13119
+Putting It Together,Common Everyday Verbs in Action,Drink یعنی چی؟,4,Drink,Drink,teach,13125
+Putting It Together,Common Everyday Verbs in Action,See یعنی چی؟,4,See,See,teach,13131
+Putting It Together,Describing People & Things,Big یعنی چی؟,4,Big,Big,teach,12086
+Putting It Together,Describing People & Things,Small یعنی چی؟,4,Small,Small,teach,12095
+Putting It Together,Describing People & Things,Beautiful یعنی چی؟,4,Beautiful,Beautiful,teach,12105
+Putting It Together,Describing People & Things,Cheap یعنی چی؟,4,Cheap,Cheap,teach,12115
+Putting It Together,Describing People & Things,Ali: This is {{1}}. This is small. Sara: This is {{2}}! This,4,Ali: This is {{1}}. This is small. Sara: This is {{2}}! This is {{3}}.,,teach,12513
+Putting It Together,Describing People & Things,A: {{3}} {{1}}. B: This is {{2}}!,4,A: {{3}} {{1}}. B: This is {{2}}!,,teach,12808
+Putting It Together,Describing People & Things,A: This is {{1}}. B: This is {{2}}!,4,A: This is {{1}}. B: This is {{2}}!,,teach,12813
+Putting It Together,Describing People & Things,A: This is {{1}}. B: This is {{2}}. {{3}}!,4,A: This is {{1}}. B: This is {{2}}. {{3}}!,,teach,12818
+Putting It Together,Describing People & Things,Good یعنی چی؟,4,Good,Good,teach,12943
+Putting It Together,Describing People & Things,Bad یعنی چی؟,4,Bad,Bad,teach,12953
+Putting It Together,Describing People & Things,Hot یعنی چی؟,4,Hot,Hot,teach,12961
+Putting It Together,Describing People & Things,Cold یعنی چی؟,4,Cold,Cold,teach,12970
+Putting It Together,Public Signs & Announcements,Exit یعنی چی؟,4,Exit,Exit,teach,12125
+Putting It Together,Public Signs & Announcements,Entrance یعنی چی؟,4,Entrance,Entrance,teach,12133
+Putting It Together,Public Signs & Announcements,Caution یعنی چی؟,4,Caution,Caution,teach,12140
+Putting It Together,Public Signs & Announcements,Delayed یعنی چی؟,4,Delayed,Delayed,teach,12146
+Putting It Together,Public Signs & Announcements,Boarding now,4,Boarding now,Boarding now,teach,12156
+Putting It Together,Public Signs & Announcements,"Ali: Excuse me, where is the {{1}}? Sara: Entrance! {{2}}! A",4,"Ali: Excuse me, where is the {{1}}? Sara: Entrance! {{2}}! Ali: Thank you! Boarding now? Sara: Yes, it's {{3}}.",,teach,12518
+Putting It Together,Public Signs & Announcements,A: {{1}}! {{2}}. B: {{3}}.,4,A: {{1}}! {{2}}. B: {{3}}.,,teach,12823
+Putting It Together,Public Signs & Announcements,A: {{1}} {{2}}? B: {{3}}!,4,A: {{1}} {{2}}? B: {{3}}!,,teach,12828
+Putting It Together,Public Signs & Announcements,A: {{1}} {{2}}. B: {{3}}! Exit.,4,A: {{1}} {{2}}. B: {{3}}! Exit.,,teach,12833
+Putting It Together,Public Signs & Announcements,Open یعنی چی؟,4,Open,Open,teach,12979
+Putting It Together,Public Signs & Announcements,Closed یعنی چی؟,4,Closed,Closed,teach,12989
+Putting It Together,Saying Goodbye & Staying in Touch,Take care,4,Take care,Take care,teach,12163
+Putting It Together,Saying Goodbye & Staying in Touch,Keep in touch,4,Keep in touch,Keep in touch,teach,12171
+Putting It Together,Saying Goodbye & Staying in Touch,My email is,4,My email is,My email is,teach,12177
+Putting It Together,Saying Goodbye & Staying in Touch,Thanks for everything یعنی چی؟,4,Thanks for everything,Thanks for everything,teach,12187
+Putting It Together,Saying Goodbye & Staying in Touch,Ali: Thank you! {{1}}. Sara: {{2}}! {{3}}. Ali: My email is ,4,Ali: Thank you! {{1}}. Sara: {{2}}! {{3}}. Ali: My email is this.,,teach,12523
+Putting It Together,Saying Goodbye & Staying in Touch,A: {{1}}! B: {{2}}.,4,A: {{1}}! B: {{2}}.,,teach,12838
+Putting It Together,Saying Goodbye & Staying in Touch,A: {{1}} {{2}}. B: {{3}}!,4,A: {{1}} {{2}}. B: {{3}}!,,teach,12843
