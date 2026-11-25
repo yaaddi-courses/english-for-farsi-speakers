@@ -4,7 +4,7 @@
   "description": "Practical, real-world English for Farsi speakers who want to travel and get by in everyday situations — greetings, airports, hotels, food, shopping, small talk, and handling problems. No grammar drills, no exam prep, just the phrases you'd actually use.",
   "image": "cover.png",
   "file": "english-for-farsi-speakers.zip",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "language": "fa",
   "titleTranslations": {
     "fa": "انگلیسی برای فارسی‌زبان‌ها"
@@ -33,6 +33,11 @@
       "version": "1.5.1",
       "date": "2026-10-09",
       "notes": "Sounds 4, 5, 6 and 7 no longer teach seven words that the main decks already teach (ten, hot, big, bus, this, yes, six); they use pet, hut, bat, hug, chin, yet and fox instead, so no word is taught twice."
+    },
+    {
+      "version": "1.5.2",
+      "date": "2026-11-24",
+      "notes": "Clearer fill-in cards: each blank now has a Persian hint so only one answer fits, plus a few corrected answers."
     }
   ],
   "toc": [
